@@ -99,7 +99,7 @@
                 </Creative>
                 <Creative id="5480" sequence="1">
                     <Linear>
-                        <Duration>00:00:16</Duration>
+                        <Duration>00:00:18</Duration>
                         <TrackingEvents>
                             <Tracking event="start">http://example.com/tracking/start2</Tracking>
                             <Tracking event="firstQuartile">http://example.com/tracking/firstQuartile2</Tracking>
