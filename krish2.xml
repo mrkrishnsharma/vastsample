@@ -11,7 +11,7 @@
 			<Creatives>
 				<Creative>
 					<Linear >
-						<Duration>00:00:15</Duration>
+						<Duration>00:00:13</Duration>
 						<TrackingEvents>
 							<Tracking event="start"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></Tracking>
 							<Tracking event="firstQuartile"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=firstquartile&adId=1]]></Tracking>
