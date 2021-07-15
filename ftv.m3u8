@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:4
 #EXT-X-STREAM-INF:BANDWIDTH=461352,CODECS="avc1.4d4015,mp4a.40.2",RESOLUTION=426x240
-https://fashs043.cloudycdn.services/scte/pg18/pg18_240p_chunklist.m3u8
+https://fashs043.cloudycdn.services/scte/pg18/pg18_720p_chunklist.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=279744,CODECS="avc1.4d400c,mp4a.40.2",RESOLUTION=256x144
 https://fashs043.cloudycdn.services/scte/pg18/pg18_144p_chunklist.m3u8
