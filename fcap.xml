@@ -67,7 +67,7 @@
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=resume]]>
                             </Tracking>
                         </TrackingEvents>
-                        <AdParameters><![CDATA[campaignid=6313,fcapmode=creative,repetitionpolicy=3,repeattime=600,fcapcount=10,fcapwindow=24,position=1,positionpriority=1]]></AdParameters>
+                        <AdParameters><![CDATA[campaignid=6313,fcapmode=creative,repetitionpolicy=3,repeattime=600,fcapcount=10,fcapwindow=24,position=0,positionpriority=2]]></AdParameters>
                         <VideoClicks>
                             <ClickThrough>
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=14__zoneid=11__cb={random}__oadest=https%3A%2F%2Fwww.rtx.com%2F]]>
@@ -148,7 +148,7 @@
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=resume]]>
                             </Tracking>
                         </TrackingEvents>
-                        <AdParameters><![CDATA[campaignid=6313,fcapmode=creative,repetitionpolicy=3,repeattime=600,fcapcount=10,fcapwindow=24,position=1,positionpriority=1]]></AdParameters>
+                        <AdParameters><![CDATA[campaignid=6313,fcapmode=creative,repetitionpolicy=3,repeattime=600,fcapcount=10,fcapwindow=24,position=0,positionpriority=1]]></AdParameters>
                         <VideoClicks>
                             <ClickThrough>
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=15__zoneid=11__cb={random}__oadest=https%3A%2F%2Fcvshealth.com%2F]]>
