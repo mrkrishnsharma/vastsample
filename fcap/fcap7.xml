@@ -11,7 +11,7 @@
                 <![CDATA[30]]>
             </AdTitle>
             <Impression>
-                <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/lg.php?bannerid=14&campaignid=6&zoneid=11&cb={random}]]>
+                <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/lg.php?bannerid=14&adrulesversion=2.1,positionmode=preferred,campaignid=6&zoneid=11&cb={random}]]>
             </Impression>
             <Creatives>
                 <Creative id="1001">
@@ -67,7 +67,7 @@
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=resume]]>
                             </Tracking>
                         </TrackingEvents>
-                        <AdParameters><![CDATA[campaignid=63sd13,fcapmode=creative,repetitionpolicy=3,repeattime=400,fcapcount=2,fcapwindow=3,position=0,positionpriority=4]]></AdParameters>
+                        <AdParameters><![CDATA[adrulesversion=2.1,positionmode=strict,campaignid=63sd13,fcapmode=creative,repetitionpolicy=3,repeattime=400,fcapcount=2,fcapwindow=3,position=1,positionpriority=4]]></AdParameters>
                         <VideoClicks>
                             <ClickThrough>
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=14__zoneid=11__cb={random}__oadest=https%3A%2F%2Fwww.rtx.com%2F]]>
@@ -132,7 +132,7 @@
                 <![CDATA[60]]>
             </AdTitle>
             <Impression>
-                <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/lg.php?bannerid=15&campaignid=6&zoneid=11&cb={random}]]>
+                <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/lg.php?bannerid=15&adrulesversion=2.1,positionmode=preferred,campaignid=6&zoneid=11&cb={random}]]>
             </Impression>
             <Creatives>
                 <Creative id="1002">
@@ -188,7 +188,7 @@
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=resume]]>
                             </Tracking>
                         </TrackingEvents>
-                        <AdParameters><![CDATA[campaignid=63sa13,fcapmode=creative,repetitionpolicy=3,repeattime=400,fcapcount=10,fcapwindow=24,position=0,positionpriority=2]]></AdParameters>
+                        <AdParameters><![CDATA[adrulesversion=2.1,positionmode=preferred,campaignid=63sa13,fcapmode=creative,repetitionpolicy=3,repeattime=400,fcapcount=10,fcapwindow=24,position=0,positionpriority=2]]></AdParameters>
                         <VideoClicks>
                             <ClickThrough>
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=15__zoneid=11__cb={random}__oadest=https%3A%2F%2Fcvshealth.com%2F]]>
@@ -213,7 +213,7 @@
                 <![CDATA[60]]>
             </AdTitle>
             <Impression>
-                <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/lg.php?bannerid=15&campaignid=6&zoneid=11&cb={random}]]>
+                <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/lg.php?bannerid=15&adrulesversion=2.1,positionmode=preferred,campaignid=6&zoneid=11&cb={random}]]>
             </Impression>
             <Creatives>
                 <Creative id="10ddsd02">
@@ -269,7 +269,7 @@
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=resume]]>
                             </Tracking>
                         </TrackingEvents>
-                        <AdParameters><![CDATA[campaignid=63d2313,fcapmode=creative,repetitionpolicy=3,repeattime=400,fcapcount=10,fcapwindow=24,position=0,positionpriority=2]]></AdParameters>
+                        <AdParameters><![CDATA[adrulesversion=2.1,positionmode=preferred,campaignid=63d2313,fcapmode=creative,repetitionpolicy=3,repeattime=400,fcapcount=10,fcapwindow=24,position=0,positionpriority=2]]></AdParameters>
                         <VideoClicks>
                             <ClickThrough>
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=15__zoneid=11__cb={random}__oadest=https%3A%2F%2Fcvshealth.com%2F]]>
@@ -294,7 +294,7 @@
                 <![CDATA[15]]>
             </AdTitle>
             <Impression>
-                <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/lg.php?bannerid=15&campaignid=6&zoneid=11&cb={random}]]>
+                <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/lg.php?bannerid=15&adrulesversion=2.1,positionmode=preferred,campaignid=6&zoneid=11&cb={random}]]>
             </Impression>
             <Creatives>
                 <Creative id="1023303">
@@ -350,7 +350,7 @@
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=resume]]>
                             </Tracking>
                         </TrackingEvents>
-                        <AdParameters><![CDATA[campaignid=63ds13,fcapmode=creative,repetitionpolicy=3,repeattime=400,fcapcount=10,fcapwindow=24,position=1,positionpriority=3]]></AdParameters>
+                        <AdParameters><![CDATA[adrulesversion=2.1,positionmode=preferred,campaignid=63ds13,fcapmode=creative,repetitionpolicy=3,repeattime=400,fcapcount=10,fcapwindow=24,position=1,positionpriority=1]]></AdParameters>
                         <VideoClicks>
                             <ClickThrough>
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=15__zoneid=11__cb={random}__oadest=https%3A%2F%2Fcvshealth.com%2F]]>
@@ -375,7 +375,7 @@
                 <![CDATA[15]]>
             </AdTitle>
             <Impression>
-                <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/lg.php?bannerid=15&campaignid=6&zoneid=11&cb={random}]]>
+                <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/lg.php?bannerid=15&adrulesversion=2.1,positionmode=preferred,campaignid=6&zoneid=11&cb={random}]]>
             </Impression>
             <Creatives>
                 <Creative id="1003">
@@ -431,7 +431,7 @@
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=resume]]>
                             </Tracking>
                         </TrackingEvents>
-                        <AdParameters><![CDATA[campaignid=23232,fcapmode=creative,repetitionpolicy=3,repeattime=400,fcapcount=10,fcapwindow=24,position=1,positionpriority=4]]></AdParameters>
+                        <AdParameters><![CDATA[adrulesversion=2.1,positionmode=preferred,campaignid=23232,fcapmode=creative,repetitionpolicy=3,repeattime=400,fcapcount=10,fcapwindow=24,position=1,positionpriority=0]]></AdParameters>
                         <VideoClicks>
                             <ClickThrough>
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=15__zoneid=11__cb={random}__oadest=https%3A%2F%2Fcvshealth.com%2F]]>
@@ -456,7 +456,7 @@
                 <![CDATA[15]]>
             </AdTitle>
             <Impression>
-                <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/lg.php?bannerid=15&campaignid=6&zoneid=11&cb={random}]]>
+                <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/lg.php?bannerid=15&adrulesversion=2.1,positionmode=preferred,campaignid=6&zoneid=11&cb={random}]]>
             </Impression>
             <Creatives>
                 <Creative id="10sss03">
@@ -512,7 +512,7 @@
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=resume]]>
                             </Tracking>
                         </TrackingEvents>
-                        <AdParameters><![CDATA[campaignid=1122,fcapmode=creative,repetitionpolicy=3,repeattime=400,fcapcount=10,fcapwindow=24,position=0,positionpriority=0]]></AdParameters>
+                        <AdParameters><![CDATA[adrulesversion=2.1,positionmode=preferred,campaignid=1122,fcapmode=creative,repetitionpolicy=3,repeattime=400,fcapcount=10,fcapwindow=24,position=0,positionpriority=0]]></AdParameters>
                         <VideoClicks>
                             <ClickThrough>
                                 <![CDATA[https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=15__zoneid=11__cb={random}__oadest=https%3A%2F%2Fcvshealth.com%2F]]>
