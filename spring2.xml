@@ -193,7 +193,7 @@
                                 <![CDATA[https://vid-io-iad.springserve.com/vd/i?event=js_complete&dtid=972926&a_cc=rs.2407-s.628305-ap.7700-d.972926-sn.2&cb=1660794877682&id=628305&aid=1&d=kxly.com&w=&h=&cc=NP&uuid=f01e1726-574c-42ad-992f-299b5fb109d5&pp=&ip=113.199.226.45&ua=%5Buser.user_agent%5D&ssid=f01e1726-574c-42ad-992f-299b5fb109d5.1660794269608&uuid=73046eae-3f32-433f-b227-a5ce2ffb5035&_rcc=en.57267_bs.57984&ol=0&hc=c986573006247913b6b4085f2cbe6f6f&_pi=525918&_j=]]>
                             </Tracking>
                         </TrackingEvents>
-                        <Duration>00:00:10</Duration>
+                        <Duration>00:00:10</Duration> 
                         <MediaFiles>
                             <MediaFile codec="0" delivery="progressive" height="1080" id="d4ea72e9-994d-400f-b621-d9686e09303b" maintainAspectRatio="true" scalable="true" type="video/mp4" width="1920">
                                 <![CDATA[https://video.revcontent.com/bd651ac8-184f-4e96-9bbc-7a0f0735d25c.mp4]]>
