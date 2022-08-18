@@ -145,11 +145,11 @@
                         </Tracking>
                     </CustomTracking>
                 </Extension>
-                <Extensions type="springserve">
+                <Extension type="springserve">
                     <Krishna1>f7b4a10faa912267f68bb235e9cb310a</krisna1>
                     <SpringServeCreativeId>f7b4a10faa912267f68bb235e9cb310a</SpringServeCreativeId>
                     <Krishna>f7b4a10faa912267f68bb235e9cb310a</krisna>
-                </Extensions>
+                </Extension>
             </Extensions>
         </InLine>
     </Ad>
