@@ -151,4 +151,68 @@
             </Extensions>
         </InLine>
     </Ad>
+    <Ad id="972926-2" sequence="2">
+        <InLine>
+            <AdSystem version="1.1">
+                <![CDATA[revcontent]]>
+            </AdSystem>
+            <Error>
+                <![CDATA[https://lumiere.revcontent.com/error?error_code=[ERRORCODE]&uuid=d4ea72e9-994d-400f-b621-d9686e09303b&widget_id=253498]]>
+            </Error>
+            <Impression id="SpringServe_Impression_1">
+                <![CDATA[https://vid-io-iad.springserve.com/vd/i?event=vast_impression&ip=113.199.226.45&ua=%5Buser.user_agent%5D&ssid=f01e1726-574c-42ad-992f-299b5fb109d5.1660794269608&uuid=73046eae-3f32-433f-b227-a5ce2ffb5035&_rcc=en.57267_bs.57984&d=kxly.com&id=628305&a_cc=rs.2407-s.628305-ap.7700-d.972926-sn.2&cb=73046eae-3f32-433f-b227-a5ce2ffb5035&ssid=f01e1726-574c-42ad-992f-299b5fb109d5.1660794269608&timestamp=1660794877682&aid=1100&hc=c986573006247913b6b4085f2cbe6f6f&_apssf=10&d_m=revcontent.com&_pi=525918&_j=]]>
+            </Impression>
+            <Impression id="Impression-ID">
+                <![CDATA[https://yeet.revcontent.com/yeet/imp?d=H4sIAAAAAAAC_0TRO2gUQRgHcL8587hVMElhYbWEA2Mxy-3OPgOyiakslIDxRZQwuzuXW5Ob2ewDPUHQCOKlsIiFGItg7AI2wSCKTbRTRO4sxFRipxYJHpxBUOROg__i4__Br_tLcLzv11brXvdQbaer-PzFgeHemSuzVcUXlWMFx1KZrlk2piU9wDo1PEx1w8KEmarp26YaaGQJuqKy4GwFlpBUsB3Ttw3LwIZOAqxrZhHTkmdjg2meU2KOWSJO34PfFw7lk0jwRMQskH98bOaGoLh2ZxuGc37kj-w8lc4BLdx6Ux8jdfeSMj5L5zImjyciDmkSJnKYyCdEzOQxUakILk-UKZfPi0yeKId8Jj4cdXy0y8OkImLmd2xaprwqsrQNb8BCq76-ob1za9B81njyfnDSXQQI7sOeTrbdh3_b7bsj84jkycbN6orER_r7lunZa9dzo4MHpTwX6VRJZDwY-F-PrG8tN189brk1NHdU-vAoeuuuQv9klrBYaZ8pOs14enEN9hlFRXUU1TYU8hLQ6VOvofdMGE-HPKQN6BlNyl4W803o0oqq7nyGnKGqXwHwdwD8EwDPI2m0Qq8K3p5rAeXHRByJmKZsEfVI_2ZBurQ_ZnMZS9KpLAuDgUJgsoAZJsG2bXlYp8TAnkN8bDmqpVu6T1Tqr6Luy2EwzdIG2ntScLa5-39C8AWRTr65fwIAAP__5faiJD0CAAA]]>
+            </Impression>
+            <AdTitle>
+                <![CDATA[Plaque Psoriasis is More Common Than You Think]]>
+            </AdTitle>
+            <Creatives>
+                <Creative id="d4ea72e9-994d-400f-b621-d9686e09303b" sequence="1">
+                    <Linear>
+                        <TrackingEvents>
+                            <Tracking event="start">
+                                <![CDATA[https://yeet.revcontent.com/yeet/view?d=H4sIAAAAAAAC_0TRTUgVXxgG8P879-_HnYLURYtWg1zIFucyM2e-jhCjuQsKIcvCQs7MOeOd9J4zzgdlEJRBpIsWtohsIdlOaCNJFG2sXRGhLSJX0a5aKAkmQRH3lvQsXp4XfrtHheGOn5s7d1t7ZnZb9GfPD_S2j1-emKqGsn6swixOXZMTRIjFkKXrEQoc00CMOJ7DdYJ1HByvENfglul6iEYNRe0AUct2EeaO4YSeYzATz0NLUpOCL8K8olY84oSe7drItjBDlunoiEaBh2xuBiTixIkw6bj_6_yhcpZIkcmUM-37h-1SD-jLt7egtxQmYd_uE_Us0MrN12sDeM2_WB2coJMF1wYzmcY0izMtzrQTMuXagKzXpdCGalRo52ShDdViMZ4eTpo-2eNxVpcpD5s2r1ExJYu8Aa_D7M7ayqr51p-B7afrj991j_hzAOwe_NfMlv_gT7t1p29awWW8emNqURV9nR0LdPjqtVJ_90G1LGQ-GslCsK5_9cjK5sL2y0c7_owyeVR9_zB54y9B50iR8bTaOKN0jIv8wjLss_WqQaqGZ1fxC1BOn3oF7WfidCwWMV2Htv6sFhSp2IAWUzcs8glKtmF8AUDfANAPADStqP11ekWKxqizSnlApolMac7nlDb17yyKpe5P-WTBs3y0KGLWVWEOZ9x2MPI8N0AWxTYKCA6RSwzXcq0QGzRcUlovxWyM5-vK_yel4Bt7_0cFPiu4ma_-7wAAAP__LuYwwGMCAAA]]>
+                            </Tracking>
+                            <Tracking event="start">
+                                <![CDATA[https://vid-io-iad.springserve.com/vd/i?event=js_start&dtid=972926&a_cc=rs.2407-s.628305-ap.7700-d.972926-sn.2&cb=1660794877682&id=628305&aid=1&d=kxly.com&w=&h=&cc=NP&uuid=f01e1726-574c-42ad-992f-299b5fb109d5&pp=&ip=113.199.226.45&ua=%5Buser.user_agent%5D&ssid=f01e1726-574c-42ad-992f-299b5fb109d5.1660794269608&uuid=73046eae-3f32-433f-b227-a5ce2ffb5035&_rcc=en.57267_bs.57984&ol=0&hc=c986573006247913b6b4085f2cbe6f6f&_pi=525918&_j=]]>
+                            </Tracking>
+                            <Tracking event="firstQuartile">
+                                <![CDATA[https://vid-io-iad.springserve.com/vd/i?event=js_first_quartile&dtid=972926&a_cc=rs.2407-s.628305-ap.7700-d.972926-sn.2&cb=1660794877682&id=628305&aid=1&d=kxly.com&w=&h=&cc=NP&uuid=f01e1726-574c-42ad-992f-299b5fb109d5&pp=&ip=113.199.226.45&ua=%5Buser.user_agent%5D&ssid=f01e1726-574c-42ad-992f-299b5fb109d5.1660794269608&uuid=73046eae-3f32-433f-b227-a5ce2ffb5035&_rcc=en.57267_bs.57984&ol=0&hc=c986573006247913b6b4085f2cbe6f6f&_pi=525918&_j=]]>
+                            </Tracking>
+                            <Tracking event="midpoint">
+                                <![CDATA[https://vid-io-iad.springserve.com/vd/i?event=js_midpoint&dtid=972926&a_cc=rs.2407-s.628305-ap.7700-d.972926-sn.2&cb=1660794877682&id=628305&aid=1&d=kxly.com&w=&h=&cc=NP&uuid=f01e1726-574c-42ad-992f-299b5fb109d5&pp=&ip=113.199.226.45&ua=%5Buser.user_agent%5D&ssid=f01e1726-574c-42ad-992f-299b5fb109d5.1660794269608&uuid=73046eae-3f32-433f-b227-a5ce2ffb5035&_rcc=en.57267_bs.57984&ol=0&hc=c986573006247913b6b4085f2cbe6f6f&_pi=525918&_j=]]>
+                            </Tracking>
+                            <Tracking event="thirdQuartile">
+                                <![CDATA[https://vid-io-iad.springserve.com/vd/i?event=js_third_quartile&dtid=972926&a_cc=rs.2407-s.628305-ap.7700-d.972926-sn.2&cb=1660794877682&id=628305&aid=1&d=kxly.com&w=&h=&cc=NP&uuid=f01e1726-574c-42ad-992f-299b5fb109d5&pp=&ip=113.199.226.45&ua=%5Buser.user_agent%5D&ssid=f01e1726-574c-42ad-992f-299b5fb109d5.1660794269608&uuid=73046eae-3f32-433f-b227-a5ce2ffb5035&_rcc=en.57267_bs.57984&ol=0&hc=c986573006247913b6b4085f2cbe6f6f&_pi=525918&_j=]]>
+                            </Tracking>
+                            <Tracking event="complete">
+                                <![CDATA[https://vid-io-iad.springserve.com/vd/i?event=js_complete&dtid=972926&a_cc=rs.2407-s.628305-ap.7700-d.972926-sn.2&cb=1660794877682&id=628305&aid=1&d=kxly.com&w=&h=&cc=NP&uuid=f01e1726-574c-42ad-992f-299b5fb109d5&pp=&ip=113.199.226.45&ua=%5Buser.user_agent%5D&ssid=f01e1726-574c-42ad-992f-299b5fb109d5.1660794269608&uuid=73046eae-3f32-433f-b227-a5ce2ffb5035&_rcc=en.57267_bs.57984&ol=0&hc=c986573006247913b6b4085f2cbe6f6f&_pi=525918&_j=]]>
+                            </Tracking>
+                        </TrackingEvents>
+                        <Duration>00:00:10</Duration>
+                        <MediaFiles>
+                            <MediaFile codec="0" delivery="progressive" height="1080" id="d4ea72e9-994d-400f-b621-d9686e09303b" maintainAspectRatio="true" scalable="true" type="video/mp4" width="1920">
+                                <![CDATA[https://video.revcontent.com/bd651ac8-184f-4e96-9bbc-7a0f0735d25c.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                        <VideoClicks>
+                            <ClickThrough id="paid">
+                                <![CDATA[https://smeagol.revcontent.com/v2/H4sIAAAAAAAC_5JidDb4-_7bdDYrFUtzw1QTI3ML3cQ0kxRdk0TTJN1EE1NzXeNUM0OzZAszwxQjYyeVFLPUlFRTM2NdCwvzJF2TRGNT3SRL42Rdc0tDcxNzk2Rjw8RkL_ac0tzM1KLUgM4frBG79vAncWRX5FTqJefnZrEWZOTnpXYxsoQ5BodMYGS8wbip7wPjL0bB6NLi1CI9EBGfmJ6aVxLbxMRtaqBnaKlnaGGqZ9zFxBQavIiJNyO_uCQzL90qOSe_NGUVihJAAAAA__9SKk30zAAAAA/26FdXl90wZgHTvUKaPtBjq24iDVi1sN5bNbUw7-E5it7voRe41i4NlBkLd8MzjaIkjYJW_EEkaq_0kF9KOwlkQlwkU8f5Ludjf2J0tcmk-DG-F4p3ZXJDcvnyoTjJVChketw2giFsdA1gUs2h2jLR9AjorVzquWyHfUWaNg-2E_Kx-sUOHwToBYrT-6hSPjNtUbbVWTkhK9v1rSeIwvnnrPjrzX1t1TMew1NSEM7I3WdDY27yY3kWzmIz2iomTGUJwCQQEloxKB-5zRZevOUsQH1Vr58_Fk7QUiQyWKcv6DCW0DdhQmNbrvXnjexW842LdQmuwd4d4m6zwCIyKWxtV-hLJkR9cbxVWrlUZydNPVV1raGAkNLXJhx2eQAcGz3w5v5jmNFYBkMWjpWe9T8dDW9f7SED-jIF3NocobYprWz/19dd72c7-2e1e-4ad9-b53f-f45484b63408]]>
+                            </ClickThrough>
+                            <ClickTracking>
+                                <![CDATA[https://vid-io-iad.springserve.com/vd/i?event=js_click&dtid=972926&a_cc=rs.2407-s.628305-ap.7700-d.972926-sn.2&cb=1660794877682&id=628305&aid=1&d=kxly.com&w=&h=&cc=NP&uuid=f01e1726-574c-42ad-992f-299b5fb109d5&pp=&ip=113.199.226.45&ua=%5Buser.user_agent%5D&ssid=f01e1726-574c-42ad-992f-299b5fb109d5.1660794269608&uuid=73046eae-3f32-433f-b227-a5ce2ffb5035&_rcc=en.57267_bs.57984&ol=0&hc=c986573006247913b6b4085f2cbe6f6f&_pi=525918&_j=]]>
+                            </ClickTracking>
+                        </VideoClicks>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Extensions>
+                <Extension type="springserve">
+                    <SpringServeCreativeId>c986573006247913b6b4085f2cbe6f6f</SpringServeCreativeId>
+                </Extension>
+            </Extensions>
+        </InLine>
+    </Ad>
 </VAST>
