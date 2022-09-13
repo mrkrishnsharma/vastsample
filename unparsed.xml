@@ -1,0 +1,46 @@
+
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="4.0">
+    <Ad id="CampaignidCreativeSetidDistributorIdId">
+        <InLine>
+            <AdSystem>GDFP</AdSystem>
+            <AdTitle>Interaction | Direct | Planet K | shufersal| Maatefet| September22| Live 18"TV 65 15"14523</AdTitle>
+            <Impression></Impression>
+            <Creatives>
+                <Creative id="14523">
+                    <UniversalAdId idRegistry="googlevideo" idValue="14523">14523
+                    </UniversalAdId>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <VideoClicks>
+                            <ClickThrough>
+                                <![CDATA[ https://ad.doubleclick.net/ddm/trackclk/N9532.4154212IDX-PLANETK/B28464491.345533392;dc_trk_aid=536954745;dc_trk_cid=177450449;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd= ]]>
+                            </ClickThrough>
+                            <ClickTracking>
+                                <![CDATA[  https://tr.dxmcdn.com/rest/api/v1/campaign/9687/statistic/video?creativeId=14523&eventId=7&distributorId=2&eventUniqueIdentifier=[CACHEBUSTING] ]]>
+                            </ClickTracking>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="1500" maxBitrate="5050" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://mkcf.dxmcdn.com/55708227-5b3f-458a-80ae-7c78641617da3U8mVhigh.mp4]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="700" maxBitrate="1000" width="1024" height="576" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://mkcf.dxmcdn.com/55708227-5b3f-458a-80ae-7c78641617da3U8mVmed.mp4]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="250" maxBitrate="500" width="640" height="360" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://mkcf.dxmcdn.com/55708227-5b3f-458a-80ae-7c78641617da3U8mVlow.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                        <TrackingEvents>
+                            <AdParameters>
+                                <![CDATA[ adrulesversion=2.1,campaignid=9687,fcapmode=campaign,repetitionpolicy=2,fcapcount=0,fcapwindow=0,positionmode=preferred,position=1 ]]>
+                            </AdParameters>
+                            <Tracking event="complete">
+                                <![CDATA[ https://tr.dxmcdn.com/rest/api/v1/campaign/9687/statistic/video?creativeId=14523&eventId=7&distributorId=2&eventUniqueIdentifier=[CACHEBUSTING] ]]>
+                            </Tracking>
+                        </TrackingEvents>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
