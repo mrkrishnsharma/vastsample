@@ -32,7 +32,7 @@
                         </MediaFiles>
                         <TrackingEvents>
                             <AdParameters>
-                                <![CDATA[ adrulesversion=2.1,campaignid=9687,fcapmode=campaign,repetitionpolicy=2,fcapcount=0,fcapwindow=0,positionmode=preferred,position=1 ]]>
+                                <![CDATA[adrulesversion=2.1,campaignid=9687,fcapmode=campaign,repetitionpolicy=2,fcapcount=0,fcapwindow=0,positionmode=preferred,position=1]]>
                             </AdParameters>
                             <Tracking event="complete">
                                 <![CDATA[ https://tr.dxmcdn.com/rest/api/v1/campaign/9687/statistic/video?creativeId=14523&eventId=7&distributorId=2&eventUniqueIdentifier=[CACHEBUSTING] ]]>
