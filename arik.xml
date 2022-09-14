@@ -1,0 +1,45 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="4.0">
+    <Ad id="CampaignidCreativeSetidDistributorIdId">
+        <InLine>
+            <AdSystem>GDFP</AdSystem>
+            <AdTitle>Yesh_Atid_|_12+|_SEP_2022_|_11250__NISManhigut_4514698</AdTitle>
+            <Impression></Impression>
+            <Creatives>
+                <Creative id="14698">
+                    <UniversalAdId idRegistry="googlevideo" idValue="14698">14698
+                    </UniversalAdId>
+                    <Linear>
+                        <Duration>00:00:45</Duration>
+                        <VideoClicks>
+                            <ClickThrough>
+                                <![CDATA[https://yeshatid.org.il/manhigut]]>
+                            </ClickThrough>
+                            <ClickTracking>
+                                <![CDATA[https://tr.dxmcdn.com/rest/api/v1/campaign/9808/statistic/video?creativeId=14698&eventId=7&distributorId=2&eventUniqueIdentifier=[CACHEBUSTING]]]>
+                            </ClickTracking>
+                        </VideoClicks>
+                             <AdParameters>
+                                <![CDATA[adrulesversion=2.1,campaignid=9808,fcapmode=campaign,repetitionpolicy=2,fcapcount=0,fcapwindow=0,positionmode=strict,position=1]]>
+                            </AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="1500" maxBitrate="5050" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://mkcf.dxmcdn.com/d2830f32-bdf3-4854-a1d1-2a3569aaf07aOJwZOhigh.mp4]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="700" maxBitrate="1000" width="1024" height="576" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://mkcf.dxmcdn.com/d2830f32-bdf3-4854-a1d1-2a3569aaf07aOJwZOmed.mp4]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="250" maxBitrate="500" width="640" height="360" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://mkcf.dxmcdn.com/d2830f32-bdf3-4854-a1d1-2a3569aaf07aOJwZOlow.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                        <TrackingEvents>
+                            <Tracking event="complete">
+                                <![CDATA[https://tr.dxmcdn.com/rest/api/v1/campaign/9808/statistic/video?creativeId=14698&eventId=7&distributorId=2&eventUniqueIdentifier=[CACHEBUSTING]]]>
+                            </Tracking>
+                        </TrackingEvents>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
