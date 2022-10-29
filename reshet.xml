@@ -1,0 +1,627 @@
+<VAST xmlns:xsi=http://www.w3.org/2001/XMLSchema-instance xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
+
+<Ad id="6141394973" sequence="1">
+
+<InLine>
+
+<AdSystem>GDFP</AdSystem>
+
+<AdTitle>creative-33211-Yesh atid - Last days - Reshet_4b942765-d93b-47eb-8277-ecb503451e2d-*(Yesh atid - video 1)*</AdTitle>
+
+<Description>
+
+<![CDATA[ creative-33211-Yesh atid - Last days - Reshet_4b942765-d93b-47eb-8277-ecb503451e2d-*(Yesh atid - video 1)* ad ]]>
+
+</Description>
+
+<Error>
+
+<![CDATA[ ] ]]>
+
+</Error>
+
+<Impression>
+
+<![CDATA[ https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsupiPR65KopNXeNuVrQTN3fNdFJg4HJTRv07KNOFviQAce-u_QKm-CGCKcZcr3O2OgFkMDIsqvjEh3c8annXGR69S_t82qq1pyqGWvCFk9kpsyBRRr7qJfaNoGwlQ8yVpyMlk-bw70J4uKJ7Q77atHEY3kPtU1BpyVBtNtcP0tpK2uTC0aCJ-7oanHDloVvopUsvI9eYsxrO9Jqz_U_8eAlRK2kTSToEH9QNqqR9gXqWy05oQ7VDOEeW8fJaWaEq_xnoMUGIkTM1DlOEttCX_I_3kOdylkLeO12C6y1UNLGW6Y_5L-Ez6JSBClETtU1b0ox9Yc76JEAP2aY53c7tL-9JDEKPFTdB542RS8k40Wx&sai=AMfl-YTe4ZtREcLQrVj02DwEe1acdPrhdY7twm-kUSNQvjwHbfFW0nGQChRq5qWR_Ao3IH_x_iQbAmn_MhyHu7mXKUZm8RvX51TQmQvNox0su0vvzdd1Rw&sig=Cg0ArKJSzHrTne5urqNVEAE&uach_m=[UACH]&adurl= ]]>
+
+</Impression>
+
+<Creatives>
+
+<Creative id="138409535589" AdID="SC0AXiyDiKU" sequence="1">
+
+<CreativeExtensions>
+
+<CreativeExtension type="UniversalAdId">
+
+<UniversalAdId idRegistry="googlevideo">SC0AXiyDiKU</UniversalAdId>
+
+</CreativeExtension>
+
+</CreativeExtensions>
+
+<Linear skipoffset="00:00:20">
+
+<Duration>00:00:30</Duration>
+
+<TrackingEvents>
+
+<Tracking event="start">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="firstQuartile">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="firstQuartile">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A10185%252C%2522videoevent%2522%253A%25221stquarter%2522%257D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="firstQuartile">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%7B%22blockid%22%3A10185%2C%22videoevent%22%3A%221stquarter%22%7D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="midpoint">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="midpoint">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A10185%252C%2522videoevent%2522%253A%25222ndquarter%2522%257D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="midpoint">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%7B%22blockid%22%3A10185%2C%22videoevent%22%3A%222ndquarter%22%7D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="thirdQuartile">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="thirdQuartile">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A10185%252C%2522videoevent%2522%253A%25223rdquarter%2522%257D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="thirdQuartile">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%7B%22blockid%22%3A10185%2C%22videoevent%22%3A%223rdquarter%22%7D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="complete">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="complete">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A10185%252C%2522videoevent%2522%253A%2522Fullview%2522%257D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="complete">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%7B%22blockid%22%3A10185%2C%22videoevent%22%3A%22Fullview%22%7D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="mute">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="unmute">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="rewind">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="pause">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="resume">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="creativeView">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="fullscreen">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="acceptInvitationLinear">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="closeLinear">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="exitFullscreen">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="skip">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="progress" offset="00:00:20">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="progress" offset="00:00:15">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+</TrackingEvents>
+
+<AdParameters>
+
+<![CDATA[ adrulesversion=2.1,campaignid=10185,fcapmode=campaign,repetitionpolicy=2,fcapcount=2,fcapwindow=0,positionmode=preferred,position=0 ]]>
+
+</AdParameters>
+
+<VideoClicks>
+
+<ClickThrough id="GDFP">
+
+<![CDATA[ ]]>
+
+</ClickThrough>
+
+<ClickTracking id="GDFP">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A10185%252C%2522videoevent%2522%253A%2522click%2522%257D&it=appnexus ]]>
+
+</ClickTracking>
+
+</VideoClicks>
+
+<MediaFiles>
+
+<MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="3117459" scalable="true" maintainAspectRatio="true">
+
+<![CDATA[ https://mkcf.dxmcdn.com/83a248a4-629d-4841-bb32-59b79ff55401nR5OIhigh.mp4 ]]>
+
+</MediaFile>
+
+</MediaFiles>
+
+</Linear>
+
+</Creative>
+
+</Creatives>
+
+<Extensions>
+
+<Extension type="geo">
+
+<Country>IL</Country>
+
+<Bandwidth>4</Bandwidth>
+
+<BandwidthKbps>20000</BandwidthKbps>
+
+</Extension>
+
+<Extension type="pod" sequence="1" max_fallback_attempts="2"/>
+
+<Extension type="DFP">
+
+<SkippableAdType>Generic</SkippableAdType>
+
+</Extension>
+
+<Extension type="metrics">
+
+<FeEventId>qN1bY7TEFpGT-wbhoJuwCw</FeEventId>
+
+<AdEventId>CKnV6peIg_sCFeFD9ggdVP4EMQ</AdEventId>
+
+</Extension>
+
+<Extension type="ShowAdTracking">
+
+<CustomTracking>
+
+<Tracking event="show_ad">
+
+<![CDATA[ https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsvDHb2M3pDt-fFs6Y8JK0190hsfCsRtit2DkIH1ke3xNvPuhp_v3pw6b78JaWXUcRk8T3QjdLlnmPnZLUjbrBSTCVO1I2LwXTWHlx6fdoQP0CVowSXohJ9wReHBxaZPjV6zEBLHJuBrgYj3G0iQ2a3TtZJkZDRakxJsxot6jsU8Sv0_GACspvYjOUTvTpA9eDtHsYyEWkw0lK8w4YIlUMKcFYvMBBNzvozA9s_5-210Q3Ddu4rQ0cXGQ10steLwCRGfYGZ1FWpeXFz9HkBa0WZ5Gv7NCNelXQvl5r5UHxcf1jOxdJvhMZ2clhOfetspLfTxW42W2g&sai=AMfl-YTWflY09VjeT_ybBhDAsu0ijJDq9YwBIrp85v37Xu0BcMe5kfot5VeXiU76KvwgRgsJBv18GKKR3Sr5xzuNAAW82oEoc4xsDVIxc6E12__fiu6V3w&sig=Cg0ArKJSzN6fpppx6ALDEAE&uach_m=[UACH]&adurl= ]]>
+
+</Tracking>
+
+</CustomTracking>
+
+</Extension>
+
+<Extension type="video_ad_loaded">
+
+<CustomTracking>
+
+<Tracking event="loaded">
+
+<![CDATA[ ]]>
+
+</Tracking>
+
+</CustomTracking>
+
+</Extension>
+
+<Extension type="heavy_ad_intervention">
+
+<CustomTracking>
+
+<Tracking event="heavy_ad_intervention_cpu">
+
+<![CDATA[ https://googleads.g.doubleclick.net/pagead/interaction/?ai=B39vcqN1bY6nhF-GH2fcP1PyTiAOG9supRgAAABABINeu0wk4AVjl0OfOgwRg-Zrzg5gQugELNjQweDQ4MF94bWzIAQWYArDbBqkCCUZYmMkakz7AAgLgAgDqAiUvMzY0NzYxMDUvZGVza3RvcC9yZXNoZXQvbGl2ZS9wcmVyb2xs-AL50R6QA4QHmAOEB6gDAeAEAdIFBhCdgLnwFqAGI4gHAZAHAqgHmgaoB_PRG6gHltgbqAeqm7ECqAffn7EC2AcB4AcB0ggSCAAQAhgdMgEAOgef0ICAgIAE2AgCgAoFmAsB0BUB-BYBgBcB&sigh=AhDJtK0iAWM&label=heavy_ad_intervention_cpu ]]>
+
+</Tracking>
+
+<Tracking event="heavy_ad_intervention_network">
+
+<![CDATA[ https://googleads.g.doubleclick.net/pagead/interaction/?ai=B39vcqN1bY6nhF-GH2fcP1PyTiAOG9supRgAAABABINeu0wk4AVjl0OfOgwRg-Zrzg5gQugELNjQweDQ4MF94bWzIAQWYArDbBqkCCUZYmMkakz7AAgLgAgDqAiUvMzY0NzYxMDUvZGVza3RvcC9yZXNoZXQvbGl2ZS9wcmVyb2xs-AL50R6QA4QHmAOEB6gDAeAEAdIFBhCdgLnwFqAGI4gHAZAHAqgHmgaoB_PRG6gHltgbqAeqm7ECqAffn7EC2AcB4AcB0ggSCAAQAhgdMgEAOgef0ICAgIAE2AgCgAoFmAsB0BUB-BYBgBcB&sigh=AhDJtK0iAWM&label=heavy_ad_intervention_network ]]>
+
+</Tracking>
+
+</CustomTracking>
+
+</Extension>
+
+</Extensions>
+
+</InLine>
+
+</Ad>
+
+<Ad id="6140371611" sequence="2">
+
+<InLine>
+
+<AdSystem>GDFP</AdSystem>
+
+<AdTitle>creative-33281-URBANICA - Bumper - Women Oct22_0fbb84f5-8364-45b1-b15e-873baa85599d-*(Boots_6")*</AdTitle>
+
+<Description>
+
+<![CDATA[ creative-33281-URBANICA - Bumper - Women Oct22_0fbb84f5-8364-45b1-b15e-873baa85599d-*(Boots_6")* ad ]]>
+
+</Description>
+
+<Error>
+
+<![CDATA[ ] ]]>
+
+</Error>
+
+<Impression>
+
+<![CDATA[ https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstkCQnzLXCIQpp-1mrGVRB02rJQIRF13t5mZglTO2li1hCgbFksHdcx6pN_brVEoSA-8-Ut6KnRxJhHYQ5-NF2CdyjrlUFeDI6iNJ8PANHh40_z_oAytxxhyhKpOgi42OLqHrybDQftntxoMW8SxBDBV1Ho5K8W3u70fJZ2r2TmnCO4UCSRjbnBI4Msw1SJb0dTRarGtVsKByXnoEFDm26m3dyzhVlXMSdPls4Ocs_JFmkvXQm1jvUngP4-vAznRh32cugfwwz9h1YOMsClK-44UsPW54xWui043rRemqj45e07-iZkXndZ5jPKhllkshjuI9tLyLPn0hy1j5eNQUXA2pkT0sb80dPjPJg&sai=AMfl-YRKolk1UOHvSPn8BpT-M4IK5wPukRMrtYPAIUbcXwhdsf8va-X-awYor_TCiCQiRd_cZ8x7Zs47UqUV80DGZa7TOHWH9uZRbEE7qMsie74hVdcttA&sig=Cg0ArKJSzOQAH633CaJdEAE&uach_m=[UACH]&adurl= ]]>
+
+</Impression>
+
+<Creatives>
+
+<Creative id="138410208832" AdID="KDlxSJ1bRFw" sequence="1">
+
+<CreativeExtensions>
+
+<CreativeExtension type="UniversalAdId">
+
+<UniversalAdId idRegistry="googlevideo">KDlxSJ1bRFw</UniversalAdId>
+
+</CreativeExtension>
+
+</CreativeExtensions>
+
+<Linear>
+
+<Duration>00:00:06</Duration>
+
+<TrackingEvents>
+
+<Tracking event="start">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="firstQuartile">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="firstQuartile">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A10224%252C%2522videoevent%2522%253A%25221stquarter%2522%257D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="firstQuartile">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%7B%22blockid%22%3A10224%2C%22videoevent%22%3A%221stquarter%22%7D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="midpoint">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="midpoint">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A10224%252C%2522videoevent%2522%253A%25222ndquarter%2522%257D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="midpoint">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%7B%22blockid%22%3A10224%2C%22videoevent%22%3A%222ndquarter%22%7D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="thirdQuartile">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="thirdQuartile">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A10224%252C%2522videoevent%2522%253A%25223rdquarter%2522%257D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="thirdQuartile">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%7B%22blockid%22%3A10224%2C%22videoevent%22%3A%223rdquarter%22%7D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="complete">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="complete">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A10224%252C%2522videoevent%2522%253A%2522Fullview%2522%257D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="complete">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%7B%22blockid%22%3A10224%2C%22videoevent%22%3A%22Fullview%22%7D&it=appnexus ]]>
+
+</Tracking>
+
+<Tracking event="mute">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="unmute">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="rewind">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="pause">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="resume">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="creativeView">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="fullscreen">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="acceptInvitationLinear">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="closeLinear">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+<Tracking event="exitFullscreen">
+
+<![CDATA[ ] ]]>
+
+</Tracking>
+
+</TrackingEvents>
+
+<AdParameters>
+
+<![CDATA[ adrulesversion=2.1,campaignid=10224,fcapmode=campaign,repetitionpolicy=2,fcapcount=2,fcapwindow=0,positionmode=preferred,position=0 ]]>
+
+</AdParameters>
+
+<VideoClicks>
+
+<ClickThrough id="GDFP">
+
+<![CDATA[ ]]>
+
+</ClickThrough>
+
+<ClickTracking id="GDFP">
+
+<![CDATA[ https://ib.adnxs.com/getuid?https://api.permutive.com/v2.0/px/track?k=efd364e0-59cb-4b1c-98ac-37848277a8a4&i=$UID&e=VideoEvents&p=%257B%2522blockid%2522%253A10224%252C%2522videoevent%2522%253A%2522click%2522%257D&it=appnexus ]]>
+
+</ClickTracking>
+
+</VideoClicks>
+
+<MediaFiles>
+
+<MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="1589601" scalable="true" maintainAspectRatio="true">
+
+<![CDATA[ https://mkcf.dxmcdn.com/5b425aec-ef16-4fec-8dfe-c2a181d74929S7GJXhigh.mp4 ]]>
+
+</MediaFile>
+
+</MediaFiles>
+
+</Linear>
+
+</Creative>
+
+</Creatives>
+
+<Extensions>
+
+<Extension type="geo">
+
+<Country>IL</Country>
+
+<Bandwidth>4</Bandwidth>
+
+<BandwidthKbps>20000</BandwidthKbps>
+
+</Extension>
+
+<Extension type="pod" sequence="2" max_fallback_attempts="2"/>
+
+<Extension type="metrics">
+
+<FeEventId>qN1bY7TEFpGT-wbhoJuwCw</FeEventId>
+
+<AdEventId>CKnV6peIg_sCFeFD9ggdVP4EMQ</AdEventId>
+
+</Extension>
+
+<Extension type="ShowAdTracking">
+
+<CustomTracking>
+
+<Tracking event="show_ad">
+
+<![CDATA[ https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsuAgbxh1MskMqC8YL7pT7LRcxcat1aNOg9qd_ql6yBVq4eAvVRwsqejPRp_rSpn6_3lCJ0AqAbV__DmaUUkR91cAYQud--BNYlqya1WTGc3Nmxyqt_b1lXDRgq3MSsmkI0O2X4cfzmFAjYVGE0K7I25yVi8b1L6xPqFsd44e4s5MYYJQDV6G9M0-B8WV9Ks0DdqbX7hSqa5S9gT3uEI6uHaUS1ESuC715Pp_43Au-Nl50a1qzOPuLIwfyQGFH_lkmLRB1kZ6jZzP0j0P2vjF2HLcH9-n40TMPkpHlnSrgLgJMP7bddanxek_Qc6bzwEFKJf&sai=AMfl-YSRMZOw_K8ydGzn-BWVWbatNiLIRQtK8jgb-WJVvG_2QYWUi9xBfqj2K5x-r9JIBiOYob4UgOeRBtC_Bu20i1yGK3u0ZSlGnxnBDbpKVAEkB_Cb3Q&sig=Cg0ArKJSzNH3wBZpyVJFEAE&uach_m=[UACH]&adurl= ]]>
+
+</Tracking>
+
+</CustomTracking>
+
+</Extension>
+
+<Extension type="video_ad_loaded">
+
+<CustomTracking>
+
+<Tracking event="loaded">
+
+<![CDATA[ ]]>
+
+</Tracking>
+
+</CustomTracking>
+
+</Extension>
+
+<Extension type="heavy_ad_intervention">
+
+<CustomTracking>
+
+<Tracking event="heavy_ad_intervention_cpu">
+
+<![CDATA[ https://googleads.g.doubleclick.net/pagead/interaction/?ai=BlRlCqN1bY4XOGuGH2fcP1PyTiAOE-fqpRgAAABABINeu0wk4AVjA3JDPgwRg-Zrzg5gQugELNjQweDQ4MF94bWzIAQWpAglGWJjJGpM-wAIC4AIA6gIlLzM2NDc2MTA1L2Rlc2t0b3AvcmVzaGV0L2xpdmUvcHJlcm9sbPgC-dEekAOEB5gDhAeoAwHQBJBO4AQB0gUGEJvF-u8WoAYjiAcBkAcCqAeaBqgH89EbqAeW2BuoB6qbsQKoB9-fsQLYBwHgBwHSCBIIABACGB0yAQA6B5_QgICAgATYCAKACgWYCwHQFQH4FgGAFwE&sigh=V3_dWKRKQdM&label=heavy_ad_intervention_cpu ]]>
+
+</Tracking>
+
+<Tracking event="heavy_ad_intervention_network">
+
+<![CDATA[ https://googleads.g.doubleclick.net/pagead/interaction/?ai=BlRlCqN1bY4XOGuGH2fcP1PyTiAOE-fqpRgAAABABINeu0wk4AVjA3JDPgwRg-Zrzg5gQugELNjQweDQ4MF94bWzIAQWpAglGWJjJGpM-wAIC4AIA6gIlLzM2NDc2MTA1L2Rlc2t0b3AvcmVzaGV0L2xpdmUvcHJlcm9sbPgC-dEekAOEB5gDhAeoAwHQBJBO4AQB0gUGEJvF-u8WoAYjiAcBkAcCqAeaBqgH89EbqAeW2BuoB6qbsQKoB9-fsQLYBwHgBwHSCBIIABACGB0yAQA6B5_QgICAgATYCAKACgWYCwHQFQH4FgGAFwE&sigh=V3_dWKRKQdM&label=heavy_ad_intervention_network ]]>
+
+</Tracking>
+
+</CustomTracking>
+
+</Extension>
+
+</Extensions>
+
+</InLine>
+
+</Ad>
+
+</VAST>
