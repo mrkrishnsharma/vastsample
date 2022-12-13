@@ -1,49 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
- <Ad id="6177180711">
-  <InLine>
-   <AdSystem>GDFP</AdSystem>
-   <AdTitle>6sec</AdTitle>
-   <Description><![CDATA[6sec ad]]></Description>
-   <Error><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></Error>
-   <Impression><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></Impression>
-   <Creatives>
-    <Creative id="138416064266" AdID="wvLy8zcLuJs" sequence="1">
-     <CreativeExtensions><CreativeExtension type="UniversalAdId"><UniversalAdId idRegistry="googlevideo">wvLy8zcLuJs</UniversalAdId></CreativeExtension></CreativeExtensions>
-     <Linear>
-      <Duration>00:00:06</Duration>
-      <TrackingEvents>
-       <Tracking event="start"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></Tracking>
-       <Tracking event="firstQuartile"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></Tracking>
-       <Tracking event="midpoint"><![CDATA[gBwHSCA8IgGEQARgdMgKKAjoCgEDYCAKACgWYCwHQFQH4FgGAFwE&sigh=eY2GjODRnNU&label=videoplaytime50&ad_mt=[AD_MT]]]></Tracking>
-       <Tracking event="thirdQuartile"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></Tracking>
-       <Tracking event="complete"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></Tracking>
-       </TrackingEvents>
-      <VideoClicks>
-       <ClickThrough id="GDFP"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></ClickThrough>
-      </VideoClicks>
-      <MediaFiles>
-       <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="520" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qvri4yk5/format/url/protocol/https/flavorParamIds/487081/sname/2SecClip.mp4]]></MediaFile>
-       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="1433" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qvri4yk5/format/url/protocol/https/flavorParamIds/487071/sname/2SecClip.mp4]]></MediaFile>
-       <MediaFile id="GDFP" delivery="progressive" width="960" height="540" type="video/mp4" bitrate="904" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qvri4yk5/format/url/protocol/https/flavorParamIds/487061/sname/2SecClip.mp4]]></MediaFile>
-       <MediaFile id="GDFP" delivery="progressive" width="854" height="480" type="video/mp4" bitrate="713" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qvri4yk5/format/url/protocol/https/flavorParamIds/487051/sname/2SecClip.mp4]]></MediaFile>
-       <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="520" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qvri4yk5/format/url/protocol/https/flavorParamIds/487041/sname/2SecClip.mp4]]></MediaFile>
-      </MediaFiles>
-     </Linear>
-    </Creative>
-    <Creative id="138416165646" sequence="1">
-     <CompanionAds>
-      <Companion id="138416165646" width="1920" height="1080">
-       <StaticResource creativeType="image/jpeg"><![CDATA[https://pagead2.googlesyndication.com/simgad/7803666348307407259]]></StaticResource>
-       <TrackingEvents>
-        <Tracking event="creativeView"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></Tracking>
-       </TrackingEvents>
-       <CompanionClickThrough><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></CompanionClickThrough>
-      </Companion>
-     </CompanionAds>
-    </Creative>
-   </Creatives>
-   <Extensions><Extension type="waterfall" fallback_index="0"/><Extension type="geo"><Country>NP</Country><Bandwidth>4</Bandwidth><BandwidthKbps>17140</BandwidthKbps></Extension><Extension type="metrics"><FeEventId>EymYY4rCJ5uTmsMP47Wp4A8</FeEventId><AdEventId>CMyCocaI9vsCFXyhZgIdRR0HvA</AdEventId></Extension><Extension type="ShowAdTracking"><CustomTracking><Tracking event="show_ad"><![CDATA[https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjsu2gso7Fzl0ayZE1N2g4pFs1u1YSCitpl_5_LYoHaXr58hICf7pbj280PJ_yvcCq1-d4H9JvR-uXf6TXaSzqbJPD7NBD3S3tejTnW3LC3My3m-avZGTonrSXDRR0WjcVrxpssqqn81c_jc3NRIW8Sufkbep7Dc7XTUkaxahTkTSKYpyjlIA32C972u6h0HAHOQocKMyet5l5kP8jYizxQT_jkqqTsA6-1S6F9wA4kRPMlSyjdUshGcuHBBEJ2r-Aals89rCTooxNr6LdwVQRYRy4DuCr2NBPUerw_uqcsbkl1i1X5snwtI&sai=AMfl-YSQxLWTLZSw1uZfE8wxgtF6Z6KJ9FHuTyswxY4KkhtoFMaiVprX7w2W6thP1nUPS9UNL6tTjZccq1IwGaS5hWS2q7RQ1r3HfmDmLOAT&sig=Cg0ArKJSzDUo2DJxreTGEAE&uach_m=[UACH]&adurl=]]></Tracking></CustomTracking></Extension><Extension type="video_ad_loaded"><CustomTracking><Tracking event="loaded"><![CDATA[https://pubads.g.doubleclick.net/pagead/interaction/?ai=BX62zEymYY4ytKPzCmsMPxbqc4AuXtfytRgAAABABINeu0wk4AViKjvbRgwRgjdyxBboBCzY0MHg0ODBfeG1syAEFqQJwLCLaSpGTPsACAuACAOoCHC8zNjQ3NjEwNS9TcGVjaWFsL3NpZGVieXNpZGX4AoTSHoADAZADqQiYA8gGqAMB4AQB0gUGEKeYwYEXkAYBoAYjqAeaBqgH89EbqAeW2BuoB6qbsQKoB_-esQKoB9-fsQLYBwHgBwHSCA8IgGEQARgdMgKKAjoCgEDYCAKACgWYCwHQFQH4FgGAFwE&sigh=eY2GjODRnNU&label=video_ad_loaded]]></Tracking></CustomTracking></Extension></Extensions>
-  </InLine>
- </Ad>
+    <Ad id="6177180711">
+        <InLine>
+            <AdSystem>GDFP</AdSystem>
+            <AdTitle>6sec</AdTitle>
+            <Description>
+                <![CDATA[6sec ad]]>
+            </Description>
+            <Error>
+                <![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
+            </Error>
+            <Impression>
+                <![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
+            </Impression>
+            <Creatives>
+                <Creative id="138416064266" AdID="wvLy8zcLuJs" sequence="1">
+                    <CreativeExtensions>
+                        <CreativeExtension type="UniversalAdId">
+                            <UniversalAdId idRegistry="googlevideo">wvLy8zcLuJs</UniversalAdId>
+                        </CreativeExtension>
+                    </CreativeExtensions>
+                    <Linear>
+                        <Duration>00:00:06</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+                                <![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
+                            </Tracking>
+                            <Tracking event="firstQuartile">
+                                <![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
+                            </Tracking>
+                            <Tracking event="midpoint">
+                                <![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
+                            </Tracking>
+                            <Tracking event="thirdQuartile">
+                                <![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
+                            </Tracking>
+                            <Tracking event="complete">
+                                <![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
+                            </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough id="GDFP">
+                                <![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
+                            </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="520" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qvri4yk5/format/url/protocol/https/flavorParamIds/487081/sname/2SecClip.mp4]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="1433" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qvri4yk5/format/url/protocol/https/flavorParamIds/487071/sname/2SecClip.mp4]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="960" height="540" type="video/mp4" bitrate="904" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qvri4yk5/format/url/protocol/https/flavorParamIds/487061/sname/2SecClip.mp4]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="854" height="480" type="video/mp4" bitrate="713" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qvri4yk5/format/url/protocol/https/flavorParamIds/487051/sname/2SecClip.mp4]]>
+                            </MediaFile>
+                            <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="520" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://cdnapisec.kaltura.com/p/2748741/sp/274874100/playManifest/entryId/1_qvri4yk5/format/url/protocol/https/flavorParamIds/487041/sname/2SecClip.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+                <Creative id="138416165646" sequence="1">
+                    <CompanionAds>
+                        <Companion id="138416165646" width="1920" height="1080">
+                            <StaticResource creativeType="image/jpeg">
+                                <![CDATA[https://pagead2.googlesyndication.com/simgad/7803666348307407259]]>
+                            </StaticResource>
+                            <TrackingEvents>
+                                <Tracking event="creativeView">
+                                    <![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
+                                </Tracking>
+                            </TrackingEvents>
+                            <CompanionClickThrough>
+                                <![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
+                            </CompanionClickThrough>
+                        </Companion>
+                    </CompanionAds>
+                </Creative>
+            </Creatives>
+            <Extensions>
+                <Extension type="waterfall" fallback_index="0" />
+                <Extension type="geo">
+                    <Country>NP</Country>
+                    <Bandwidth>4</Bandwidth>
+                    <BandwidthKbps>17140</BandwidthKbps>
+                </Extension>
+                <Extension type="metrics">
+                    <FeEventId>EymYY4rCJ5uTmsMP47Wp4A8</FeEventId>
+                    <AdEventId>CMyCocaI9vsCFXyhZgIdRR0HvA</AdEventId>
+                </Extension>
+                <Extension type="ShowAdTracking">
+                    <CustomTracking>
+                        <Tracking event="show_ad">
+                            <![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
+                        </Tracking>
+                    </CustomTracking>
+                </Extension>
+                <Extension type="video_ad_loaded">
+                    <CustomTracking>
+                        <Tracking event="loaded">
+                            <![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
+                        </Tracking>
+                    </CustomTracking>
+                </Extension>
+            </Extensions>
+        </InLine>
+    </Ad>
 </VAST>
