@@ -6,7 +6,7 @@
 			<AdSystem><![CDATA[Reviveadservermod.com]]></AdSystem>
 			<AdTitle><![CDATA[ad 2]]></AdTitle>
 			<Impression>
-				<![CDATA[https://krish.g-mana.net/media/debug/impression?impression=1&adId=1]]>
+				<![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
 			</Impression>
 			<Creatives>
 				<Creative>
