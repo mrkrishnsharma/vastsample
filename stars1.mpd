@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Unified Streaming Platform(version=1.7.32) -->
+<MPD
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="urn:mpeg:dash:schema:mpd:2011"
+  xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
+  type="static"
+  mediaPresentationDuration="PT1M50.248344S"
+  maxSegmentDuration="PT3S"
+  minBufferTime="PT10S"
+  profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264">
+  <Period
+    id="1"
+    duration="PT1M50.248344S">
+    <BaseURL>https://mena-jit-cdn-lb.aws.playco.com/JIT/SPA/cbs/BILLIONSY2016S01E001/343c08099138b418217dc59c1475977a/BILLIONSY2016S01E001TRAILER/BILLIONSY2016S01E001TRAILER.ism/dash/</BaseURL>
+    <AdaptationSet
+      group="1"
+      contentType="audio"
+      lang="en"
+      segmentAlignment="true"
+      audioSamplingRate="44100"
+      mimeType="audio/mp4"
+      codecs="mp4a.40.5"
+      startWithSAP="1">
+      <AudioChannelConfiguration
+        schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011"
+        value="2">
+      </AudioChannelConfiguration>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate
+        timescale="22050"
+        initialization="BILLIONSY2016S01E001TRAILER-$RepresentationID$.dash"
+        media="BILLIONSY2016S01E001TRAILER-$RepresentationID$-$Time$.dash">
+        <SegmentTimeline>
+          <S t="0" d="45056" />
+          <S d="44032" r="13" />
+          <S d="45056" />
+          <S d="44032" r="13" />
+          <S d="45056" />
+          <S d="44032" r="13" />
+          <S d="45056" />
+          <S d="44032" r="8" />
+          <S d="5120" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation
+        id="audio_eng=96000"
+        bandwidth="96000">
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet
+      group="2"
+      contentType="video"
+      par="16:9"
+      minBandwidth="201813"
+      maxBandwidth="4543687"
+      maxWidth="1920"
+      maxHeight="1080"
+      segmentAlignment="true"
+      sar="1:1"
+      frameRate="25"
+      mimeType="video/mp4"
+      startWithSAP="1">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate
+        timescale="25000"
+        initialization="BILLIONSY2016S01E001TRAILER-$RepresentationID$.dash"
+        media="BILLIONSY2016S01E001TRAILER-$RepresentationID$-$Time$.dash">
+        <SegmentTimeline>
+          <S t="0" d="50000" r="54" />
+          <S d="6000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation
+        id="video=201813"
+        bandwidth="201813"
+        width="416"
+        height="234"
+        codecs="avc1.42C01E"
+        scanType="progressive">
+      </Representation>
+      <Representation
+        id="video=402817"
+        bandwidth="402817"
+        width="416"
+        height="234"
+        codecs="avc1.42C01E"
+        scanType="progressive">
+      </Representation>
+      <Representation
+        id="video=605802"
+        bandwidth="605802"
+        width="640"
+        height="360"
+        codecs="avc1.42C01E"
+        scanType="progressive">
+      </Representation>
+      <Representation
+        id="video=807126"
+        bandwidth="807126"
+        width="640"
+        height="360"
+        codecs="avc1.42C01E"
+        scanType="progressive">
+      </Representation>
+      <Representation
+        id="video=1209709"
+        bandwidth="1209709"
+        width="640"
+        height="360"
+        codecs="avc1.42C01E"
+        scanType="progressive">
+      </Representation>
+      <Representation
+        id="video=1611726"
+        bandwidth="1611726"
+        width="1024"
+        height="576"
+        codecs="avc1.4D401F"
+        scanType="progressive">
+      </Representation>
+      <Representation
+        id="video=2521642"
+        bandwidth="2521642"
+        width="1280"
+        height="720"
+        codecs="avc1.4D401F"
+        scanType="progressive">
+      </Representation>
+      <Representation
+        id="video=3529554"
+        bandwidth="3529554"
+        width="1280"
+        height="720"
+        codecs="avc1.640029"
+        scanType="progressive">
+      </Representation>
+      <Representation
+        id="video=4543687"
+        bandwidth="4543687"
+        width="1920"
+        height="1080"
+        codecs="avc1.640029"
+        scanType="progressive">
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>
