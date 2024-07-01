@@ -1,0 +1,1631 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0"
+    xsi:noNamespaceSchemaLocation="vast.xsd">
+    <Ad id="new11">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ NatureExplore10 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/lg.php?bannerid=14&campaignid=6&zoneid=11&cb={random} ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="new1001">
+                    <Linear>
+                        <Duration>00:00:10</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=start ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=firstquartile ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=midpoint ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=thirdquartile ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=complete ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=pause ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=mute ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=fullscreen ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=unmute ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=closeLinear ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=acceptInvitationLinear ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=skip ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=progress ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=exitfullscreen ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=rewind ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=14&zoneid=11&event=resume ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=14__zoneid=11__cb={random}__oadest=https%3A%2F%2Fwww.rtx.com%2F ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[https://cdn.g-mana.online/media/shortAdsVast/NatureExplore10.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new12">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ Müller20 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/lg.php?bannerid=15&campaignid=6&zoneid=11&cb={random} ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="new1002">
+                    <Linear>
+                        <Duration>00:00:20</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=start ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=firstquartile ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=midpoint ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=thirdquartile ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=complete ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=pause ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=mute ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=fullscreen ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=unmute ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=closeLinear ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=acceptInvitationLinear ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=skip ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=progress ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=exitfullscreen ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=rewind ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/fc.php?script=rmvideoAds:rmvastEvent&bannerid=15&zoneid=11&event=resume ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://hub.g-mana.live/mediarouter/a54ecb4b-95cd-4a1f-8382-e6778e252844/rep/campagin_manager/www/delivery/ck.php?oaparams=2__bannerid=15__zoneid=11__cb={random}__oadest=https%3A%2F%2Fcvshealth.com%2F ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/M%C3%BCller20.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new13">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ BuxtonWater20 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="new1001">
+                    <Linear>
+                        <Duration>00:00:20</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <AdParameters><![CDATA[ campaignid=6316,fcapmode=campaign,repetitionpolicy=3,repeattime=600,fcapcount=10,fcapwindow=24,position=0,positionpriority=1,adrulesversion=2 ]]></AdParameters>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/BuxtonWater20.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new14">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ SoFast15 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="new1002">
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[https://cdn.g-mana.online/media/shortAdsVast/SoFast15.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new15">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ GarnierBright20 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="new1001ddd">
+                    <Linear>
+                        <Duration>00:00:20</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <AdParameters><![CDATA[ campaignid=6317,fcapmode=campaign,repetitionpolicy=3,repeattime=600,fcapcount=10,fcapwindow=24,position=0,positionpriority=1,adrulesversion=2 ]]></AdParameters>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/GarnierBright20.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new16">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ ChooseNatural10 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="1002ddasd">
+                    <Linear>
+                        <Duration>00:00:10</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/ChooseNatural10.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new17">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ Richcoco10 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="10adgfhfghsrthrtyhjdfadf01">
+                    <Linear>
+                        <Duration>00:00:10</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <AdParameters><![CDATA[ campaignid=6318,fcapmode=campaign,repetitionpolicy=3,repeattime=600,fcapcount=10,fcapwindow=24,position=1,positionpriority=1,adrulesversion=2 ]]></AdParameters>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/Richcoco10.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new18">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ borger6 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="10asddfdfghftdghghfghasd02">
+                    <Linear>
+                        <Duration>00:00:06</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/borger6.mp4]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new19">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ linkDin15 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="new100sdfsdf1">
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <AdParameters><![CDATA[ campaignid=6319,fcapmode=campaign,repetitionpolicy=3,repeattime=600,fcapcount=10,fcapwindow=24,position=-1,positionpriority=1,adrulesversion=2 ]]></AdParameters>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/linkDib15.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new44420">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ BRoll15 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="1002fghfgh">
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/BRoll15.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new44421">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ CompeedBlister10 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="10asdfaghjdf01">
+                    <Linear>
+                        <Duration>00:00:10</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <AdParameters><![CDATA[ campaignid=6320,fcapmode=campaign,repetitionpolicy=3,repeattime=600,fcapcount=10,fcapwindow=24,position=1,positionpriority=1,adrulesversion=2 ]]></AdParameters>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/CompeedBlister10.mp4]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new22222">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ KidsUs10 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="for_bigger_blazes_creative_id_3124123">
+                    <Linear>
+                        <Duration>00:00:10</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/KidsUs10.mp4]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new22223">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ AirAsia10 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="10adgfhfghsdfadf01">
+                    <Linear>
+                        <Duration>00:00:10</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <AdParameters><![CDATA[ campaignid=6321,fcapmode=campaign,repetitionpolicy=3,repeattime=600,fcapcount=10,fcapwindow=24,position=1,positionpriority=1,adrulesversion=2 ]]></AdParameters>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/AirAsia10.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new33324">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ Nike30 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="10asddfghfghasd02">
+                    <Linear>
+                        <Duration>00:00:30</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/Nike30.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new66625">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ CocaCola20 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="pizza_ad_creative_id_123">
+                    <Linear>
+                        <Duration>00:00:20</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <AdParameters><![CDATA[ campaignid=6322,fcapmode=campaign,repetitionpolicy=3,repeattime=600,fcapcount=10,fcapwindow=24,position=1,positionpriority=1,adrulesversion=2 ]]></AdParameters>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/CocaCola20.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new444426">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ SanJacintoCollege10 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="fashion_ad_creative_id_321">
+                    <Linear>
+                        <Duration>00:00:10</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/SanJacintoCollege10.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new555527">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ Restaurant17 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="10asdfadf01">
+                    <Linear>
+                        <Duration>00:00:17</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <AdParameters><![CDATA[ campaignid=6315,fcapmode=campaign,repetitionpolicy=3,repeattime=600,fcapcount=10,fcapwindow=24,position=1,positionpriority=1,adrulesversion=2 ]]></AdParameters>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/Restaurant17.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new4566628">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ GR10 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="10asdasd02">
+                    <Linear>
+                        <Duration>00:00:10</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/GR10.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new4555529">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ AlbertBartlett10 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="10adgfhfghsrthrtsdfgssdfsdfdfgyhjdfadf01">
+                    <Linear>
+                        <Duration>00:00:10</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/AlbertBartlett10.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="new77730">
+        <InLine>
+            <AdSystem>
+    <![CDATA[ Campaign Manager ]]>
+    </AdSystem>
+            <AdTitle>
+    <![CDATA[ KFC10 ]]>
+    </AdTitle>
+            <Impression>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Impression>
+            <Creatives>
+                <Creative id="10asddfdfdfgdfgghftdghghdrgdfghfghasd02">
+                    <Linear>
+                        <Duration>00:00:10</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="firstQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="midpoint">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="thirdQuartile">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="complete">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="pause">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="mute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="fullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="unmute">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="closeLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="acceptInvitationLinear">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="skip">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="progress">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="exitFullscreen">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="rewind">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                            <Tracking event="resume">
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+    <![CDATA[ https://gmanacdn.s.llnwi.net/gmana-transcode/sample1.txt ]]>
+    </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="400" width="" height=""
+                                type="video/mp4" scalable="true" maintainAspectRatio="true">
+    <![CDATA[ https://cdn.g-mana.online/media/shortAdsVast/KFC10.mp4 ]]>
+    </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
