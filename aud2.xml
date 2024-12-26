@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
+	<Ad id="323wwes1" sequence="1">
+		<InLine>
+			<AdSystem><![CDATA[Reviveadservermod.com]]></AdSystem>
+			<AdTitle><![CDATA[audio ad 30 s]]></AdTitle>
+			<Impression>
+				<![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
+			</Impression>
+			<Creatives>
+				<Creative>
+					<Linear >
+						<Duration>00:00:30</Duration>
+						<TrackingEvents>
+							<Tracking event="start"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></Tracking>
+							<Tracking event="firstQuartile"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=firstquartile&adId=1]]></Tracking>
+							<Tracking event="midpoint"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=midpoint&adId=1]]></Tracking>
+							<Tracking event="thirdQuartile"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=thirdquartile&adId=1]]></Tracking>
+							<Tracking event="complete"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=complete&adId=1]]></Tracking>
+							<Tracking event="pause"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=pause]]></Tracking>
+							<Tracking event="mute"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=mute]]></Tracking>
+							<Tracking event="fullscreen"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=fullscreen]]></Tracking>
+							<Tracking event="unmute"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=unmute]]></Tracking>
+							<Tracking event="closeLinear"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=closeLinear]]></Tracking>
+							<Tracking event="acceptInvitationLinear"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=acceptInvitationLinear]]></Tracking>
+							<Tracking event="skip"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=skip]]></Tracking>
+							<Tracking event="progress"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=progress]]></Tracking>
+							<Tracking event="exitFullscreen"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=exitfullscreen]]></Tracking>
+							<Tracking event="rewind"><![CDATA[https://krish.g-mana.et/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=rewind]]></Tracking>
+							<Tracking event="resume"><![CDATA[https://krish.g-mana.net/media/debug/impression/fc.php?script=rmvideoAds:rmvastEvent&bannerid=10&zoneid=4&event=resume]]></Tracking>
+						</TrackingEvents>
+
+						<MediaFiles>
+							<MediaFile delivery="progressive" bitrate="400" width='640' height='360' type="video/mp4" scalable="true" maintainAspectRatio="true">
+								<![CDATA[https://r3---sn-cvh76nlk.c.2mdn.net/videoplayback/id/607bee678d830667/itag/51/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/ip/0.0.0.0/ipbits/0/expire/3879034768/sparams/ctier,expire,id,ip,ipbits,itag,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms,source,xpc/signature/549EBDE772D10702E25A59485BB59B65CEE10F02.0F0262FB4C9388F2DFF8C570F982AF1F938FF8C3/key/cms1/cms_redirect/yes/met/1735192272,/mh/Ls/mip/2405:acc0:1207:77ac:6977:f7db:a42d:a609/mm/42/mn/sn-cvh76nlk/ms/onc/mt/1735191885/mv/m/mvi/3/pl/50/rms/onc,onc/file/file.m4a]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
