@@ -1,0 +1,40 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="4.0">
+ <Ad id="0">
+  <Wrapper>
+   <AdSystem>GDFP</AdSystem>
+   <VASTAdTagURI><![CDATA[https://mkcf.dxmcdn.com/Campaign27107CreativeSet43234DistributorId2templateId138500799263vast.xml]]></VASTAdTagURI>
+   <Error><![CDATA[https://pubads.g.doubleclick.net/pagead/interaction/?ai=CeC2D45EcaPCnFouJ2fcP_ZrmmQQBAHsQASC5YCgEiAEBkAEAwAECyAEF4AIBqAMBqgRWT9BhgbCpCRhzPZut-m4HEOg5yVdzMuiYKOYUJtJyW2p3VUTyIthQDnkt52ZCIuYUkHbcGXsCZI1n5i7AaZDIZxW5JMxfWyD8y5EVFQQpW_hOIWGyJxa4BAGgBiSoB6LBsQLYBwDSCCkIABACMgEAOhKf0ICAgIAEgMCAgICgqIACoAFIvf3BOljdqa6I35ONA4AMAQ&sigh=Vij6nQrnaJk&label=videoplayfailed[ERRORCODE]]]></Error>
+   <Impression><![CDATA[https://securepubads.g.doubleclick.net/pcs/view?sig=Cg0ArKJSzGRCH5w3gMILEAE&uach_m=%5BUACH%5D&adurl=]]></Impression>
+   <Creatives>
+    <Creative id="138516056241" sequence="1">
+     <Linear>
+      <TrackingEvents>
+       <Tracking event="start"><![CDATA[https://ib.adnxs.com/getuid?https://tr.dxmcdn.com/rest/api/v1/ad-pixel?campaignId=9999&distributorId=2&userId=1_ADVID_&userId=2_DXU_696663bc-1e6f-4f94-9851-c178ff2159c9&userId=3_APNX_$UID&userId=4_PubID1_Wd8619d17d0158ae82e4f55210237a62a226&url=https://www.mako.co.il/mako-vod-live-tv/VOD-6540b8dcb64fd31006.htm]]></Tracking>
+       </TrackingEvents>
+      <VideoClicks>
+       <ClickTracking id="GDFP"><![CDATA[https://event.dxmdp.com/rest/api/v1/events?event=AD_CLICK&blockId=27107&dmpid=696663bc-1e6f-4f94-9851-c178ff2159c9&tid=&tid=696663bc-1e6f-4f94-9851-c178ff2159c9&tid=Wd8619d17d0158ae82e4f55210237a62a226]]></ClickTracking>
+       <ClickTracking id="GDFP"><![CDATA[https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjsu6k5GfLD2QUHBIjjMFhsmi_MGscDs7NGYBFRjk_MLJnjc3iExVQBeY34UydYwHXflo5KbCwXEvtoN6EZ2eyR3U4wBJwsrr8wOrnz7MtwD_n0amTBoD7XuXSEO7v1T4fgPejQ6mXUt_F-eiKlbC8-8aMnMzimWe8b6Lz6YIvHAvZSnpCuF6LvTp4hL1XHQth_-s1e5bKG1XupAL5IBFsLVyfEfXigk&sai=AMfl-YTBIVK_Ep7VeDNHWzXNpcgpD3Uc5tpr7mXHRd6fve-swoli7X9_ZY8JruRaqbjmIv080VaAVhWMtU4zhROKfgRE2PfAKilA2Q-_NKaT5R5wHz3tO5v5ivY4kCFl-d-FmO8_&sig=Cg0ArKJSzDtNDMTeKEYNEAE&fbs_aeid=%5Bgw_fbsaeid%5D&urlfix=1]]></ClickTracking>
+      </VideoClicks>
+      <Icons>
+       <Icon program="GoogleWhyThisAd" width="18" height="18" xPosition="right" yPosition="bottom" altText="Google Why This Ad">
+        <StaticResource creativeType="image/png"><![CDATA[https://imasdk.googleapis.com/formats/wta/help_outline_white_24dp_with_3px_trbl_padding.png?wp=ca-pub-1118922900210512]]></StaticResource>
+        <IconClicks>
+         <IconClickThrough><![CDATA[https://adssettings.google.com/whythisad?source=display&reasons=AdhHJESauPWc44nqbdFPzi_P2y75a4FUdWFaj6HAYxAp2A2dTD_oRs7Tn65rFxGL1e64D4Ye2dz6PfpXuU7KneCslPviXfqIRBHNs57_YKPVcQR5Rgi-wbVCDaA6KeMK1h8N3OoeqK91WJbzGR2agYnR7a3HwjgscfQB8Z-u-Omz9_IqVyukWRtUls1ernQBLeoBuHLBK3PF5RICoXp63qhUOF_hwMcAGO_PzDhr45PeMZlKXEQclAVsa5YznghyIyO9KAXoUSxTO6Ho8XClQAs2pQlm4Hfax8MtEBUt9wHkizlaNbEYfWqswS6pXapUusVzXVaUxNn21mAzv78THNEANRiUTtPweu_EoFVlBno9MZKYGrrnwhqSelvNsMLwp22-ojNrGc23dSUQahYGDKHh40_FPIU3ZSjdWMmejQQ30tgjpc9vxaMiTi_sEEcX3XcJtS1pBYhp0KwoEgDWkE4FTbL_ruIUHdpfHq7hzMdP687qdWc22eglpQfiGXZts-FkkVXWFqOgtV-YAwLjp3Qek2K3iOl7XLi5Lzbmt435zA3byFJLbwfXYG77J51zt3MEYeGkOeB5EPN3_TSbawZXKJ93zAT0J1H7LBucua5asNFD-Vsstb2WEZuYbDv5CW06lLq4jrFc4Fxdw_aVl0NmzWXfb-gkMHuCSaqpVm2HgatfcWzUJ2yPf47djX1BKIPET9wsBlsQeWcPaSDLu00HdqyjuNDYGGzcqkkRcDivJ0u8R3sfh7hh9PiW8fwwJyPxvLb1I0lRhBpHIZVI&opi=122715837]]></IconClickThrough>
+         <IconClickFallbackImages>
+          <IconClickFallbackImage width="640" height="226">
+           <AltText>Why this ad? This ad is based on: * General factors like the app you're using, the time of day, or your approximate location. Make ads you see more useful to you. To view or change ad settings, go to g.co/adsettings.</AltText>
+           <StaticResource creativeType="image/png"><![CDATA[https://imasdk.googleapis.com/formats/wta/contextual_gks.png?wp=ca-pub-1118922900210512]]></StaticResource>
+          </IconClickFallbackImage>
+         </IconClickFallbackImages>
+        </IconClicks>
+       </Icon>
+      </Icons>
+     </Linear>
+    </Creative>
+   </Creatives>
+   <Extensions><Extension type="waterfall" fallback_index="0"/><Extension type="geo"><Country></Country><Bandwidth>0</Bandwidth></Extension><Extension type="metrics"><FeEventId>4pEcaPapMq6D2fcPzpbG2QE</FeEventId><AdEventId></AdEventId></Extension><Extension type="gfp_cookie"><Cookie value="ID=721d3d8a81a95571:T=1734870006:RT=1746702818:S=ALNI_MaLQU-hAjYRIo1Acpjl1FSYDb9zjA" expires="1768566006" path="/" domain="mako.co.il"/></Extension><Extension type="video_ad_loaded"><CustomTracking><Tracking event="loaded"><![CDATA[https://pubads.g.doubleclick.net/pagead/interaction/?ai=CeC2D45EcaPCnFouJ2fcP_ZrmmQQBAHsQASC5YCgEiAEBkAEAwAECyAEF4AIBqAMBqgRWT9BhgbCpCRhzPZut-m4HEOg5yVdzMuiYKOYUJtJyW2p3VUTyIthQDnkt52ZCIuYUkHbcGXsCZI1n5i7AaZDIZxW5JMxfWyD8y5EVFQQpW_hOIWGyJxa4BAGgBiSoB6LBsQLYBwDSCCkIABACMgEAOhKf0ICAgIAEgMCAgICgqIACoAFIvf3BOljdqa6I35ONA4AMAQ&sigh=Vij6nQrnaJk&label=video_ad_loaded]]></Tracking></CustomTracking></Extension><Extension type="esp"><EspLibrary LibraryName="first-id.fr" LibraryUrl=""/><EspLibrary LibraryName="1plusx.com" LibraryUrl=""/><EspLibrary LibraryName="uidapi.com" LibraryUrl=""/><EspLibrary LibraryName="intimatemerger.com" LibraryUrl=""/><EspLibrary LibraryName="yahoo.com" LibraryUrl=""/><EspLibrary LibraryName="loblawmedia.ca" LibraryUrl=""/><EspLibrary LibraryName="amazon.com" LibraryUrl=""/><EspLibrary LibraryName="pubcid.org" LibraryUrl=""/><EspLibrary LibraryName="openx" LibraryUrl=""/><EspLibrary LibraryName="openxtest" LibraryUrl=""/><EspLibrary LibraryName="openx.net" LibraryUrl=""/><EspLibrary LibraryName="33across.com" LibraryUrl=""/><EspLibrary LibraryName="esp.criteo.com" LibraryUrl=""/><EspLibrary LibraryName="liveintent.com" LibraryUrl=""/><EspLibrary LibraryName="liveintent.triplelift.com" LibraryUrl=""/><EspLibrary LibraryName="liveramp.com" LibraryUrl=""/><EspLibrary LibraryName="parrable.com" LibraryUrl=""/><EspLibrary LibraryName="rtbhouse" LibraryUrl=""/><EspLibrary LibraryName="crwdcntrl.net" LibraryUrl=""/><EspLibrary LibraryName="novatiq.com" LibraryUrl=""/><EspLibrary LibraryName="id5-sync.com" LibraryUrl=""/><EspLibrary LibraryName="utiq.com" LibraryUrl=""/><EspLibrary LibraryName="rubiconproject.com" LibraryUrl=""/><EspLibrary LibraryName="liveintent.indexexchange.com" LibraryUrl=""/><EspLibrary LibraryName="audigent.com" LibraryUrl=""/><EspLibrary LibraryName="intentiq.com" LibraryUrl=""/><EspLibrary LibraryName="ceeid.eu" LibraryUrl=""/><EspLibrary LibraryName="epsilon.com" LibraryUrl=""/><EspLibrary LibraryName="euid.eu" LibraryUrl=""/><EspLibrary LibraryName="bidswitch.net" LibraryUrl=""/><EspLibrary LibraryName="pubmatic.com" LibraryUrl=""/><EspLibrary LibraryName="adserver.org" LibraryUrl=""/><EspLibrary LibraryName="justtag.com" LibraryUrl=""/><EspLibrary LibraryName="mygaruID" LibraryUrl=""/></Extension><Extension type="heavy_ad_intervention"><CustomTracking><Tracking event="heavy_ad_intervention_cpu"><![CDATA[https://googleads.g.doubleclick.net/pagead/interaction/?ai=CeC2D45EcaPCnFouJ2fcP_ZrmmQQBAHsQASC5YCgEiAEBkAEAwAECyAEF4AIBqAMBqgRWT9BhgbCpCRhzPZut-m4HEOg5yVdzMuiYKOYUJtJyW2p3VUTyIthQDnkt52ZCIuYUkHbcGXsCZI1n5i7AaZDIZxW5JMxfWyD8y5EVFQQpW_hOIWGyJxa4BAGgBiSoB6LBsQLYBwDSCCkIABACMgEAOhKf0ICAgIAEgMCAgICgqIACoAFIvf3BOljdqa6I35ONA4AMAQ&sigh=Vij6nQrnaJk&label=heavy_ad_intervention_cpu]]></Tracking><Tracking event="heavy_ad_intervention_network"><![CDATA[https://googleads.g.doubleclick.net/pagead/interaction/?ai=CeC2D45EcaPCnFouJ2fcP_ZrmmQQBAHsQASC5YCgEiAEBkAEAwAECyAEF4AIBqAMBqgRWT9BhgbCpCRhzPZut-m4HEOg5yVdzMuiYKOYUJtJyW2p3VUTyIthQDnkt52ZCIuYUkHbcGXsCZI1n5i7AaZDIZxW5JMxfWyD8y5EVFQQpW_hOIWGyJxa4BAGgBiSoB6LBsQLYBwDSCCkIABACMgEAOhKf0ICAgIAEgMCAgICgqIACoAFIvf3BOljdqa6I35ONA4AMAQ&sigh=Vij6nQrnaJk&label=heavy_ad_intervention_network]]></Tracking></CustomTracking></Extension></Extensions>
+  </Wrapper>
+ </Ad>
+</VAST>
