@@ -1,7 +1,7 @@
 <Playlist>
   <Preroll>
     <Ad>
-      <![CDATA[https://pubads.g.doubleclick.net/gampad/ads?slotname=/21730395534/AKC.TV-Live&sz=640x480&ciu_szs=300x250&cust_params=platform%3Dweb&url=https://akc.tv&unviewed_position_start=1&impl=s&env=vp&gdfp_req=1&ad_rule=0&output=xml_vast3&video_url_to_fetch=https://akc.tv&useragent=Mozilla/5.0+(Macintosh%3B+Intel+Mac+OS+X+10_15_7)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/142.0.0.0+Safari/537.36,gzip(gfe)&vad_type=linear&vpos=preroll&pod=1&vrid=1158429&min_ad_duration=0&max_ad_duration=45000&ppos=1&lip=true&sarid=1158429&sf=60000&sfu=ms&smus=0&wta=1&plcmt=1&vpa=auto&vpmute=true&cmsid=2688199&kfa=0&tfcd=0]]>
+      <![CDATA[github.com/mrkrishnsharma/vastsample/blob/main/akc.xml]]>
     </Ad>
   </Preroll>
 </Playlist>
