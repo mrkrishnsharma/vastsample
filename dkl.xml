@@ -1,0 +1,75 @@
+
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="4.0">
+    <Ad id="CampaignidCreativeSetidDistributorIdId">
+        <InLine>
+            <AdSystem>GDFP</AdSystem>
+            <AdTitle>TEST_DKL_22/12/2025_-_FirstHASHMAL_4751518</AdTitle>
+            <Impression></Impression>
+            <Creatives>
+                <Creative id="138541127463">
+                    <UniversalAdId idRegistry="googlevideo" idValue="138541127463">51518
+                    </UniversalAdId>
+                    <Linear>
+                        <Duration>00:00:47.000</Duration>
+                        
+                        <AdParameters>
+                            <![CDATA[adrulesversion=2.1,blocktype=Live All Devices,brandid=2796,campaignid=32127,fcapcount=0,fcapmode=campaign,fcapwindow=0,position=1,positionmode=strict,positionpriority=1,repeattime=0,repetitionpolicy=1]]>
+                        </AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="1500" maxBitrate="5050" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://dynamic.dxmcdn.com/22f04e89-266e-4f3f-8599-5408997bac54-mk-055215-high.mp4]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="700" maxBitrate="1000" width="1024" height="576" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://dynamic.dxmcdn.com/22f04e89-266e-4f3f-8599-5408997bac54-mk-927914-med.mp4]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="250" maxBitrate="500" width="640" height="360" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://dynamic.dxmcdn.com/22f04e89-266e-4f3f-8599-5408997bac54-mk-362074-low.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                        <TrackingEvents>
+                            <Tracking event="complete">
+                                <![CDATA[https://tr.dxmcdn.com/rest/api/v1/ad-metrics?eventId=7&distributorId=2&campaignId=32127&creativeSetId=51518&creativeId=110417]]>
+                            </Tracking>
+                        </TrackingEvents>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+  <Ad id="CampaignidCreativeSetidDistributorIdId">
+        <InLine>
+            <AdSystem>GDFP</AdSystem>
+            <AdTitle>TEST_DKL_22/12/2025_-_SecondPARTNER_4051519</AdTitle>
+            <Impression></Impression>
+            <Creatives>
+                <Creative id="138541127394">
+                    <UniversalAdId idRegistry="googlevideo" idValue="138541127394">51519
+                    </UniversalAdId>
+                    <Linear>
+                        <Duration>00:00:40.000</Duration>
+                        
+                        <AdParameters>
+                            <![CDATA[adrulesversion=2.1,blocktype=Live All Devices,brandid=2796,campaignid=32128,fcapcount=0,fcapmode=campaign,fcapwindow=0,position=2,positionmode=strict,repeattime=0,repetitionpolicy=1]]>
+                        </AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="1500" maxBitrate="5050" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://dynamic.dxmcdn.com/b6ed6cfe-3228-4ef6-8939-f480b6d9efc1-mk-108464-high.mp4]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="700" maxBitrate="1000" width="1024" height="576" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://dynamic.dxmcdn.com/b6ed6cfe-3228-4ef6-8939-f480b6d9efc1-mk-503650-med.mp4]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="250" maxBitrate="500" width="640" height="360" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://dynamic.dxmcdn.com/b6ed6cfe-3228-4ef6-8939-f480b6d9efc1-mk-872346-low.mp4]]>
+                            </MediaFile>
+                        </MediaFiles>
+                        <TrackingEvents>
+                            <Tracking event="complete">
+                                <![CDATA[https://tr.dxmcdn.com/rest/api/v1/ad-metrics?eventId=7&distributorId=2&campaignId=32128&creativeSetId=51519&creativeId=110418]]>
+                            </Tracking>
+                        </TrackingEvents>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
