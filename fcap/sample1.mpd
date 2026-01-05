@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MPD xmlns:ns2="urn:mpeg:cenc:2013" xmlns:dashif="https://dashif.org/CPS" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="2026-01-04T06:43:52Z" publishTime="2026-01-04T19:54:53Z" minimumUpdatePeriod="PT2S" minBufferTime="PT4S" timeShiftBufferDepth="PT1M" suggestedPresentationDelay="PT30S" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011">
+  <Period id="period_4261130370" start="PT13H9M5.893S" duration="PT2M0.034S">
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="90000">
+      <Event duration="10803060" presentationTime="4261130370" id="236">
+        <Signal xmlns="http://www.scte.org/schemas/35/2016">
+          <Binary>
+					/DAsAAAAAAAAAP/wBQb/hwrHLgAWAhRDVUVJAAAA7H//AACk13QAACIAAG43pqg=
+				</Binary>
+        </Signal>
+      </Event>
+      <Event duration="0" presentationTime="4271932440" id="237">
+        <Signal xmlns="http://www.scte.org/schemas/35/2016">
+          <Binary>
+					/DAnAAAAAAAAAP/wBQb/h6+ZtwARAg9DVUVJAAAA7X+/AAAjAAAcu41H
+				</Binary>
+        </Signal>
+      </Event>
+    </EventStream>
+    <AdaptationSet frameRate="25/1" mimeType="video/mp4" id="0" par="16:9" maxWidth="1920" maxHeight="1080" segmentAlignment="true">
+      <Representation width="1920" height="1080" sar="1:1" codecs="avc1.4d401f" id="0" bandwidth="5200000">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" ns2:default_KID="01b32ee1-f0e8-4384-9486-4b26294ac33d" />
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <ns2:pssh>AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQAbMu4fDoQ4SUhksmKUrDPSIhdmlkYWEtMDQ4YS00YTFkLTllN2UtZTc5ZGFmNTAxNzI4</ns2:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="90000" presentationTimeOffset="4261130370" media="V_video_10801920_p_0/$Time$.m4s" initialization="V_video_10801920_p_0/init.m4s">
+          <SegmentTimeline>
+            <S t="4266000000" d="180000" />
+            <S t="4266180000" d="180000" />
+            <S t="4266360000" d="180000" />
+            <S t="4266540000" d="180000" />
+            <S t="4266720000" d="180000" />
+            <S t="4266900000" d="180000" />
+            <S t="4267080000" d="180000" />
+            <S t="4267260000" d="180000" />
+            <S t="4267440000" d="180000" />
+            <S t="4267620000" d="180000" />
+            <S t="4267800000" d="180000" />
+            <S t="4267980000" d="180000" />
+            <S t="4268160000" d="180000" />
+            <S t="4268340000" d="180000" />
+            <S t="4268520000" d="180000" />
+            <S t="4268700000" d="180000" />
+            <S t="4268880000" d="180000" />
+            <S t="4269060000" d="180000" />
+            <S t="4269240000" d="180000" />
+            <S t="4269420000" d="180000" />
+            <S t="4269600000" d="180000" />
+            <S t="4269780000" d="180000" />
+            <S t="4269960000" d="180000" />
+            <S t="4270140000" d="180000" />
+            <S t="4270320000" d="180000" />
+            <S t="4270500000" d="180000" />
+            <S t="4270680000" d="180000" />
+            <S t="4270860000" d="180000" />
+            <S t="4271040000" d="180000" />
+            <S t="4271220000" d="180000" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation width="1280" height="720" sar="1:1" codecs="avc1.4d401f" id="1" bandwidth="2700000">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" ns2:default_KID="01b32ee1-f0e8-4384-9486-4b26294ac33d" />
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <ns2:pssh>AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQAbMu4fDoQ4SUhksmKUrDPSIhdmlkYWEtMDQ4YS00YTFkLTllN2UtZTc5ZGFmNTAxNzI4</ns2:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="90000" presentationTimeOffset="4261130370" media="V_video_7201280_p_0/$Time$.m4s" initialization="V_video_7201280_p_0/init.m4s">
+          <SegmentTimeline>
+            <S t="4266000000" d="180000" />
+            <S t="4266180000" d="180000" />
+            <S t="4266360000" d="180000" />
+            <S t="4266540000" d="180000" />
+            <S t="4266720000" d="180000" />
+            <S t="4266900000" d="180000" />
+            <S t="4267080000" d="180000" />
+            <S t="4267260000" d="180000" />
+            <S t="4267440000" d="180000" />
+            <S t="4267620000" d="180000" />
+            <S t="4267800000" d="180000" />
+            <S t="4267980000" d="180000" />
+            <S t="4268160000" d="180000" />
+            <S t="4268340000" d="180000" />
+            <S t="4268520000" d="180000" />
+            <S t="4268700000" d="180000" />
+            <S t="4268880000" d="180000" />
+            <S t="4269060000" d="180000" />
+            <S t="4269240000" d="180000" />
+            <S t="4269420000" d="180000" />
+            <S t="4269600000" d="180000" />
+            <S t="4269780000" d="180000" />
+            <S t="4269960000" d="180000" />
+            <S t="4270140000" d="180000" />
+            <S t="4270320000" d="180000" />
+            <S t="4270500000" d="180000" />
+            <S t="4270680000" d="180000" />
+            <S t="4270860000" d="180000" />
+            <S t="4271040000" d="180000" />
+            <S t="4271220000" d="180000" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation width="1024" height="576" sar="1:1" codecs="avc1.4d401f" id="2" bandwidth="1100000">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" ns2:default_KID="01b32ee1-f0e8-4384-9486-4b26294ac33d" />
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <ns2:pssh>AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQAbMu4fDoQ4SUhksmKUrDPSIhdmlkYWEtMDQ4YS00YTFkLTllN2UtZTc5ZGFmNTAxNzI4</ns2:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="90000" presentationTimeOffset="4261130370" media="V_video_5761024_p_0/$Time$.m4s" initialization="V_video_5761024_p_0/init.m4s">
+          <SegmentTimeline>
+            <S t="4266000000" d="180000" />
+            <S t="4266180000" d="180000" />
+            <S t="4266360000" d="180000" />
+            <S t="4266540000" d="180000" />
+            <S t="4266720000" d="180000" />
+            <S t="4266900000" d="180000" />
+            <S t="4267080000" d="180000" />
+            <S t="4267260000" d="180000" />
+            <S t="4267440000" d="180000" />
+            <S t="4267620000" d="180000" />
+            <S t="4267800000" d="180000" />
+            <S t="4267980000" d="180000" />
+            <S t="4268160000" d="180000" />
+            <S t="4268340000" d="180000" />
+            <S t="4268520000" d="180000" />
+            <S t="4268700000" d="180000" />
+            <S t="4268880000" d="180000" />
+            <S t="4269060000" d="180000" />
+            <S t="4269240000" d="180000" />
+            <S t="4269420000" d="180000" />
+            <S t="4269600000" d="180000" />
+            <S t="4269780000" d="180000" />
+            <S t="4269960000" d="180000" />
+            <S t="4270140000" d="180000" />
+            <S t="4270320000" d="180000" />
+            <S t="4270500000" d="180000" />
+            <S t="4270680000" d="180000" />
+            <S t="4270860000" d="180000" />
+            <S t="4271040000" d="180000" />
+            <S t="4271220000" d="180000" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation width="640" height="360" sar="1:1" codecs="avc1.4d401f" id="3" bandwidth="600000">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" ns2:default_KID="01b32ee1-f0e8-4384-9486-4b26294ac33d" />
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <ns2:pssh>AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQAbMu4fDoQ4SUhksmKUrDPSIhdmlkYWEtMDQ4YS00YTFkLTllN2UtZTc5ZGFmNTAxNzI4</ns2:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="90000" presentationTimeOffset="4261130370" media="V_video_360640_p_0/$Time$.m4s" initialization="V_video_360640_p_0/init.m4s">
+          <SegmentTimeline>
+            <S t="4266000000" d="180000" />
+            <S t="4266180000" d="180000" />
+            <S t="4266360000" d="180000" />
+            <S t="4266540000" d="180000" />
+            <S t="4266720000" d="180000" />
+            <S t="4266900000" d="180000" />
+            <S t="4267080000" d="180000" />
+            <S t="4267260000" d="180000" />
+            <S t="4267440000" d="180000" />
+            <S t="4267620000" d="180000" />
+            <S t="4267800000" d="180000" />
+            <S t="4267980000" d="180000" />
+            <S t="4268160000" d="180000" />
+            <S t="4268340000" d="180000" />
+            <S t="4268520000" d="180000" />
+            <S t="4268700000" d="180000" />
+            <S t="4268880000" d="180000" />
+            <S t="4269060000" d="180000" />
+            <S t="4269240000" d="180000" />
+            <S t="4269420000" d="180000" />
+            <S t="4269600000" d="180000" />
+            <S t="4269780000" d="180000" />
+            <S t="4269960000" d="180000" />
+            <S t="4270140000" d="180000" />
+            <S t="4270320000" d="180000" />
+            <S t="4270500000" d="180000" />
+            <S t="4270680000" d="180000" />
+            <S t="4270860000" d="180000" />
+            <S t="4271040000" d="180000" />
+            <S t="4271220000" d="180000" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation width="384" height="216" sar="1:1" codecs="avc1.4d401f" id="4" bandwidth="300000">
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" ns2:default_KID="01b32ee1-f0e8-4384-9486-4b26294ac33d" />
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <ns2:pssh>AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQAbMu4fDoQ4SUhksmKUrDPSIhdmlkYWEtMDQ4YS00YTFkLTllN2UtZTc5ZGFmNTAxNzI4</ns2:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="90000" presentationTimeOffset="4261130370" media="V_video_216384_p_0/$Time$.m4s" initialization="V_video_216384_p_0/init.m4s">
+          <SegmentTimeline>
+            <S t="4266000000" d="180000" />
+            <S t="4266180000" d="180000" />
+            <S t="4266360000" d="180000" />
+            <S t="4266540000" d="180000" />
+            <S t="4266720000" d="180000" />
+            <S t="4266900000" d="180000" />
+            <S t="4267080000" d="180000" />
+            <S t="4267260000" d="180000" />
+            <S t="4267440000" d="180000" />
+            <S t="4267620000" d="180000" />
+            <S t="4267800000" d="180000" />
+            <S t="4267980000" d="180000" />
+            <S t="4268160000" d="180000" />
+            <S t="4268340000" d="180000" />
+            <S t="4268520000" d="180000" />
+            <S t="4268700000" d="180000" />
+            <S t="4268880000" d="180000" />
+            <S t="4269060000" d="180000" />
+            <S t="4269240000" d="180000" />
+            <S t="4269420000" d="180000" />
+            <S t="4269600000" d="180000" />
+            <S t="4269780000" d="180000" />
+            <S t="4269960000" d="180000" />
+            <S t="4270140000" d="180000" />
+            <S t="4270320000" d="180000" />
+            <S t="4270500000" d="180000" />
+            <S t="4270680000" d="180000" />
+            <S t="4270860000" d="180000" />
+            <S t="4271040000" d="180000" />
+            <S t="4271220000" d="180000" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet mimeType="audio/mp4" id="1" lang="en" maxHeight="0" segmentAlignment="true">
+      <Representation audioSamplingRate="48000" codecs="mp4a.40.2" id="5" bandwidth="128000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+        <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" ns2:default_KID="01b32ee1-f0e8-4384-9486-4b26294ac33d" />
+        <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+          <ns2:pssh>AAAAV3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADcIARIQAbMu4fDoQ4SUhksmKUrDPSIhdmlkYWEtMDQ4YS00YTFkLTllN2UtZTc5ZGFmNTAxNzI4</ns2:pssh>
+        </ContentProtection>
+        <SegmentTemplate timescale="90000" presentationTimeOffset="4261130370" media="A_audio_1000028131_128_en/$Time$.m4s" initialization="A_audio_1000028131_128_en/init.m4s">
+          <SegmentTimeline>
+            <S t="4266000000" d="180000" />
+            <S t="4266180000" d="180000" />
+            <S t="4266360000" d="180000" />
+            <S t="4266540000" d="180000" />
+            <S t="4266720000" d="180000" />
+            <S t="4266900000" d="180000" />
+            <S t="4267080000" d="180000" />
+            <S t="4267260000" d="180000" />
+            <S t="4267440000" d="180000" />
+            <S t="4267620000" d="180000" />
+            <S t="4267800000" d="180000" />
+            <S t="4267980000" d="180000" />
+            <S t="4268160000" d="180000" />
+            <S t="4268340000" d="180000" />
+            <S t="4268520000" d="180000" />
+            <S t="4268700000" d="180000" />
+            <S t="4268880000" d="180000" />
+            <S t="4269060000" d="180000" />
+            <S t="4269240000" d="180000" />
+            <S t="4269420000" d="180000" />
+            <S t="4269600000" d="180000" />
+            <S t="4269780000" d="180000" />
+            <S t="4269960000" d="180000" />
+            <S t="4270140000" d="180000" />
+            <S t="4270320000" d="180000" />
+            <S t="4270500000" d="180000" />
+            <S t="4270680000" d="180000" />
+            <S t="4270860000" d="180000" />
+            <S t="4271040000" d="180000" />
+            <S t="4271220000" d="180000" />
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>
