@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <MPD xmlns="urn:mpeg:dash:schema:mpd:2011" type="dynamic" profiles="urn:mpeg:dash:profile:isoff-live:2011" availabilityStartTime="2024-01-26T00:00:00Z" publishTime="2026-02-22T15:20:25+00:00" minimumUpdatePeriod="PT2S" minBufferTime="PT4S" timeShiftBufferDepth="PT5M" suggestedPresentationDelay="PT24S" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd">
+        <Period id="65546121" start="P758DT15H15M21.58S" duration="PT1M12S">
+            <BaseURL>../../oficios_perdidos/aa3ba316-2163-8408-d1d4-e922667ce459/DASH_GOP2S4_CLEAR_PREMIUM/20251107.003341.227017/</BaseURL>
+            <AssetIdentifier schemeIdUri="urn:org:tvup:2023" value="md:cid:EIDR:1704a1f797644550884c03aa533e14b9"/>
+            <AdaptationSet frameRate="12800/512" id="0" contentType="video" par="16:9" maxWidth="1920" maxHeight="1080" segmentAlignment="true">
+                <Representation width="640" height="360" sar="3935:3932" mimeType="video/mp4" codecs="avc1.64001e" id="0" bandwidth="1113182">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="12288000" media="video3_$Time$_r0s.m4s" initialization="video3_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="12339200" d="51200" r="16"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+                <Representation width="854" height="480" sar="1735:1733" mimeType="video/mp4" codecs="avc1.64001e" id="1" bandwidth="2209370">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="12288000" media="video2_$Time$_r0s.m4s" initialization="video2_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="12339200" d="51200" r="16"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+                <Representation width="1280" height="720" sar="3935:3932" mimeType="video/mp4" codecs="avc1.64001f" id="2" bandwidth="3373910">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="12288000" media="video1_$Time$_r0s.m4s" initialization="video1_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="12339200" d="51200" r="16"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+                <Representation width="426" height="240" sar="1291:1288" mimeType="video/mp4" codecs="avc1.640015" id="3" bandwidth="596836">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="12288000" media="video4_$Time$_r0s.m4s" initialization="video4_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="12339200" d="51200" r="16"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+                <Representation width="1920" height="1080" sar="3935:3932" mimeType="video/mp4" codecs="avc1.640028" id="4" bandwidth="6194606">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="12288000" media="video0_$Time$_r0s.m4s" initialization="video0_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="12339200" d="51200" r="16"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+            </AdaptationSet>
+            <AdaptationSet id="1" lang="en" contentType="audio" segmentAlignment="true">
+                <Representation audioSamplingRate="96000" mimeType="audio/mp4" codecs="mp4a.40.2" id="5" bandwidth="266612">
+                    <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+                    <SegmentTemplate timescale="96000" presentationTimeOffset="92160000" media="audio1_$Time$_r0s.m4s" initialization="audio1_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="92544000" d="384000" r="16"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+            </AdaptationSet>
+        </Period>
+        <Period id="65546193" start="P758DT15H16M33.58S" duration="PT3M">
+            <BaseURL>../../oficios_perdidos/FAST-oficios_perdidos-Evbuclereloj5minsgop1mp4/DASH_GOP2S4_CLEAR_PREMIUM/20251107.001658.285125/</BaseURL>
+            <AssetIdentifier schemeIdUri="urn:org:tvup:2023" value="md:cid:EIDR:545eabfba72c422883a0f9992c6937e2"/>
+            <EventStream schemeIdUri="urn:scte:scte35:2013:xml+bin" value="scte35" timescale="12800">
+                <Event presentationTime="0" duration="2304000" id="2913545547">
+                    
+                    
+                    <Signal>
+                        <Binary>/DAhAAAAAAAAAP/wEAWtqS1Lf+d//gD3MUAAAAAAAAAp64+t</Binary>
+                    </Signal>
+                </Event>
+            </EventStream>
+            <AdaptationSet frameRate="12800/512" id="0" contentType="video" par="16:9" maxWidth="1920" maxHeight="1080" segmentAlignment="true">
+                <Representation width="854" height="480" sar="1:1" mimeType="video/mp4" codecs="avc1.64001e" id="0" bandwidth="2168582">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="1536000" media="video2_$Time$_r0s.m4s" initialization="video2_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="1536000" d="51200" r="44"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+                <Representation width="640" height="360" sar="1:1" mimeType="video/mp4" codecs="avc1.64001e" id="1" bandwidth="1134566">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="1536000" media="video3_$Time$_r0s.m4s" initialization="video3_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="1536000" d="51200" r="44"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+                <Representation width="426" height="240" sar="1:1" mimeType="video/mp4" codecs="avc1.640015" id="2" bandwidth="643366">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="1536000" media="video4_$Time$_r0s.m4s" initialization="video4_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="1536000" d="51200" r="44"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+                <Representation width="1280" height="720" sar="1:1" mimeType="video/mp4" codecs="avc1.64001f" id="3" bandwidth="3193208">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="1536000" media="video1_$Time$_r0s.m4s" initialization="video1_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="1536000" d="51200" r="44"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+                <Representation width="1920" height="1080" sar="1:1" mimeType="video/mp4" codecs="avc1.640028" id="4" bandwidth="5673604">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="1536000" media="video0_$Time$_r0s.m4s" initialization="video0_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="1536000" d="51200" r="44"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+            </AdaptationSet>
+            <AdaptationSet id="1" lang="en" contentType="audio" segmentAlignment="true">
+                <Representation audioSamplingRate="96000" mimeType="audio/mp4" codecs="mp4a.40.2" id="5" bandwidth="265766">
+                    <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+                    <SegmentTemplate timescale="96000" presentationTimeOffset="11520000" media="audio1_$Time$_r0s.m4s" initialization="audio1_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="11520000" d="384000" r="44"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+            </AdaptationSet>
+        </Period>
+        <Period id="65546373" start="P758DT15H19M33.58S">
+            <BaseURL>../../oficios_perdidos/aa3ba316-2163-8408-d1d4-e922667ce459/DASH_GOP2S4_CLEAR_PREMIUM/20251107.003341.227017/</BaseURL>
+            <AssetIdentifier schemeIdUri="urn:org:tvup:2023" value="md:cid:EIDR:1704a1f797644550884c03aa533e14b9"/>
+            <AdaptationSet frameRate="12800/512" id="0" contentType="video" par="16:9" maxWidth="1920" maxHeight="1080" segmentAlignment="true">
+                <Representation width="640" height="360" sar="3935:3932" mimeType="video/mp4" codecs="avc1.64001e" id="0" bandwidth="1113182">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="13209600" media="video3_$Time$_r0s.m4s" initialization="video3_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="13209600" d="51200" r="12"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+                <Representation width="854" height="480" sar="1735:1733" mimeType="video/mp4" codecs="avc1.64001e" id="1" bandwidth="2209370">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="13209600" media="video2_$Time$_r0s.m4s" initialization="video2_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="13209600" d="51200" r="12"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+                <Representation width="1280" height="720" sar="3935:3932" mimeType="video/mp4" codecs="avc1.64001f" id="2" bandwidth="3373910">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="13209600" media="video1_$Time$_r0s.m4s" initialization="video1_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="13209600" d="51200" r="12"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+                <Representation width="426" height="240" sar="1291:1288" mimeType="video/mp4" codecs="avc1.640015" id="3" bandwidth="596836">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="13209600" media="video4_$Time$_r0s.m4s" initialization="video4_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="13209600" d="51200" r="12"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+                <Representation width="1920" height="1080" sar="3935:3932" mimeType="video/mp4" codecs="avc1.640028" id="4" bandwidth="6194606">
+                    <SegmentTemplate timescale="12800" presentationTimeOffset="13209600" media="video0_$Time$_r0s.m4s" initialization="video0_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="13209600" d="51200" r="12"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+            </AdaptationSet>
+            <AdaptationSet id="1" lang="en" contentType="audio" segmentAlignment="true">
+                <Representation audioSamplingRate="96000" mimeType="audio/mp4" codecs="mp4a.40.2" id="5" bandwidth="266612">
+                    <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+                    <SegmentTemplate timescale="96000" presentationTimeOffset="99072000" media="audio1_$Time$_r0s.m4s" initialization="audio1_init_r0s.m4s">
+                        <SegmentTimeline>
+                            <S t="99072000" d="384000" r="12"/>
+                        </SegmentTimeline>
+                    </SegmentTemplate>
+                </Representation>
+            </AdaptationSet>
+        </Period>
+    </MPD>
