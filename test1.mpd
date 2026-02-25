@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="static" mediaPresentationDuration="PT3M0.303S" minBufferTime="PT10S" maxSegmentDuration="PT8S">
+  <Period id="0" start="PT0.0S">
+    <AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1920" maxHeight="1080" par="16:9" lang="und">
+      <Representation id="0" mimeType="video/mp4" codecs="avc1.64001f" bandwidth="1000000" width="1024" height="576" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/f1cbbc64-4c6d-4b05-9f74-d4c78b33a99b/100/preroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-930ba119-6c23-4909-9574-a797834efb26--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/8b7476a6-0-init$RepresentationID$.m4s" media="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/f1cbbc64-4c6d-4b05-9f74-d4c78b33a99b/100/preroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-930ba119-6c23-4909-9574-a797834efb26--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/8b7476a6-0-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="51200" r="1"></S>
+            <S d="26624"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="1" mimeType="video/mp4" codecs="avc1.64001f" bandwidth="2000000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/f1cbbc64-4c6d-4b05-9f74-d4c78b33a99b/100/preroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-930ba119-6c23-4909-9574-a797834efb26--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/8b7476a6-0-init$RepresentationID$.m4s" media="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/f1cbbc64-4c6d-4b05-9f74-d4c78b33a99b/100/preroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-930ba119-6c23-4909-9574-a797834efb26--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/8b7476a6-0-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="51200" r="1"></S>
+            <S d="26624"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="2" mimeType="video/mp4" codecs="avc1.640028" bandwidth="5499000" width="1920" height="1080" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/f1cbbc64-4c6d-4b05-9f74-d4c78b33a99b/100/preroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-930ba119-6c23-4909-9574-a797834efb26--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/8b7476a6-0-init$RepresentationID$.m4s" media="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/f1cbbc64-4c6d-4b05-9f74-d4c78b33a99b/100/preroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-930ba119-6c23-4909-9574-a797834efb26--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/8b7476a6-0-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="51200" r="1"></S>
+            <S d="26624"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="3" mimeType="video/mp4" codecs="avc1.640028" bandwidth="8000000" width="1920" height="1080" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/f1cbbc64-4c6d-4b05-9f74-d4c78b33a99b/100/preroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-930ba119-6c23-4909-9574-a797834efb26--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/8b7476a6-0-init$RepresentationID$.m4s" media="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/f1cbbc64-4c6d-4b05-9f74-d4c78b33a99b/100/preroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-930ba119-6c23-4909-9574-a797834efb26--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/8b7476a6-0-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="51200" r="1"></S>
+            <S d="26624"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" lang="eng">
+      <Representation id="4" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="192000" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+        <SegmentTemplate timescale="48000" initialization="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/f1cbbc64-4c6d-4b05-9f74-d4c78b33a99b/100/preroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-930ba119-6c23-4909-9574-a797834efb26--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/8b7476a6-0-init$RepresentationID$.m4s" media="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/f1cbbc64-4c6d-4b05-9f74-d4c78b33a99b/100/preroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-930ba119-6c23-4909-9574-a797834efb26--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/8b7476a6-0-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="188288"></S>
+            <S d="192512"></S>
+            <S d="102400"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <BaseURL></BaseURL>
+  </Period>
+  <Period id="1" duration="PT1M" start="PT10S">
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="en" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"></Role>
+      <SegmentTemplate timescale="10000000" duration="40000000" initialization="https://cdn3-uat.tvplayhome.lt/vod/eds-uat/go3_svod/20220707T1223/GM_gmagain/_/GO3_VOD_DASH_AVC_FTA/GM_gmagain-$RepresentationID$-init.mp4" media="https://cdn3-uat.tvplayhome.lt/vod/eds-uat/go3_svod/20220707T1223/GM_gmagain/_/GO3_VOD_DASH_AVC_FTA/GM_gmagain-$RepresentationID$-$Number$.m4s" presentationTimeOffset="0">
+        <SegmentTimeline>
+          <S d="40000000" t="0"></S>
+          <S d="40000000" t="40000000"></S>
+          <S d="40000000" t="80000000"></S>
+          <S d="40000000" t="120000000"></S>
+          <S d="40000000" t="160000000"></S>
+          <S d="40000000" t="200000000"></S>
+          <S d="40000000" t="240000000"></S>
+          <S d="40000000" t="280000000"></S>
+          <S d="40000000" t="320000000"></S>
+          <S d="40000000" t="360000000"></S>
+          <S d="40000000" t="400000000"></S>
+          <S d="40000000" t="440000000"></S>
+          <S d="40000000" t="480000000"></S>
+          <S d="40000000" t="520000000"></S>
+          <S d="40000000" t="560000000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_192000_eng=1" bandwidth="192000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="2" frameRate="25" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="1000000" maxBandwidth="8000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"></Role>
+      <SegmentTemplate timescale="10000000" duration="40000000" initialization="https://cdn3-uat.tvplayhome.lt/vod/eds-uat/go3_svod/20220707T1223/GM_gmagain/_/GO3_VOD_DASH_AVC_FTA/GM_gmagain-$RepresentationID$-init.mp4" media="https://cdn3-uat.tvplayhome.lt/vod/eds-uat/go3_svod/20220707T1223/GM_gmagain/_/GO3_VOD_DASH_AVC_FTA/GM_gmagain-$RepresentationID$-$Number$.m4s" presentationTimeOffset="0">
+        <SegmentTimeline>
+          <S d="40000000" t="0"></S>
+          <S d="40000000" t="40000000"></S>
+          <S d="40000000" t="80000000"></S>
+          <S d="40000000" t="120000000"></S>
+          <S d="40000000" t="160000000"></S>
+          <S d="40000000" t="200000000"></S>
+          <S d="40000000" t="240000000"></S>
+          <S d="40000000" t="280000000"></S>
+          <S d="40000000" t="320000000"></S>
+          <S d="40000000" t="360000000"></S>
+          <S d="40000000" t="400000000"></S>
+          <S d="40000000" t="440000000"></S>
+          <S d="40000000" t="480000000"></S>
+          <S d="40000000" t="520000000"></S>
+          <S d="40000000" t="560000000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="avc1_1000000=5" bandwidth="1000000" width="1024" height="576" sar="1:1" codecs="avc1.640020"></Representation>
+      <Representation id="avc1_2000000=6" bandwidth="2000000" width="1280" height="720" sar="1:1" codecs="avc1.640028"></Representation>
+      <Representation id="avc1_5499968=7" bandwidth="5499968" width="1920" height="1080" sar="1:1" codecs="avc1.640029"></Representation>
+      <Representation id="avc1_8000000=8" bandwidth="8000000" width="1920" height="1080" sar="1:1" codecs="avc1.640029"></Representation>
+    </AdaptationSet>
+    <BaseURL></BaseURL>
+  </Period>
+  <Period id="2" start="PT1M10S">
+    <AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1920" maxHeight="1080" par="16:9" lang="und">
+      <Representation id="0" mimeType="video/mp4" codecs="avc1.64001f" bandwidth="1000000" width="1024" height="576" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/1575597c-86f3-4060-a9bd-8a1f2e6e3016/100/midroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-747659b8-9501-4400-8f71-6dece6b3a5e8--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/2270e452-5-init$RepresentationID$.m4s" media="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/1575597c-86f3-4060-a9bd-8a1f2e6e3016/100/midroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-747659b8-9501-4400-8f71-6dece6b3a5e8--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/2270e452-5-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="51200" r="6"></S>
+            <S d="27136"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="1" mimeType="video/mp4" codecs="avc1.64001f" bandwidth="2000000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/1575597c-86f3-4060-a9bd-8a1f2e6e3016/100/midroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-747659b8-9501-4400-8f71-6dece6b3a5e8--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/2270e452-5-init$RepresentationID$.m4s" media="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/1575597c-86f3-4060-a9bd-8a1f2e6e3016/100/midroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-747659b8-9501-4400-8f71-6dece6b3a5e8--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/2270e452-5-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="51200" r="6"></S>
+            <S d="27136"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="2" mimeType="video/mp4" codecs="avc1.640028" bandwidth="5499000" width="1920" height="1080" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/1575597c-86f3-4060-a9bd-8a1f2e6e3016/100/midroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-747659b8-9501-4400-8f71-6dece6b3a5e8--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/2270e452-5-init$RepresentationID$.m4s" media="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/1575597c-86f3-4060-a9bd-8a1f2e6e3016/100/midroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-747659b8-9501-4400-8f71-6dece6b3a5e8--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/2270e452-5-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="51200" r="6"></S>
+            <S d="27136"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="3" mimeType="video/mp4" codecs="avc1.640028" bandwidth="8000000" width="1920" height="1080" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/1575597c-86f3-4060-a9bd-8a1f2e6e3016/100/midroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-747659b8-9501-4400-8f71-6dece6b3a5e8--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/2270e452-5-init$RepresentationID$.m4s" media="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/1575597c-86f3-4060-a9bd-8a1f2e6e3016/100/midroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-747659b8-9501-4400-8f71-6dece6b3a5e8--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/2270e452-5-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="51200" r="6"></S>
+            <S d="27136"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" lang="eng">
+      <Representation id="4" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="192000" audioSamplingRate="48000">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+        <SegmentTemplate timescale="48000" initialization="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/1575597c-86f3-4060-a9bd-8a1f2e6e3016/100/midroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-747659b8-9501-4400-8f71-6dece6b3a5e8--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/2270e452-5-init$RepresentationID$.m4s" media="https://g11.g-mana.live/mrouter/c5065161-1ed0-474b-a46c-3254a8fec14b/a2/738d28e4-1b2d-4ccb-8308-65d6f88f36f1/1575597c-86f3-4060-a9bd-8a1f2e6e3016/100/midroll/0/hs/asteu.g-mana.online/gmana-assets/ad/hub1x/2026-02-25-TV3-dash/2026-02-25-TV3-dash-747659b8-9501-4400-8f71-6dece6b3a5e8--6c24ce0dc8bfd753225e6dc42bd790d8f379ec4c/2270e452-5-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="188371"></S>
+            <S d="192512"></S>
+            <S d="191488"></S>
+            <S d="192512"></S>
+            <S d="191488"></S>
+            <S d="192512"></S>
+            <S d="191488"></S>
+            <S d="104448"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <BaseURL></BaseURL>
+  </Period>
+  <Period id="3" duration="PT1M20.203S" start="PT1M40.1S">
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="en" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"></Role>
+      <SegmentTemplate timescale="10000000" duration="40000000" initialization="https://cdn3-uat.tvplayhome.lt/vod/eds-uat/go3_svod/20220707T1223/GM_gmagain/_/GO3_VOD_DASH_AVC_FTA/GM_gmagain-$RepresentationID$-init.mp4" media="https://cdn3-uat.tvplayhome.lt/vod/eds-uat/go3_svod/20220707T1223/GM_gmagain/_/GO3_VOD_DASH_AVC_FTA/GM_gmagain-$RepresentationID$-$Number$.m4s" presentationTimeOffset="600000000">
+        <SegmentTimeline>
+          <S d="40000000" t="600000000"></S>
+          <S d="40000000" t="640000000"></S>
+          <S d="40000000" t="680000000"></S>
+          <S d="40000000" t="720000000"></S>
+          <S d="40000000" t="760000000"></S>
+          <S d="40000000" t="800000000"></S>
+          <S d="40000000" t="840000000"></S>
+          <S d="40000000" t="880000000"></S>
+          <S d="40000000" t="920000000"></S>
+          <S d="40000000" t="960000000"></S>
+          <S d="40000000" t="1000000000"></S>
+          <S d="40000000" t="1040000000"></S>
+          <S d="40000000" t="1080000000"></S>
+          <S d="40000000" t="1120000000"></S>
+          <S d="40000000" t="1160000000"></S>
+          <S d="40000000" t="1200000000"></S>
+          <S d="40000000" t="1240000000"></S>
+          <S d="40000000" t="1280000000"></S>
+          <S d="40000000" t="1320000000"></S>
+          <S d="40000000" t="1360000000"></S>
+          <S d="2026660" t="1400000000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_192000_eng=1" bandwidth="192000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="2" frameRate="25" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="1000000" maxBandwidth="8000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"></Role>
+      <SegmentTemplate timescale="10000000" duration="40000000" initialization="https://cdn3-uat.tvplayhome.lt/vod/eds-uat/go3_svod/20220707T1223/GM_gmagain/_/GO3_VOD_DASH_AVC_FTA/GM_gmagain-$RepresentationID$-init.mp4" media="https://cdn3-uat.tvplayhome.lt/vod/eds-uat/go3_svod/20220707T1223/GM_gmagain/_/GO3_VOD_DASH_AVC_FTA/GM_gmagain-$RepresentationID$-$Number$.m4s" presentationTimeOffset="600000000">
+        <SegmentTimeline>
+          <S d="40000000" t="600000000"></S>
+          <S d="40000000" t="640000000"></S>
+          <S d="40000000" t="680000000"></S>
+          <S d="40000000" t="720000000"></S>
+          <S d="40000000" t="760000000"></S>
+          <S d="40000000" t="800000000"></S>
+          <S d="40000000" t="840000000"></S>
+          <S d="40000000" t="880000000"></S>
+          <S d="40000000" t="920000000"></S>
+          <S d="40000000" t="960000000"></S>
+          <S d="40000000" t="1000000000"></S>
+          <S d="40000000" t="1040000000"></S>
+          <S d="40000000" t="1080000000"></S>
+          <S d="40000000" t="1120000000"></S>
+          <S d="40000000" t="1160000000"></S>
+          <S d="40000000" t="1200000000"></S>
+          <S d="40000000" t="1240000000"></S>
+          <S d="40000000" t="1280000000"></S>
+          <S d="40000000" t="1320000000"></S>
+          <S d="40000000" t="1360000000"></S>
+          <S d="2026660" t="1400000000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="avc1_1000000=5" bandwidth="1000000" width="1024" height="576" sar="1:1" codecs="avc1.640020"></Representation>
+      <Representation id="avc1_2000000=6" bandwidth="2000000" width="1280" height="720" sar="1:1" codecs="avc1.640028"></Representation>
+      <Representation id="avc1_5499968=7" bandwidth="5499968" width="1920" height="1080" sar="1:1" codecs="avc1.640029"></Representation>
+      <Representation id="avc1_8000000=8" bandwidth="8000000" width="1920" height="1080" sar="1:1" codecs="avc1.640029"></Representation>
+    </AdaptationSet>
+    <BaseURL></BaseURL>
+  </Period>
+</MPD>
