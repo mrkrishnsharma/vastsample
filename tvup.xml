@@ -1,0 +1,709 @@
+<VAST version='4.1' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+  xsi:noNamespaceSchemaLocation='vast.xsd'>
+  <Ad id='74270276.139848980438016' sequence='1'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>KOK 6sec_ERIKAS GOLUBOVSKIS_YT</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270276.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270276,497154540,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Impression id='FWi_74270276.0.1'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&cn=slotImpression&et=i&tpos=0&async=0&init=1&slid=0]]></Impression>
+      <Creatives>
+        <Creative AdID='74270276' id='125497950'>
+          <Linear>
+            <Duration>00:00:06</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270276.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270276&reid=497154540&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='50702' delivery='progressive' height='1080' id='497154540'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/94/125497950/497154540/KOK_6sec_ERIKAS_GOLUBOVSKIS_YT_1701677464.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270278.139848981602304' sequence='2'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>ketija_Teaser_Go3_20sec</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270278.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270278,497153973,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270278' id='125497720'>
+          <Linear>
+            <Duration>00:00:20</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270278.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270278&reid=497153973&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51185' delivery='progressive' height='1080' id='497153973'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/120/125497720/497153973/ketija_Teaser_Go3_20sec_1701677338.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270078.139848980057088' sequence='3'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>TV Channels campaing_20sec_LV</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270078.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270078,497158466,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270078' id='125498842'>
+          <Linear>
+            <Duration>00:00:20</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270078.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270078&reid=497158466&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51188' delivery='progressive' height='1080' id='497158466'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/90/125498842/497158466/TV_Channels_campaing_20sec_LV_1701678542.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270284.139848979966976' sequence='4'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>GO3_Image_40s_LV_</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270284.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270284,497145263,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270284' id='125495311'>
+          <Linear>
+            <Duration>00:00:40</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270284.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270284&reid=497145263&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51288' delivery='progressive' height='1080' id='497145263'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/15/125495311/497145263/GO3_Image_40s_LV__1701676240.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270072.139842581534720' sequence='5'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>VN_20sek_launch</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270072.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270072,497158986,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270072' id='125498986'>
+          <Linear>
+            <Duration>00:00:20</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270072.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270072&reid=497158986&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51191' delivery='progressive' height='1080' id='497158986'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/106/125498986/497158986/VN_20sek_launch_1701678741.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270080.139848980023296' sequence='6'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>TV channels 20sec_LV Edit</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270080.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270080,497156762,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270080' id='125498466'>
+          <Linear>
+            <Duration>00:00:20</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270080.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270080&reid=497156762&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51192' delivery='progressive' height='1080' id='497156762'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/98/125498466/497156762/TV_channels_20sec_LV_Edit_1701678024.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270280.139848981603328' sequence='7'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>Go3_Piktuju karta_TVC_40s_corrected</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270280.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270280,497149378,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270280' id='125496219'>
+          <Linear>
+            <Duration>00:00:40</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270280.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270280&reid=497149378&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51290' delivery='progressive' height='1080' id='497149378'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/27/125496219/497149378/Go3_Piktuju_karta_TVC_40s_corrected_1701676882.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270266.139848980064256' sequence='8'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>TUNELIS_3_15_SEC_Launch</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270266.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270266,497156504,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Impression id='FWi_74270266.0.1'><![CDATA[https://track.adform.net/adfserve/?bn=72885425;1x1inv=1;srctype=3;ord=889377152]]></Impression>
+      <Creatives>
+        <Creative AdID='74270266' id='125498378'>
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270266.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270266&reid=497156504&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51118' delivery='progressive' height='1080' id='497156504'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/10/125498378/497156504/TUNELIS_3_15_SEC_Launch_1701677960.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270074.139848980062208' sequence='9'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>ugunsgreks vecas sezonas_20sec_2</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270074.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270074,497158796,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270074' id='125498923'>
+          <Linear>
+            <Duration>00:00:20</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270074.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270074&reid=497158796&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51184' delivery='progressive' height='1080' id='497158796'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/43/125498923/497158796/ugunsgreks_vecas_sezonas_20sec_2_1701678685.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270270.139848980434944' sequence='10'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>Sales campaign LV 20sec_Disney</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270270.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270270,497155895,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270270' id='125498231'>
+          <Linear>
+            <Duration>00:00:20</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270270.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270270&reid=497155895&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51189' delivery='progressive' height='1080' id='497155895'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/119/125498231/497155895/Sales_campaign_LV_20sec_Disney_1701677791.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270360.139848979988480' sequence='11'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>Eurobasket_10sec_LT</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270360.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270360,497144219,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270360' id='125495096'>
+          <Linear>
+            <Duration>00:00:10</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270360.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270360&reid=497144219&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='50980' delivery='progressive' height='1080' id='497144219'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/56/125495096/497144219/Eurobasket_10sec_LT_1701675964.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270272.139848980435968' sequence='12'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>LV_Fresh from cinemas_YT</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270272.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270272,497155623,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270272' id='125498166'>
+          <Linear>
+            <Duration>00:00:41</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270272.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270272&reid=497155623&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='52094' delivery='progressive' height='1080' id='497155623'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/54/125498166/497155623/LV_Fresh_from_cinemas_YT_1701677710.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270354.139848979972096' sequence='13'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>go3_10sec _LV</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270354.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270354,497144656,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270354' id='125495212'>
+          <Linear>
+            <Duration>00:00:10</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270354.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270354&reid=497144656&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51067' delivery='progressive' height='1080' id='497144656'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/44/125495212/497144656/go3_10sec_LV_1701676134.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270282.139848981605376' sequence='14'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>GO3_Image_Dad_20s_LV</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270282.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270282,497145841,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270282' id='125495412'>
+          <Linear>
+            <Duration>00:00:20</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270282.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270282&reid=497145841&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51185' delivery='progressive' height='1080' id='497145841'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/116/125495412/497145841/GO3_Image_Dad_20s_LV_1701676336.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270364.139848980024320' sequence='15'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>Bachelorette_20sec_EE</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270364.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270364,497143553,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Impression id='FWi_74270364.0.1'><![CDATA[https://track.adform.net/adfserve/?bn=79427013;1x1inv=1;srctype=3;gdpr=1;gdpr_consent=CQGEJggQGEJggAcABBLVBKFsAP_gAEPgAAYgKhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAEAAAAAAAAAQAAAAAAAAAAACADfv9bROb-9IOd_x8v4v8_F_rE2_eT1l_tWvp7D9-cts7_XW89_fff_9Ln_-uB_-_3_sFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAACAAAAAAAEAAAAAAAAAAAAAAACQAVgACAsFgcSSAlYkECXEG0AABAAgEEABQik7MAQQBmy1F4sm0ZWmBaPmC57TAMkCIAA.f_wACHwAAAAA;ord=2078855786]]></Impression>
+      <Creatives>
+        <Creative AdID='74270364' id='125494955'>
+          <Linear>
+            <Duration>00:00:20</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270364.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270364&reid=497143553&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51190' delivery='progressive' height='1080' id='497143553'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/43/125494955/497143553/Bachelorette_20sec_EE_1701675846.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270358.139848979983360' sequence='16'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>Eurobasket_15_LT</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270358.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270358,497144419,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270358' id='125495148'>
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270358.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270358&reid=497144419&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51115' delivery='progressive' height='1080' id='497144419'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/108/125495148/497144419/Eurobasket_15_LT_1701676023.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270362.139848980022272' sequence='17'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>Ekstaze_20sek_TVC_ar DAI</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270362.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270362,497143924,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270362' id='125495012'>
+          <Linear>
+            <Duration>00:00:20</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270362.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270362&reid=497143924&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51184' delivery='progressive' height='1080' id='497143924'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/100/125495012/497143924/Ekstaze_20sek_TVC_ar_DAI_1701675907.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270356.139848979973120' sequence='18'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>GO3 Without wires 20s_LV</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270356.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270356,497144580,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270356' id='125495180'>
+          <Linear>
+            <Duration>00:00:20</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270356.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270356&reid=497144580&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51188' delivery='progressive' height='1080' id='497144580'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/12/125495180/497144580/GO3_Without_wires_20s_LV_1701676083.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+  <Ad id='74270076.139848980061184' sequence='19'>
+    <InLine>
+      <AdSystem>FreeWheel</AdSystem>
+      <AdTitle>TVC_SPOT_20sek_Launch</AdTitle>
+      <Error><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&et=e&cn=[ERRORCODE]]]></Error>
+      <Impression id='FWi_74270076.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=defaultImpression&et=i&_cc=74270076,497158671,,,1773210286,1&tpos=0&async=0&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121&init=1&vcid2=3205728-344371-M]]></Impression>
+      <Creatives>
+        <Creative AdID='74270076' id='125498889'>
+          <Linear>
+            <Duration>00:00:20</Duration>
+            <TrackingEvents>
+              <Tracking event='complete'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=complete&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='firstQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=firstQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='midpoint'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=midPoint&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='thirdQuartile'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=thirdQuartile&et=i&_cc=&tpos=0&async=0&init=1&iw=&uxnw=381986&uxss=sg1185139&uxct=4&metr=121]]></Tracking>
+              <Tracking event='mute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=_mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='unmute'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=_un-mute&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerCollapse'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=_collapse&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='playerExpand'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=_expand&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='pause'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=_pause&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='resume'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=_resume&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='rewind'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=_rewind&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='acceptInvitation'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=_accept-invitation&et=s&_cc=&tpos=0&async=0]]></Tracking>
+              <Tracking event='close'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=_close&et=s&_cc=&tpos=0&async=0]]></Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickTracking id='FWc_74270076.0'><![CDATA[https://5d422.v.fwmrm.net/ad/l/1?s=v1bac&n=381986%3B381986&t=1773210286609773194&f=262144&r=381986&adid=74270076&reid=497158671&arid=0&auid=&cn=defaultClick&et=c&_cc=&tpos=0&async=0]]></ClickTracking>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile bitrate='51191' delivery='progressive' height='1080' id='497158671'
+                type='application/mxf' width='1920'><![CDATA[https://s1.fwmrm.net/m/1/381986/9/125498889/497158671/TVC_SPOT_20sek_Launch_1701678614.mxf]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
