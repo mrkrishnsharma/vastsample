@@ -1,0 +1,48 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="4.0">
+    <Ad id="CampaignidCreativeSetidDistributorIdId">
+        <InLine>
+            <AdSystem>GDFP</AdSystem>
+            <AdTitle>effi_capital_|_Bumper_|_Dec22BAMPER_616794</AdTitle>
+            <Impression></Impression>
+            <Creatives>
+                <Creative id="138417513607">
+                    <UniversalAdId idRegistry="googlevideo" idValue="138417513607">16794
+                    </UniversalAdId>
+                    <Linear>
+                        <Duration>00:00:28</Duration>
+                        <VideoClicks>
+                            <ClickThrough>
+                                <![CDATA[ https://efficapital.co.il/?utm_source=idx&utm_medium=video ]]>
+                            </ClickThrough>
+                            <ClickTracking>
+                                <![CDATA[  https://tr.dxmcdn.com/rest/api/v1/campaign/11009/statistic/video?creativeId=16794&eventId=7&distributorId=11&eventUniqueIdentifier=[CACHEBUSTING] ]]>
+                            </ClickTracking>
+                        </VideoClicks>
+                        <AdParameters>
+                            <![CDATA[ adrulesversion=2.1,campaignid=11009,fcapmode=campaign,repetitionpolicy=1,fcapcount=0,fcapwindow=0,positionmode=preferred,position=0 ]]>
+                        </AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="1500" maxBitrate="5050" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://rr4---sn-5np5po4v-c3367.googlevideo.com/videoplayback?expire=1773216834&ei=wrOwabjsDIDh0u8P-MOi6A8&ip=124.122.192.47&id=a35e1fec36306990&itag=22&source=youtube&requiressl=yes&xpc=Eghovf3BOnoBAQ==&cps=0&met=1773188034,&mh=JJ&mm=31&mn=sn-5np5po4v-c3367&ms=au&mv=m&mvi=4&pl=24&rms=au,au&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&rqh=1&dur=28.839&lmt=1733558712566355&mt=1773187503&cpn=HzSbGsafAbkbMv6E&txp=5432434&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,acao,ctier,mime,vprv,rqh,dur,lmt&sig=AHEqNM4wRQIhAJdQbtJ1iCokN6OrYmSMY1XBDwRa294qp3K-vkxSLMoqAiBalYVC31Y2-UG0vO2RYrm402zI-BDJGDWTt1XrNbnLUQ==&lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRgIhAL5gmFEGdiFJdrgKbCHJWMPXH1_Ukou0RqVnItgAoWILAiEAw_E_vZ2imh6hzY9z2AL_UJh0bumTiYQkYwZ7cT_MBXc=
+]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="700" maxBitrate="1000" width="1024" height="576" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://rr4---sn-5np5po4v-c3367.googlevideo.com/videoplayback?expire=1773216834&ei=wrOwabjsDIDh0u8P-MOi6A8&ip=124.122.192.47&id=a35e1fec36306990&itag=22&source=youtube&requiressl=yes&xpc=Eghovf3BOnoBAQ==&cps=0&met=1773188034,&mh=JJ&mm=31&mn=sn-5np5po4v-c3367&ms=au&mv=m&mvi=4&pl=24&rms=au,au&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&rqh=1&dur=28.839&lmt=1733558712566355&mt=1773187503&cpn=HzSbGsafAbkbMv6E&txp=5432434&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,acao,ctier,mime,vprv,rqh,dur,lmt&sig=AHEqNM4wRQIhAJdQbtJ1iCokN6OrYmSMY1XBDwRa294qp3K-vkxSLMoqAiBalYVC31Y2-UG0vO2RYrm402zI-BDJGDWTt1XrNbnLUQ==&lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRgIhAL5gmFEGdiFJdrgKbCHJWMPXH1_Ukou0RqVnItgAoWILAiEAw_E_vZ2imh6hzY9z2AL_UJh0bumTiYQkYwZ7cT_MBXc=
+]]>
+                            </MediaFile>
+                            <MediaFile delivery="progressive" type="video/mp4" minBitrate="250" maxBitrate="500" width="640" height="360" scalable="true" maintainAspectRatio="true">
+                                <![CDATA[https://rr4---sn-5np5po4v-c3367.googlevideo.com/videoplayback?expire=1773216834&ei=wrOwabjsDIDh0u8P-MOi6A8&ip=124.122.192.47&id=a35e1fec36306990&itag=22&source=youtube&requiressl=yes&xpc=Eghovf3BOnoBAQ==&cps=0&met=1773188034,&mh=JJ&mm=31&mn=sn-5np5po4v-c3367&ms=au&mv=m&mvi=4&pl=24&rms=au,au&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&rqh=1&dur=28.839&lmt=1733558712566355&mt=1773187503&cpn=HzSbGsafAbkbMv6E&txp=5432434&sparams=expire,ei,ip,id,itag,source,requiressl,xpc,susc,acao,ctier,mime,vprv,rqh,dur,lmt&sig=AHEqNM4wRQIhAJdQbtJ1iCokN6OrYmSMY1XBDwRa294qp3K-vkxSLMoqAiBalYVC31Y2-UG0vO2RYrm402zI-BDJGDWTt1XrNbnLUQ==&lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRgIhAL5gmFEGdiFJdrgKbCHJWMPXH1_Ukou0RqVnItgAoWILAiEAw_E_vZ2imh6hzY9z2AL_UJh0bumTiYQkYwZ7cT_MBXc=
+]]>
+                            </MediaFile>
+                        </MediaFiles>
+                        <TrackingEvents>
+                            <Tracking event="complete">
+                                <![CDATA[ https://tr.dxmcdn.com/rest/api/v1/campaign/11009/statistic/video?creativeId=16794&eventId=7&distributorId=11&eventUniqueIdentifier=[CACHEBUSTING] ]]>
+                            </Tracking>
+                        </TrackingEvents>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
