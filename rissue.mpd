@@ -1,0 +1,2389 @@
+<?xml version="1.0" standalone="no"?>
+<MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" type="static" mediaPresentationDuration="PT50M16.32S" minBufferTime="PT4S" profiles="urn:mpeg:dash:profile:isoff-main:2011">
+  <Period id="0" start="PT0.0S">
+    <AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
+      <Representation id="0" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="402000" width="640" height="360" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/0e73aec5-f54e-4de9-ae6f-33ff562fed32/100/preroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138548915645--6790005965fbe891592f3ecc695736a1e3289e8b/9fe5f6f5-b-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/0e73aec5-f54e-4de9-ae6f-33ff562fed32/100/preroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138548915645--6790005965fbe891592f3ecc695736a1e3289e8b/9fe5f6f5-b-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="51200"></S>
+            <S d="25600"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="1" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="602000" width="854" height="480" sar="1280:1281">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/0e73aec5-f54e-4de9-ae6f-33ff562fed32/100/preroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138548915645--6790005965fbe891592f3ecc695736a1e3289e8b/9fe5f6f5-b-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/0e73aec5-f54e-4de9-ae6f-33ff562fed32/100/preroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138548915645--6790005965fbe891592f3ecc695736a1e3289e8b/9fe5f6f5-b-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="51200"></S>
+            <S d="25600"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="2" mimeType="video/mp4" codecs="avc1.4d401f" bandwidth="891000" width="960" height="540" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/0e73aec5-f54e-4de9-ae6f-33ff562fed32/100/preroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138548915645--6790005965fbe891592f3ecc695736a1e3289e8b/9fe5f6f5-b-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/0e73aec5-f54e-4de9-ae6f-33ff562fed32/100/preroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138548915645--6790005965fbe891592f3ecc695736a1e3289e8b/9fe5f6f5-b-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="51200"></S>
+            <S d="25600"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="3" mimeType="video/mp4" codecs="avc1.4d4020" bandwidth="1409000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/0e73aec5-f54e-4de9-ae6f-33ff562fed32/100/preroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138548915645--6790005965fbe891592f3ecc695736a1e3289e8b/9fe5f6f5-b-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/0e73aec5-f54e-4de9-ae6f-33ff562fed32/100/preroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138548915645--6790005965fbe891592f3ecc695736a1e3289e8b/9fe5f6f5-b-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="51200"></S>
+            <S d="25600"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="4" mimeType="video/mp4" codecs="avc1.640028" bandwidth="1955000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/0e73aec5-f54e-4de9-ae6f-33ff562fed32/100/preroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138548915645--6790005965fbe891592f3ecc695736a1e3289e8b/9fe5f6f5-b-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/0e73aec5-f54e-4de9-ae6f-33ff562fed32/100/preroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138548915645--6790005965fbe891592f3ecc695736a1e3289e8b/9fe5f6f5-b-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="51200"></S>
+            <S d="25600"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" lang="und">
+      <Representation id="5" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="61589" audioSamplingRate="44100">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+        <SegmentTemplate timescale="44100" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/0e73aec5-f54e-4de9-ae6f-33ff562fed32/100/preroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138548915645--6790005965fbe891592f3ecc695736a1e3289e8b/9fe5f6f5-b-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/0e73aec5-f54e-4de9-ae6f-33ff562fed32/100/preroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138548915645--6790005965fbe891592f3ecc695736a1e3289e8b/9fe5f6f5-b-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="173056"></S>
+            <S d="91136"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <BaseURL>https://reshet.g-mana.live</BaseURL>
+  </Period>
+  <Period duration="PT1M32S" id="1" start="PT6S">
+    <AdaptationSet id="1" segmentAlignment="true" maxWidth="1280" maxHeight="720" maxFrameRate="25" contentType="video">
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="1" presentationTimeOffset="0">
+        <SegmentTimeline>
+          <S d="4000" t="0"></S>
+          <S d="4000" t="4000"></S>
+          <S d="4000" t="8000"></S>
+          <S d="4000" t="12000"></S>
+          <S d="4000" t="16000"></S>
+          <S d="4000" t="20000"></S>
+          <S d="4000" t="24000"></S>
+          <S d="4000" t="28000"></S>
+          <S d="4000" t="32000"></S>
+          <S d="4000" t="36000"></S>
+          <S d="4000" t="40000"></S>
+          <S d="4000" t="44000"></S>
+          <S d="4000" t="48000"></S>
+          <S d="4000" t="52000"></S>
+          <S d="4000" t="56000"></S>
+          <S d="4000" t="60000"></S>
+          <S d="4000" t="64000"></S>
+          <S d="4000" t="68000"></S>
+          <S d="4000" t="72000"></S>
+          <S d="4000" t="76000"></S>
+          <S d="4000" t="80000"></S>
+          <S d="4000" t="84000"></S>
+          <S d="4000" t="88000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="640" height="360" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="402310"></Representation>
+      <Representation id="f2-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="854" height="480" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="602978"></Representation>
+      <Representation id="f3-v1-x3" mimeType="video/mp4" codecs="avc1.4d401f" width="960" height="540" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="891181"></Representation>
+      <Representation id="f4-v1-x3" mimeType="video/mp4" codecs="avc1.4d4020" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1409971"></Representation>
+      <Representation id="f5-v1-x3" mimeType="video/mp4" codecs="avc1.640028" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1955451"></Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" segmentAlignment="true" contentType="audio">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"></AudioChannelConfiguration>
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="1" presentationTimeOffset="0">
+        <SegmentTimeline>
+          <S d="4000" t="0"></S>
+          <S d="4000" t="4000"></S>
+          <S d="4000" t="8000"></S>
+          <S d="4000" t="12000"></S>
+          <S d="4000" t="16000"></S>
+          <S d="4000" t="20000"></S>
+          <S d="4000" t="24000"></S>
+          <S d="4000" t="28000"></S>
+          <S d="4000" t="32000"></S>
+          <S d="4000" t="36000"></S>
+          <S d="4000" t="40000"></S>
+          <S d="4000" t="44000"></S>
+          <S d="4000" t="48000"></S>
+          <S d="4000" t="52000"></S>
+          <S d="4000" t="56000"></S>
+          <S d="4000" t="60000"></S>
+          <S d="4000" t="64000"></S>
+          <S d="4000" t="68000"></S>
+          <S d="4000" t="72000"></S>
+          <S d="4000" t="76000"></S>
+          <S d="4000" t="80000"></S>
+          <S d="4000" t="84000"></S>
+          <S d="4000" t="88000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="61589"></Representation>
+      <Representation id="f4-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="125588"></Representation>
+    </AdaptationSet>
+    <BaseURL>https://cfvod.kaltura.com</BaseURL>
+  </Period>
+  <Period id="2" start="PT1M38S">
+    <AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
+      <Representation id="0" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="402000" width="640" height="360" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/c38bc6aa-4685-4e9d-9988-81f12b427dff/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-23/6c156cbb-6-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/c38bc6aa-4685-4e9d-9988-81f12b427dff/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-23/6c156cbb-6-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="1" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="602000" width="854" height="480" sar="1280:1281">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/c38bc6aa-4685-4e9d-9988-81f12b427dff/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-23/6c156cbb-6-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/c38bc6aa-4685-4e9d-9988-81f12b427dff/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-23/6c156cbb-6-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="2" mimeType="video/mp4" codecs="avc1.4d401f" bandwidth="891000" width="960" height="540" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/c38bc6aa-4685-4e9d-9988-81f12b427dff/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-23/6c156cbb-6-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/c38bc6aa-4685-4e9d-9988-81f12b427dff/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-23/6c156cbb-6-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="3" mimeType="video/mp4" codecs="avc1.4d4020" bandwidth="1409000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/c38bc6aa-4685-4e9d-9988-81f12b427dff/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-23/6c156cbb-6-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/c38bc6aa-4685-4e9d-9988-81f12b427dff/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-23/6c156cbb-6-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="4" mimeType="video/mp4" codecs="avc1.640028" bandwidth="1955000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/c38bc6aa-4685-4e9d-9988-81f12b427dff/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-23/6c156cbb-6-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/c38bc6aa-4685-4e9d-9988-81f12b427dff/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-23/6c156cbb-6-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true">
+      <Representation id="5" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="61589" audioSamplingRate="44100">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+        <SegmentTemplate timescale="44100" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/c38bc6aa-4685-4e9d-9988-81f12b427dff/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-23/6c156cbb-6-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/c38bc6aa-4685-4e9d-9988-81f12b427dff/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-23/6c156cbb-6-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="306176"></S>
+            <S d="221184"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <BaseURL>https://reshet.g-mana.live</BaseURL>
+  </Period>
+  <Period duration="PT4M48S" id="3" start="PT1M49.9S">
+    <AdaptationSet id="1" segmentAlignment="true" maxWidth="1280" maxHeight="720" maxFrameRate="25" contentType="video">
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="27" presentationTimeOffset="104000">
+        <SegmentTimeline>
+          <S d="4000" t="104000"></S>
+          <S d="4000" t="108000"></S>
+          <S d="4000" t="112000"></S>
+          <S d="4000" t="116000"></S>
+          <S d="4000" t="120000"></S>
+          <S d="4000" t="124000"></S>
+          <S d="4000" t="128000"></S>
+          <S d="4000" t="132000"></S>
+          <S d="4000" t="136000"></S>
+          <S d="4000" t="140000"></S>
+          <S d="4000" t="144000"></S>
+          <S d="4000" t="148000"></S>
+          <S d="4000" t="152000"></S>
+          <S d="4000" t="156000"></S>
+          <S d="4000" t="160000"></S>
+          <S d="4000" t="164000"></S>
+          <S d="4000" t="168000"></S>
+          <S d="4000" t="172000"></S>
+          <S d="4000" t="176000"></S>
+          <S d="4000" t="180000"></S>
+          <S d="4000" t="184000"></S>
+          <S d="4000" t="188000"></S>
+          <S d="4000" t="192000"></S>
+          <S d="4000" t="196000"></S>
+          <S d="4000" t="200000"></S>
+          <S d="4000" t="204000"></S>
+          <S d="4000" t="208000"></S>
+          <S d="4000" t="212000"></S>
+          <S d="4000" t="216000"></S>
+          <S d="4000" t="220000"></S>
+          <S d="4000" t="224000"></S>
+          <S d="4000" t="228000"></S>
+          <S d="4000" t="232000"></S>
+          <S d="4000" t="236000"></S>
+          <S d="4000" t="240000"></S>
+          <S d="4000" t="244000"></S>
+          <S d="4000" t="248000"></S>
+          <S d="4000" t="252000"></S>
+          <S d="4000" t="256000"></S>
+          <S d="4000" t="260000"></S>
+          <S d="4000" t="264000"></S>
+          <S d="4000" t="268000"></S>
+          <S d="4000" t="272000"></S>
+          <S d="4000" t="276000"></S>
+          <S d="4000" t="280000"></S>
+          <S d="4000" t="284000"></S>
+          <S d="4000" t="288000"></S>
+          <S d="4000" t="292000"></S>
+          <S d="4000" t="296000"></S>
+          <S d="4000" t="300000"></S>
+          <S d="4000" t="304000"></S>
+          <S d="4000" t="308000"></S>
+          <S d="4000" t="312000"></S>
+          <S d="4000" t="316000"></S>
+          <S d="4000" t="320000"></S>
+          <S d="4000" t="324000"></S>
+          <S d="4000" t="328000"></S>
+          <S d="4000" t="332000"></S>
+          <S d="4000" t="336000"></S>
+          <S d="4000" t="340000"></S>
+          <S d="4000" t="344000"></S>
+          <S d="4000" t="348000"></S>
+          <S d="4000" t="352000"></S>
+          <S d="4000" t="356000"></S>
+          <S d="4000" t="360000"></S>
+          <S d="4000" t="364000"></S>
+          <S d="4000" t="368000"></S>
+          <S d="4000" t="372000"></S>
+          <S d="4000" t="376000"></S>
+          <S d="4000" t="380000"></S>
+          <S d="4000" t="384000"></S>
+          <S d="4000" t="388000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="640" height="360" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="402310"></Representation>
+      <Representation id="f2-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="854" height="480" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="602978"></Representation>
+      <Representation id="f3-v1-x3" mimeType="video/mp4" codecs="avc1.4d401f" width="960" height="540" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="891181"></Representation>
+      <Representation id="f4-v1-x3" mimeType="video/mp4" codecs="avc1.4d4020" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1409971"></Representation>
+      <Representation id="f5-v1-x3" mimeType="video/mp4" codecs="avc1.640028" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1955451"></Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" segmentAlignment="true" contentType="audio">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"></AudioChannelConfiguration>
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="27" presentationTimeOffset="104000">
+        <SegmentTimeline>
+          <S d="4000" t="104000"></S>
+          <S d="4000" t="108000"></S>
+          <S d="4000" t="112000"></S>
+          <S d="4000" t="116000"></S>
+          <S d="4000" t="120000"></S>
+          <S d="4000" t="124000"></S>
+          <S d="4000" t="128000"></S>
+          <S d="4000" t="132000"></S>
+          <S d="4000" t="136000"></S>
+          <S d="4000" t="140000"></S>
+          <S d="4000" t="144000"></S>
+          <S d="4000" t="148000"></S>
+          <S d="4000" t="152000"></S>
+          <S d="4000" t="156000"></S>
+          <S d="4000" t="160000"></S>
+          <S d="4000" t="164000"></S>
+          <S d="4000" t="168000"></S>
+          <S d="4000" t="172000"></S>
+          <S d="4000" t="176000"></S>
+          <S d="4000" t="180000"></S>
+          <S d="4000" t="184000"></S>
+          <S d="4000" t="188000"></S>
+          <S d="4000" t="192000"></S>
+          <S d="4000" t="196000"></S>
+          <S d="4000" t="200000"></S>
+          <S d="4000" t="204000"></S>
+          <S d="4000" t="208000"></S>
+          <S d="4000" t="212000"></S>
+          <S d="4000" t="216000"></S>
+          <S d="4000" t="220000"></S>
+          <S d="4000" t="224000"></S>
+          <S d="4000" t="228000"></S>
+          <S d="4000" t="232000"></S>
+          <S d="4000" t="236000"></S>
+          <S d="4000" t="240000"></S>
+          <S d="4000" t="244000"></S>
+          <S d="4000" t="248000"></S>
+          <S d="4000" t="252000"></S>
+          <S d="4000" t="256000"></S>
+          <S d="4000" t="260000"></S>
+          <S d="4000" t="264000"></S>
+          <S d="4000" t="268000"></S>
+          <S d="4000" t="272000"></S>
+          <S d="4000" t="276000"></S>
+          <S d="4000" t="280000"></S>
+          <S d="4000" t="284000"></S>
+          <S d="4000" t="288000"></S>
+          <S d="4000" t="292000"></S>
+          <S d="4000" t="296000"></S>
+          <S d="4000" t="300000"></S>
+          <S d="4000" t="304000"></S>
+          <S d="4000" t="308000"></S>
+          <S d="4000" t="312000"></S>
+          <S d="4000" t="316000"></S>
+          <S d="4000" t="320000"></S>
+          <S d="4000" t="324000"></S>
+          <S d="4000" t="328000"></S>
+          <S d="4000" t="332000"></S>
+          <S d="4000" t="336000"></S>
+          <S d="4000" t="340000"></S>
+          <S d="4000" t="344000"></S>
+          <S d="4000" t="348000"></S>
+          <S d="4000" t="352000"></S>
+          <S d="4000" t="356000"></S>
+          <S d="4000" t="360000"></S>
+          <S d="4000" t="364000"></S>
+          <S d="4000" t="368000"></S>
+          <S d="4000" t="372000"></S>
+          <S d="4000" t="376000"></S>
+          <S d="4000" t="380000"></S>
+          <S d="4000" t="384000"></S>
+          <S d="4000" t="388000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="61589"></Representation>
+      <Representation id="f4-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="125588"></Representation>
+    </AdaptationSet>
+    <BaseURL>https://cfvod.kaltura.com</BaseURL>
+  </Period>
+  <Period id="4" start="PT6M37.9S">
+    <AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
+      <Representation id="0" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="402000" width="640" height="360" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3da16e2c-4f50-4041-9d02-edc5860dbdc6/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-98/8a25e666-7-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3da16e2c-4f50-4041-9d02-edc5860dbdc6/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-98/8a25e666-7-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="1" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="602000" width="854" height="480" sar="1280:1281">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3da16e2c-4f50-4041-9d02-edc5860dbdc6/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-98/8a25e666-7-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3da16e2c-4f50-4041-9d02-edc5860dbdc6/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-98/8a25e666-7-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="2" mimeType="video/mp4" codecs="avc1.4d401f" bandwidth="891000" width="960" height="540" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3da16e2c-4f50-4041-9d02-edc5860dbdc6/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-98/8a25e666-7-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3da16e2c-4f50-4041-9d02-edc5860dbdc6/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-98/8a25e666-7-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="3" mimeType="video/mp4" codecs="avc1.4d4020" bandwidth="1409000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3da16e2c-4f50-4041-9d02-edc5860dbdc6/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-98/8a25e666-7-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3da16e2c-4f50-4041-9d02-edc5860dbdc6/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-98/8a25e666-7-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="4" mimeType="video/mp4" codecs="avc1.640028" bandwidth="1955000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3da16e2c-4f50-4041-9d02-edc5860dbdc6/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-98/8a25e666-7-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3da16e2c-4f50-4041-9d02-edc5860dbdc6/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-98/8a25e666-7-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true">
+      <Representation id="5" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="61589" audioSamplingRate="44100">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+        <SegmentTemplate timescale="44100" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3da16e2c-4f50-4041-9d02-edc5860dbdc6/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-98/8a25e666-7-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3da16e2c-4f50-4041-9d02-edc5860dbdc6/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-98/8a25e666-7-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="306176"></S>
+            <S d="222208"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <BaseURL>https://reshet.g-mana.live</BaseURL>
+  </Period>
+  <Period duration="PT4M48S" id="5" start="PT6M49.8S">
+    <AdaptationSet id="1" segmentAlignment="true" maxWidth="1280" maxHeight="720" maxFrameRate="25" contentType="video">
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="102" presentationTimeOffset="404000">
+        <SegmentTimeline>
+          <S d="4000" t="404000"></S>
+          <S d="4000" t="408000"></S>
+          <S d="4000" t="412000"></S>
+          <S d="4000" t="416000"></S>
+          <S d="4000" t="420000"></S>
+          <S d="4000" t="424000"></S>
+          <S d="4000" t="428000"></S>
+          <S d="4000" t="432000"></S>
+          <S d="4000" t="436000"></S>
+          <S d="4000" t="440000"></S>
+          <S d="4000" t="444000"></S>
+          <S d="4000" t="448000"></S>
+          <S d="4000" t="452000"></S>
+          <S d="4000" t="456000"></S>
+          <S d="4000" t="460000"></S>
+          <S d="4000" t="464000"></S>
+          <S d="4000" t="468000"></S>
+          <S d="4000" t="472000"></S>
+          <S d="4000" t="476000"></S>
+          <S d="4000" t="480000"></S>
+          <S d="4000" t="484000"></S>
+          <S d="4000" t="488000"></S>
+          <S d="4000" t="492000"></S>
+          <S d="4000" t="496000"></S>
+          <S d="4000" t="500000"></S>
+          <S d="4000" t="504000"></S>
+          <S d="4000" t="508000"></S>
+          <S d="4000" t="512000"></S>
+          <S d="4000" t="516000"></S>
+          <S d="4000" t="520000"></S>
+          <S d="4000" t="524000"></S>
+          <S d="4000" t="528000"></S>
+          <S d="4000" t="532000"></S>
+          <S d="4000" t="536000"></S>
+          <S d="4000" t="540000"></S>
+          <S d="4000" t="544000"></S>
+          <S d="4000" t="548000"></S>
+          <S d="4000" t="552000"></S>
+          <S d="4000" t="556000"></S>
+          <S d="4000" t="560000"></S>
+          <S d="4000" t="564000"></S>
+          <S d="4000" t="568000"></S>
+          <S d="4000" t="572000"></S>
+          <S d="4000" t="576000"></S>
+          <S d="4000" t="580000"></S>
+          <S d="4000" t="584000"></S>
+          <S d="4000" t="588000"></S>
+          <S d="4000" t="592000"></S>
+          <S d="4000" t="596000"></S>
+          <S d="4000" t="600000"></S>
+          <S d="4000" t="604000"></S>
+          <S d="4000" t="608000"></S>
+          <S d="4000" t="612000"></S>
+          <S d="4000" t="616000"></S>
+          <S d="4000" t="620000"></S>
+          <S d="4000" t="624000"></S>
+          <S d="4000" t="628000"></S>
+          <S d="4000" t="632000"></S>
+          <S d="4000" t="636000"></S>
+          <S d="4000" t="640000"></S>
+          <S d="4000" t="644000"></S>
+          <S d="4000" t="648000"></S>
+          <S d="4000" t="652000"></S>
+          <S d="4000" t="656000"></S>
+          <S d="4000" t="660000"></S>
+          <S d="4000" t="664000"></S>
+          <S d="4000" t="668000"></S>
+          <S d="4000" t="672000"></S>
+          <S d="4000" t="676000"></S>
+          <S d="4000" t="680000"></S>
+          <S d="4000" t="684000"></S>
+          <S d="4000" t="688000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="640" height="360" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="402310"></Representation>
+      <Representation id="f2-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="854" height="480" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="602978"></Representation>
+      <Representation id="f3-v1-x3" mimeType="video/mp4" codecs="avc1.4d401f" width="960" height="540" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="891181"></Representation>
+      <Representation id="f4-v1-x3" mimeType="video/mp4" codecs="avc1.4d4020" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1409971"></Representation>
+      <Representation id="f5-v1-x3" mimeType="video/mp4" codecs="avc1.640028" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1955451"></Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" segmentAlignment="true" contentType="audio">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"></AudioChannelConfiguration>
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="102" presentationTimeOffset="404000">
+        <SegmentTimeline>
+          <S d="4000" t="404000"></S>
+          <S d="4000" t="408000"></S>
+          <S d="4000" t="412000"></S>
+          <S d="4000" t="416000"></S>
+          <S d="4000" t="420000"></S>
+          <S d="4000" t="424000"></S>
+          <S d="4000" t="428000"></S>
+          <S d="4000" t="432000"></S>
+          <S d="4000" t="436000"></S>
+          <S d="4000" t="440000"></S>
+          <S d="4000" t="444000"></S>
+          <S d="4000" t="448000"></S>
+          <S d="4000" t="452000"></S>
+          <S d="4000" t="456000"></S>
+          <S d="4000" t="460000"></S>
+          <S d="4000" t="464000"></S>
+          <S d="4000" t="468000"></S>
+          <S d="4000" t="472000"></S>
+          <S d="4000" t="476000"></S>
+          <S d="4000" t="480000"></S>
+          <S d="4000" t="484000"></S>
+          <S d="4000" t="488000"></S>
+          <S d="4000" t="492000"></S>
+          <S d="4000" t="496000"></S>
+          <S d="4000" t="500000"></S>
+          <S d="4000" t="504000"></S>
+          <S d="4000" t="508000"></S>
+          <S d="4000" t="512000"></S>
+          <S d="4000" t="516000"></S>
+          <S d="4000" t="520000"></S>
+          <S d="4000" t="524000"></S>
+          <S d="4000" t="528000"></S>
+          <S d="4000" t="532000"></S>
+          <S d="4000" t="536000"></S>
+          <S d="4000" t="540000"></S>
+          <S d="4000" t="544000"></S>
+          <S d="4000" t="548000"></S>
+          <S d="4000" t="552000"></S>
+          <S d="4000" t="556000"></S>
+          <S d="4000" t="560000"></S>
+          <S d="4000" t="564000"></S>
+          <S d="4000" t="568000"></S>
+          <S d="4000" t="572000"></S>
+          <S d="4000" t="576000"></S>
+          <S d="4000" t="580000"></S>
+          <S d="4000" t="584000"></S>
+          <S d="4000" t="588000"></S>
+          <S d="4000" t="592000"></S>
+          <S d="4000" t="596000"></S>
+          <S d="4000" t="600000"></S>
+          <S d="4000" t="604000"></S>
+          <S d="4000" t="608000"></S>
+          <S d="4000" t="612000"></S>
+          <S d="4000" t="616000"></S>
+          <S d="4000" t="620000"></S>
+          <S d="4000" t="624000"></S>
+          <S d="4000" t="628000"></S>
+          <S d="4000" t="632000"></S>
+          <S d="4000" t="636000"></S>
+          <S d="4000" t="640000"></S>
+          <S d="4000" t="644000"></S>
+          <S d="4000" t="648000"></S>
+          <S d="4000" t="652000"></S>
+          <S d="4000" t="656000"></S>
+          <S d="4000" t="660000"></S>
+          <S d="4000" t="664000"></S>
+          <S d="4000" t="668000"></S>
+          <S d="4000" t="672000"></S>
+          <S d="4000" t="676000"></S>
+          <S d="4000" t="680000"></S>
+          <S d="4000" t="684000"></S>
+          <S d="4000" t="688000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="61589"></Representation>
+      <Representation id="f4-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="125588"></Representation>
+    </AdaptationSet>
+    <BaseURL>https://cfvod.kaltura.com</BaseURL>
+  </Period>
+  <Period id="6" start="PT11M37.8S">
+    <AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
+      <Representation id="0" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="402000" width="640" height="360" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/4e7d9aac-0786-40a8-aebc-c3b7e2097aa0/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-173/68e034d0-2-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/4e7d9aac-0786-40a8-aebc-c3b7e2097aa0/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-173/68e034d0-2-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="1" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="602000" width="854" height="480" sar="1280:1281">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/4e7d9aac-0786-40a8-aebc-c3b7e2097aa0/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-173/68e034d0-2-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/4e7d9aac-0786-40a8-aebc-c3b7e2097aa0/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-173/68e034d0-2-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="2" mimeType="video/mp4" codecs="avc1.4d401f" bandwidth="891000" width="960" height="540" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/4e7d9aac-0786-40a8-aebc-c3b7e2097aa0/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-173/68e034d0-2-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/4e7d9aac-0786-40a8-aebc-c3b7e2097aa0/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-173/68e034d0-2-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="3" mimeType="video/mp4" codecs="avc1.4d4020" bandwidth="1409000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/4e7d9aac-0786-40a8-aebc-c3b7e2097aa0/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-173/68e034d0-2-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/4e7d9aac-0786-40a8-aebc-c3b7e2097aa0/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-173/68e034d0-2-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="4" mimeType="video/mp4" codecs="avc1.640028" bandwidth="1955000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/4e7d9aac-0786-40a8-aebc-c3b7e2097aa0/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-173/68e034d0-2-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/4e7d9aac-0786-40a8-aebc-c3b7e2097aa0/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-173/68e034d0-2-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true">
+      <Representation id="5" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="61589" audioSamplingRate="44100">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+        <SegmentTemplate timescale="44100" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/4e7d9aac-0786-40a8-aebc-c3b7e2097aa0/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-173/68e034d0-2-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/4e7d9aac-0786-40a8-aebc-c3b7e2097aa0/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-173/68e034d0-2-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="306175"></S>
+            <S d="222209"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <BaseURL>https://reshet.g-mana.live</BaseURL>
+  </Period>
+  <Period duration="PT4M48S" id="7" start="PT11M49.8S">
+    <AdaptationSet id="1" segmentAlignment="true" maxWidth="1280" maxHeight="720" maxFrameRate="25" contentType="video">
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="177" presentationTimeOffset="704000">
+        <SegmentTimeline>
+          <S d="4000" t="704000"></S>
+          <S d="4000" t="708000"></S>
+          <S d="4000" t="712000"></S>
+          <S d="4000" t="716000"></S>
+          <S d="4000" t="720000"></S>
+          <S d="4000" t="724000"></S>
+          <S d="4000" t="728000"></S>
+          <S d="4000" t="732000"></S>
+          <S d="4000" t="736000"></S>
+          <S d="4000" t="740000"></S>
+          <S d="4000" t="744000"></S>
+          <S d="4000" t="748000"></S>
+          <S d="4000" t="752000"></S>
+          <S d="4000" t="756000"></S>
+          <S d="4000" t="760000"></S>
+          <S d="4000" t="764000"></S>
+          <S d="4000" t="768000"></S>
+          <S d="4000" t="772000"></S>
+          <S d="4000" t="776000"></S>
+          <S d="4000" t="780000"></S>
+          <S d="4000" t="784000"></S>
+          <S d="4000" t="788000"></S>
+          <S d="4000" t="792000"></S>
+          <S d="4000" t="796000"></S>
+          <S d="4000" t="800000"></S>
+          <S d="4000" t="804000"></S>
+          <S d="4000" t="808000"></S>
+          <S d="4000" t="812000"></S>
+          <S d="4000" t="816000"></S>
+          <S d="4000" t="820000"></S>
+          <S d="4000" t="824000"></S>
+          <S d="4000" t="828000"></S>
+          <S d="4000" t="832000"></S>
+          <S d="4000" t="836000"></S>
+          <S d="4000" t="840000"></S>
+          <S d="4000" t="844000"></S>
+          <S d="4000" t="848000"></S>
+          <S d="4000" t="852000"></S>
+          <S d="4000" t="856000"></S>
+          <S d="4000" t="860000"></S>
+          <S d="4000" t="864000"></S>
+          <S d="4000" t="868000"></S>
+          <S d="4000" t="872000"></S>
+          <S d="4000" t="876000"></S>
+          <S d="4000" t="880000"></S>
+          <S d="4000" t="884000"></S>
+          <S d="4000" t="888000"></S>
+          <S d="4000" t="892000"></S>
+          <S d="4000" t="896000"></S>
+          <S d="4000" t="900000"></S>
+          <S d="4000" t="904000"></S>
+          <S d="4000" t="908000"></S>
+          <S d="4000" t="912000"></S>
+          <S d="4000" t="916000"></S>
+          <S d="4000" t="920000"></S>
+          <S d="4000" t="924000"></S>
+          <S d="4000" t="928000"></S>
+          <S d="4000" t="932000"></S>
+          <S d="4000" t="936000"></S>
+          <S d="4000" t="940000"></S>
+          <S d="4000" t="944000"></S>
+          <S d="4000" t="948000"></S>
+          <S d="4000" t="952000"></S>
+          <S d="4000" t="956000"></S>
+          <S d="4000" t="960000"></S>
+          <S d="4000" t="964000"></S>
+          <S d="4000" t="968000"></S>
+          <S d="4000" t="972000"></S>
+          <S d="4000" t="976000"></S>
+          <S d="4000" t="980000"></S>
+          <S d="4000" t="984000"></S>
+          <S d="4000" t="988000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="640" height="360" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="402310"></Representation>
+      <Representation id="f2-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="854" height="480" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="602978"></Representation>
+      <Representation id="f3-v1-x3" mimeType="video/mp4" codecs="avc1.4d401f" width="960" height="540" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="891181"></Representation>
+      <Representation id="f4-v1-x3" mimeType="video/mp4" codecs="avc1.4d4020" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1409971"></Representation>
+      <Representation id="f5-v1-x3" mimeType="video/mp4" codecs="avc1.640028" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1955451"></Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" segmentAlignment="true" contentType="audio">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"></AudioChannelConfiguration>
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="177" presentationTimeOffset="704000">
+        <SegmentTimeline>
+          <S d="4000" t="704000"></S>
+          <S d="4000" t="708000"></S>
+          <S d="4000" t="712000"></S>
+          <S d="4000" t="716000"></S>
+          <S d="4000" t="720000"></S>
+          <S d="4000" t="724000"></S>
+          <S d="4000" t="728000"></S>
+          <S d="4000" t="732000"></S>
+          <S d="4000" t="736000"></S>
+          <S d="4000" t="740000"></S>
+          <S d="4000" t="744000"></S>
+          <S d="4000" t="748000"></S>
+          <S d="4000" t="752000"></S>
+          <S d="4000" t="756000"></S>
+          <S d="4000" t="760000"></S>
+          <S d="4000" t="764000"></S>
+          <S d="4000" t="768000"></S>
+          <S d="4000" t="772000"></S>
+          <S d="4000" t="776000"></S>
+          <S d="4000" t="780000"></S>
+          <S d="4000" t="784000"></S>
+          <S d="4000" t="788000"></S>
+          <S d="4000" t="792000"></S>
+          <S d="4000" t="796000"></S>
+          <S d="4000" t="800000"></S>
+          <S d="4000" t="804000"></S>
+          <S d="4000" t="808000"></S>
+          <S d="4000" t="812000"></S>
+          <S d="4000" t="816000"></S>
+          <S d="4000" t="820000"></S>
+          <S d="4000" t="824000"></S>
+          <S d="4000" t="828000"></S>
+          <S d="4000" t="832000"></S>
+          <S d="4000" t="836000"></S>
+          <S d="4000" t="840000"></S>
+          <S d="4000" t="844000"></S>
+          <S d="4000" t="848000"></S>
+          <S d="4000" t="852000"></S>
+          <S d="4000" t="856000"></S>
+          <S d="4000" t="860000"></S>
+          <S d="4000" t="864000"></S>
+          <S d="4000" t="868000"></S>
+          <S d="4000" t="872000"></S>
+          <S d="4000" t="876000"></S>
+          <S d="4000" t="880000"></S>
+          <S d="4000" t="884000"></S>
+          <S d="4000" t="888000"></S>
+          <S d="4000" t="892000"></S>
+          <S d="4000" t="896000"></S>
+          <S d="4000" t="900000"></S>
+          <S d="4000" t="904000"></S>
+          <S d="4000" t="908000"></S>
+          <S d="4000" t="912000"></S>
+          <S d="4000" t="916000"></S>
+          <S d="4000" t="920000"></S>
+          <S d="4000" t="924000"></S>
+          <S d="4000" t="928000"></S>
+          <S d="4000" t="932000"></S>
+          <S d="4000" t="936000"></S>
+          <S d="4000" t="940000"></S>
+          <S d="4000" t="944000"></S>
+          <S d="4000" t="948000"></S>
+          <S d="4000" t="952000"></S>
+          <S d="4000" t="956000"></S>
+          <S d="4000" t="960000"></S>
+          <S d="4000" t="964000"></S>
+          <S d="4000" t="968000"></S>
+          <S d="4000" t="972000"></S>
+          <S d="4000" t="976000"></S>
+          <S d="4000" t="980000"></S>
+          <S d="4000" t="984000"></S>
+          <S d="4000" t="988000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="61589"></Representation>
+      <Representation id="f4-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="125588"></Representation>
+    </AdaptationSet>
+    <BaseURL>https://cfvod.kaltura.com</BaseURL>
+  </Period>
+  <Period id="8" start="PT16M37.8S">
+    <AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
+      <Representation id="0" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="402000" width="640" height="360" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/595b7b23-c695-4f29-a985-7c0c76bbcfb9/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-248/bd7f5be2-5-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/595b7b23-c695-4f29-a985-7c0c76bbcfb9/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-248/bd7f5be2-5-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="1" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="602000" width="854" height="480" sar="1280:1281">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/595b7b23-c695-4f29-a985-7c0c76bbcfb9/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-248/bd7f5be2-5-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/595b7b23-c695-4f29-a985-7c0c76bbcfb9/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-248/bd7f5be2-5-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="2" mimeType="video/mp4" codecs="avc1.4d401f" bandwidth="891000" width="960" height="540" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/595b7b23-c695-4f29-a985-7c0c76bbcfb9/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-248/bd7f5be2-5-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/595b7b23-c695-4f29-a985-7c0c76bbcfb9/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-248/bd7f5be2-5-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="3" mimeType="video/mp4" codecs="avc1.4d4020" bandwidth="1409000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/595b7b23-c695-4f29-a985-7c0c76bbcfb9/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-248/bd7f5be2-5-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/595b7b23-c695-4f29-a985-7c0c76bbcfb9/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-248/bd7f5be2-5-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="4" mimeType="video/mp4" codecs="avc1.640028" bandwidth="1955000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/595b7b23-c695-4f29-a985-7c0c76bbcfb9/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-248/bd7f5be2-5-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/595b7b23-c695-4f29-a985-7c0c76bbcfb9/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-248/bd7f5be2-5-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true">
+      <Representation id="5" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="61589" audioSamplingRate="44100">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+        <SegmentTemplate timescale="44100" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/595b7b23-c695-4f29-a985-7c0c76bbcfb9/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-248/bd7f5be2-5-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/595b7b23-c695-4f29-a985-7c0c76bbcfb9/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-248/bd7f5be2-5-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="306176"></S>
+            <S d="221184"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <BaseURL>https://reshet.g-mana.live</BaseURL>
+  </Period>
+  <Period duration="PT4M16S" id="9" start="PT16M49.7S">
+    <AdaptationSet id="1" segmentAlignment="true" maxWidth="1280" maxHeight="720" maxFrameRate="25" contentType="video">
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="252" presentationTimeOffset="1004000">
+        <SegmentTimeline>
+          <S d="4000" t="1004000"></S>
+          <S d="4000" t="1008000"></S>
+          <S d="4000" t="1012000"></S>
+          <S d="4000" t="1016000"></S>
+          <S d="4000" t="1020000"></S>
+          <S d="4000" t="1024000"></S>
+          <S d="4000" t="1028000"></S>
+          <S d="4000" t="1032000"></S>
+          <S d="4000" t="1036000"></S>
+          <S d="4000" t="1040000"></S>
+          <S d="4000" t="1044000"></S>
+          <S d="4000" t="1048000"></S>
+          <S d="4000" t="1052000"></S>
+          <S d="4000" t="1056000"></S>
+          <S d="4000" t="1060000"></S>
+          <S d="4000" t="1064000"></S>
+          <S d="4000" t="1068000"></S>
+          <S d="4000" t="1072000"></S>
+          <S d="4000" t="1076000"></S>
+          <S d="4000" t="1080000"></S>
+          <S d="4000" t="1084000"></S>
+          <S d="4000" t="1088000"></S>
+          <S d="4000" t="1092000"></S>
+          <S d="4000" t="1096000"></S>
+          <S d="4000" t="1100000"></S>
+          <S d="4000" t="1104000"></S>
+          <S d="4000" t="1108000"></S>
+          <S d="4000" t="1112000"></S>
+          <S d="4000" t="1116000"></S>
+          <S d="4000" t="1120000"></S>
+          <S d="4000" t="1124000"></S>
+          <S d="4000" t="1128000"></S>
+          <S d="4000" t="1132000"></S>
+          <S d="4000" t="1136000"></S>
+          <S d="4000" t="1140000"></S>
+          <S d="4000" t="1144000"></S>
+          <S d="4000" t="1148000"></S>
+          <S d="4000" t="1152000"></S>
+          <S d="4000" t="1156000"></S>
+          <S d="4000" t="1160000"></S>
+          <S d="4000" t="1164000"></S>
+          <S d="4000" t="1168000"></S>
+          <S d="4000" t="1172000"></S>
+          <S d="4000" t="1176000"></S>
+          <S d="4000" t="1180000"></S>
+          <S d="4000" t="1184000"></S>
+          <S d="4000" t="1188000"></S>
+          <S d="4000" t="1192000"></S>
+          <S d="4000" t="1196000"></S>
+          <S d="4000" t="1200000"></S>
+          <S d="4000" t="1204000"></S>
+          <S d="4000" t="1208000"></S>
+          <S d="4000" t="1212000"></S>
+          <S d="4000" t="1216000"></S>
+          <S d="4000" t="1220000"></S>
+          <S d="4000" t="1224000"></S>
+          <S d="4000" t="1228000"></S>
+          <S d="4000" t="1232000"></S>
+          <S d="4000" t="1236000"></S>
+          <S d="4000" t="1240000"></S>
+          <S d="4000" t="1244000"></S>
+          <S d="4000" t="1248000"></S>
+          <S d="4000" t="1252000"></S>
+          <S d="4000" t="1256000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="640" height="360" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="402310"></Representation>
+      <Representation id="f2-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="854" height="480" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="602978"></Representation>
+      <Representation id="f3-v1-x3" mimeType="video/mp4" codecs="avc1.4d401f" width="960" height="540" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="891181"></Representation>
+      <Representation id="f4-v1-x3" mimeType="video/mp4" codecs="avc1.4d4020" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1409971"></Representation>
+      <Representation id="f5-v1-x3" mimeType="video/mp4" codecs="avc1.640028" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1955451"></Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" segmentAlignment="true" contentType="audio">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"></AudioChannelConfiguration>
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="252" presentationTimeOffset="1004000">
+        <SegmentTimeline>
+          <S d="4000" t="1004000"></S>
+          <S d="4000" t="1008000"></S>
+          <S d="4000" t="1012000"></S>
+          <S d="4000" t="1016000"></S>
+          <S d="4000" t="1020000"></S>
+          <S d="4000" t="1024000"></S>
+          <S d="4000" t="1028000"></S>
+          <S d="4000" t="1032000"></S>
+          <S d="4000" t="1036000"></S>
+          <S d="4000" t="1040000"></S>
+          <S d="4000" t="1044000"></S>
+          <S d="4000" t="1048000"></S>
+          <S d="4000" t="1052000"></S>
+          <S d="4000" t="1056000"></S>
+          <S d="4000" t="1060000"></S>
+          <S d="4000" t="1064000"></S>
+          <S d="4000" t="1068000"></S>
+          <S d="4000" t="1072000"></S>
+          <S d="4000" t="1076000"></S>
+          <S d="4000" t="1080000"></S>
+          <S d="4000" t="1084000"></S>
+          <S d="4000" t="1088000"></S>
+          <S d="4000" t="1092000"></S>
+          <S d="4000" t="1096000"></S>
+          <S d="4000" t="1100000"></S>
+          <S d="4000" t="1104000"></S>
+          <S d="4000" t="1108000"></S>
+          <S d="4000" t="1112000"></S>
+          <S d="4000" t="1116000"></S>
+          <S d="4000" t="1120000"></S>
+          <S d="4000" t="1124000"></S>
+          <S d="4000" t="1128000"></S>
+          <S d="4000" t="1132000"></S>
+          <S d="4000" t="1136000"></S>
+          <S d="4000" t="1140000"></S>
+          <S d="4000" t="1144000"></S>
+          <S d="4000" t="1148000"></S>
+          <S d="4000" t="1152000"></S>
+          <S d="4000" t="1156000"></S>
+          <S d="4000" t="1160000"></S>
+          <S d="4000" t="1164000"></S>
+          <S d="4000" t="1168000"></S>
+          <S d="4000" t="1172000"></S>
+          <S d="4000" t="1176000"></S>
+          <S d="4000" t="1180000"></S>
+          <S d="4000" t="1184000"></S>
+          <S d="4000" t="1188000"></S>
+          <S d="4000" t="1192000"></S>
+          <S d="4000" t="1196000"></S>
+          <S d="4000" t="1200000"></S>
+          <S d="4000" t="1204000"></S>
+          <S d="4000" t="1208000"></S>
+          <S d="4000" t="1212000"></S>
+          <S d="4000" t="1216000"></S>
+          <S d="4000" t="1220000"></S>
+          <S d="4000" t="1224000"></S>
+          <S d="4000" t="1228000"></S>
+          <S d="4000" t="1232000"></S>
+          <S d="4000" t="1236000"></S>
+          <S d="4000" t="1240000"></S>
+          <S d="4000" t="1244000"></S>
+          <S d="4000" t="1248000"></S>
+          <S d="4000" t="1252000"></S>
+          <S d="4000" t="1256000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="61589"></Representation>
+      <Representation id="f4-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="125588"></Representation>
+    </AdaptationSet>
+    <BaseURL>https://cfvod.kaltura.com</BaseURL>
+  </Period>
+  <Period id="10" start="PT21M5.7S">
+    <AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
+      <Representation id="0" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="402000" width="640" height="360" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/335cff93-8fca-4b05-9d06-088699b6d30c/100/midroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138549371508--6790005965fbe891592f3ecc695736a1e3289e8b/23170822-0-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/335cff93-8fca-4b05-9d06-088699b6d30c/100/midroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138549371508--6790005965fbe891592f3ecc695736a1e3289e8b/23170822-0-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="76800" r="2"></S>
+            <S d="25600"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="1" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="602000" width="854" height="480" sar="1280:1281">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/335cff93-8fca-4b05-9d06-088699b6d30c/100/midroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138549371508--6790005965fbe891592f3ecc695736a1e3289e8b/23170822-0-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/335cff93-8fca-4b05-9d06-088699b6d30c/100/midroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138549371508--6790005965fbe891592f3ecc695736a1e3289e8b/23170822-0-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="76800" r="2"></S>
+            <S d="25600"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="2" mimeType="video/mp4" codecs="avc1.4d401f" bandwidth="891000" width="960" height="540" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/335cff93-8fca-4b05-9d06-088699b6d30c/100/midroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138549371508--6790005965fbe891592f3ecc695736a1e3289e8b/23170822-0-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/335cff93-8fca-4b05-9d06-088699b6d30c/100/midroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138549371508--6790005965fbe891592f3ecc695736a1e3289e8b/23170822-0-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="76800" r="2"></S>
+            <S d="25600"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="3" mimeType="video/mp4" codecs="avc1.4d4020" bandwidth="1409000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/335cff93-8fca-4b05-9d06-088699b6d30c/100/midroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138549371508--6790005965fbe891592f3ecc695736a1e3289e8b/23170822-0-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/335cff93-8fca-4b05-9d06-088699b6d30c/100/midroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138549371508--6790005965fbe891592f3ecc695736a1e3289e8b/23170822-0-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="76800" r="2"></S>
+            <S d="25600"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="4" mimeType="video/mp4" codecs="avc1.640028" bandwidth="1955000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/335cff93-8fca-4b05-9d06-088699b6d30c/100/midroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138549371508--6790005965fbe891592f3ecc695736a1e3289e8b/23170822-0-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/335cff93-8fca-4b05-9d06-088699b6d30c/100/midroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138549371508--6790005965fbe891592f3ecc695736a1e3289e8b/23170822-0-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="76800" r="2"></S>
+            <S d="25600"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" lang="und">
+      <Representation id="5" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="61589" audioSamplingRate="44100">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+        <SegmentTemplate timescale="44100" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/335cff93-8fca-4b05-9d06-088699b6d30c/100/midroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138549371508--6790005965fbe891592f3ecc695736a1e3289e8b/23170822-0-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/335cff93-8fca-4b05-9d06-088699b6d30c/100/midroll/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-138549371508--6790005965fbe891592f3ecc695736a1e3289e8b/23170822-0-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="261120"></S>
+            <S d="265216"></S>
+            <S d="264192"></S>
+            <S d="91136"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <BaseURL>https://reshet.g-mana.live</BaseURL>
+  </Period>
+  <Period duration="PT32S" id="11" start="PT21M25.7S">
+    <AdaptationSet id="1" segmentAlignment="true" maxWidth="1280" maxHeight="720" maxFrameRate="25" contentType="video">
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="316" presentationTimeOffset="1260000">
+        <SegmentTimeline>
+          <S d="4000" t="1260000"></S>
+          <S d="4000" t="1264000"></S>
+          <S d="4000" t="1268000"></S>
+          <S d="4000" t="1272000"></S>
+          <S d="4000" t="1276000"></S>
+          <S d="4000" t="1280000"></S>
+          <S d="4000" t="1284000"></S>
+          <S d="4000" t="1288000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="640" height="360" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="402310"></Representation>
+      <Representation id="f2-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="854" height="480" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="602978"></Representation>
+      <Representation id="f3-v1-x3" mimeType="video/mp4" codecs="avc1.4d401f" width="960" height="540" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="891181"></Representation>
+      <Representation id="f4-v1-x3" mimeType="video/mp4" codecs="avc1.4d4020" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1409971"></Representation>
+      <Representation id="f5-v1-x3" mimeType="video/mp4" codecs="avc1.640028" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1955451"></Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" segmentAlignment="true" contentType="audio">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"></AudioChannelConfiguration>
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="316" presentationTimeOffset="1260000">
+        <SegmentTimeline>
+          <S d="4000" t="1260000"></S>
+          <S d="4000" t="1264000"></S>
+          <S d="4000" t="1268000"></S>
+          <S d="4000" t="1272000"></S>
+          <S d="4000" t="1276000"></S>
+          <S d="4000" t="1280000"></S>
+          <S d="4000" t="1284000"></S>
+          <S d="4000" t="1288000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="61589"></Representation>
+      <Representation id="f4-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="125588"></Representation>
+    </AdaptationSet>
+    <BaseURL>https://cfvod.kaltura.com</BaseURL>
+  </Period>
+  <Period id="12" start="PT21M57.7S">
+    <AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
+      <Representation id="0" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="402000" width="640" height="360" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/e79350aa-e512-42cc-9270-9bf7669d920e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-323/693c5693-a-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/e79350aa-e512-42cc-9270-9bf7669d920e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-323/693c5693-a-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="1" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="602000" width="854" height="480" sar="1280:1281">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/e79350aa-e512-42cc-9270-9bf7669d920e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-323/693c5693-a-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/e79350aa-e512-42cc-9270-9bf7669d920e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-323/693c5693-a-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="2" mimeType="video/mp4" codecs="avc1.4d401f" bandwidth="891000" width="960" height="540" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/e79350aa-e512-42cc-9270-9bf7669d920e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-323/693c5693-a-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/e79350aa-e512-42cc-9270-9bf7669d920e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-323/693c5693-a-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="3" mimeType="video/mp4" codecs="avc1.4d4020" bandwidth="1409000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/e79350aa-e512-42cc-9270-9bf7669d920e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-323/693c5693-a-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/e79350aa-e512-42cc-9270-9bf7669d920e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-323/693c5693-a-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="4" mimeType="video/mp4" codecs="avc1.640028" bandwidth="1955000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/e79350aa-e512-42cc-9270-9bf7669d920e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-323/693c5693-a-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/e79350aa-e512-42cc-9270-9bf7669d920e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-323/693c5693-a-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true">
+      <Representation id="5" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="61589" audioSamplingRate="44100">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+        <SegmentTemplate timescale="44100" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/e79350aa-e512-42cc-9270-9bf7669d920e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-323/693c5693-a-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/e79350aa-e512-42cc-9270-9bf7669d920e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-323/693c5693-a-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="306176"></S>
+            <S d="221184"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <BaseURL>https://reshet.g-mana.live</BaseURL>
+  </Period>
+  <Period duration="PT4M48S" id="13" start="PT22M9.6S">
+    <AdaptationSet id="1" segmentAlignment="true" maxWidth="1280" maxHeight="720" maxFrameRate="25" contentType="video">
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="327" presentationTimeOffset="1304000">
+        <SegmentTimeline>
+          <S d="4000" t="1304000"></S>
+          <S d="4000" t="1308000"></S>
+          <S d="4000" t="1312000"></S>
+          <S d="4000" t="1316000"></S>
+          <S d="4000" t="1320000"></S>
+          <S d="4000" t="1324000"></S>
+          <S d="4000" t="1328000"></S>
+          <S d="4000" t="1332000"></S>
+          <S d="4000" t="1336000"></S>
+          <S d="4000" t="1340000"></S>
+          <S d="4000" t="1344000"></S>
+          <S d="4000" t="1348000"></S>
+          <S d="4000" t="1352000"></S>
+          <S d="4000" t="1356000"></S>
+          <S d="4000" t="1360000"></S>
+          <S d="4000" t="1364000"></S>
+          <S d="4000" t="1368000"></S>
+          <S d="4000" t="1372000"></S>
+          <S d="4000" t="1376000"></S>
+          <S d="4000" t="1380000"></S>
+          <S d="4000" t="1384000"></S>
+          <S d="4000" t="1388000"></S>
+          <S d="4000" t="1392000"></S>
+          <S d="4000" t="1396000"></S>
+          <S d="4000" t="1400000"></S>
+          <S d="4000" t="1404000"></S>
+          <S d="4000" t="1408000"></S>
+          <S d="4000" t="1412000"></S>
+          <S d="4000" t="1416000"></S>
+          <S d="4000" t="1420000"></S>
+          <S d="4000" t="1424000"></S>
+          <S d="4000" t="1428000"></S>
+          <S d="4000" t="1432000"></S>
+          <S d="4000" t="1436000"></S>
+          <S d="4000" t="1440000"></S>
+          <S d="4000" t="1444000"></S>
+          <S d="4000" t="1448000"></S>
+          <S d="4000" t="1452000"></S>
+          <S d="4000" t="1456000"></S>
+          <S d="4000" t="1460000"></S>
+          <S d="4000" t="1464000"></S>
+          <S d="4000" t="1468000"></S>
+          <S d="4000" t="1472000"></S>
+          <S d="4000" t="1476000"></S>
+          <S d="4000" t="1480000"></S>
+          <S d="4000" t="1484000"></S>
+          <S d="4000" t="1488000"></S>
+          <S d="4000" t="1492000"></S>
+          <S d="4000" t="1496000"></S>
+          <S d="4000" t="1500000"></S>
+          <S d="4000" t="1504000"></S>
+          <S d="4000" t="1508000"></S>
+          <S d="4000" t="1512000"></S>
+          <S d="4000" t="1516000"></S>
+          <S d="4000" t="1520000"></S>
+          <S d="4000" t="1524000"></S>
+          <S d="4000" t="1528000"></S>
+          <S d="4000" t="1532000"></S>
+          <S d="4000" t="1536000"></S>
+          <S d="4000" t="1540000"></S>
+          <S d="4000" t="1544000"></S>
+          <S d="4000" t="1548000"></S>
+          <S d="4000" t="1552000"></S>
+          <S d="4000" t="1556000"></S>
+          <S d="4000" t="1560000"></S>
+          <S d="4000" t="1564000"></S>
+          <S d="4000" t="1568000"></S>
+          <S d="4000" t="1572000"></S>
+          <S d="4000" t="1576000"></S>
+          <S d="4000" t="1580000"></S>
+          <S d="4000" t="1584000"></S>
+          <S d="4000" t="1588000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="640" height="360" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="402310"></Representation>
+      <Representation id="f2-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="854" height="480" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="602978"></Representation>
+      <Representation id="f3-v1-x3" mimeType="video/mp4" codecs="avc1.4d401f" width="960" height="540" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="891181"></Representation>
+      <Representation id="f4-v1-x3" mimeType="video/mp4" codecs="avc1.4d4020" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1409971"></Representation>
+      <Representation id="f5-v1-x3" mimeType="video/mp4" codecs="avc1.640028" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1955451"></Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" segmentAlignment="true" contentType="audio">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"></AudioChannelConfiguration>
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="327" presentationTimeOffset="1304000">
+        <SegmentTimeline>
+          <S d="4000" t="1304000"></S>
+          <S d="4000" t="1308000"></S>
+          <S d="4000" t="1312000"></S>
+          <S d="4000" t="1316000"></S>
+          <S d="4000" t="1320000"></S>
+          <S d="4000" t="1324000"></S>
+          <S d="4000" t="1328000"></S>
+          <S d="4000" t="1332000"></S>
+          <S d="4000" t="1336000"></S>
+          <S d="4000" t="1340000"></S>
+          <S d="4000" t="1344000"></S>
+          <S d="4000" t="1348000"></S>
+          <S d="4000" t="1352000"></S>
+          <S d="4000" t="1356000"></S>
+          <S d="4000" t="1360000"></S>
+          <S d="4000" t="1364000"></S>
+          <S d="4000" t="1368000"></S>
+          <S d="4000" t="1372000"></S>
+          <S d="4000" t="1376000"></S>
+          <S d="4000" t="1380000"></S>
+          <S d="4000" t="1384000"></S>
+          <S d="4000" t="1388000"></S>
+          <S d="4000" t="1392000"></S>
+          <S d="4000" t="1396000"></S>
+          <S d="4000" t="1400000"></S>
+          <S d="4000" t="1404000"></S>
+          <S d="4000" t="1408000"></S>
+          <S d="4000" t="1412000"></S>
+          <S d="4000" t="1416000"></S>
+          <S d="4000" t="1420000"></S>
+          <S d="4000" t="1424000"></S>
+          <S d="4000" t="1428000"></S>
+          <S d="4000" t="1432000"></S>
+          <S d="4000" t="1436000"></S>
+          <S d="4000" t="1440000"></S>
+          <S d="4000" t="1444000"></S>
+          <S d="4000" t="1448000"></S>
+          <S d="4000" t="1452000"></S>
+          <S d="4000" t="1456000"></S>
+          <S d="4000" t="1460000"></S>
+          <S d="4000" t="1464000"></S>
+          <S d="4000" t="1468000"></S>
+          <S d="4000" t="1472000"></S>
+          <S d="4000" t="1476000"></S>
+          <S d="4000" t="1480000"></S>
+          <S d="4000" t="1484000"></S>
+          <S d="4000" t="1488000"></S>
+          <S d="4000" t="1492000"></S>
+          <S d="4000" t="1496000"></S>
+          <S d="4000" t="1500000"></S>
+          <S d="4000" t="1504000"></S>
+          <S d="4000" t="1508000"></S>
+          <S d="4000" t="1512000"></S>
+          <S d="4000" t="1516000"></S>
+          <S d="4000" t="1520000"></S>
+          <S d="4000" t="1524000"></S>
+          <S d="4000" t="1528000"></S>
+          <S d="4000" t="1532000"></S>
+          <S d="4000" t="1536000"></S>
+          <S d="4000" t="1540000"></S>
+          <S d="4000" t="1544000"></S>
+          <S d="4000" t="1548000"></S>
+          <S d="4000" t="1552000"></S>
+          <S d="4000" t="1556000"></S>
+          <S d="4000" t="1560000"></S>
+          <S d="4000" t="1564000"></S>
+          <S d="4000" t="1568000"></S>
+          <S d="4000" t="1572000"></S>
+          <S d="4000" t="1576000"></S>
+          <S d="4000" t="1580000"></S>
+          <S d="4000" t="1584000"></S>
+          <S d="4000" t="1588000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="61589"></Representation>
+      <Representation id="f4-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="125588"></Representation>
+    </AdaptationSet>
+    <BaseURL>https://cfvod.kaltura.com</BaseURL>
+  </Period>
+  <Period id="14" start="PT26M57.6S">
+    <AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
+      <Representation id="0" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="402000" width="640" height="360" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/47ebb131-5c3b-4a29-b4e1-6aba19f8f58e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-398/06414c66-d-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/47ebb131-5c3b-4a29-b4e1-6aba19f8f58e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-398/06414c66-d-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="1" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="602000" width="854" height="480" sar="1280:1281">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/47ebb131-5c3b-4a29-b4e1-6aba19f8f58e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-398/06414c66-d-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/47ebb131-5c3b-4a29-b4e1-6aba19f8f58e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-398/06414c66-d-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="2" mimeType="video/mp4" codecs="avc1.4d401f" bandwidth="891000" width="960" height="540" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/47ebb131-5c3b-4a29-b4e1-6aba19f8f58e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-398/06414c66-d-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/47ebb131-5c3b-4a29-b4e1-6aba19f8f58e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-398/06414c66-d-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="3" mimeType="video/mp4" codecs="avc1.4d4020" bandwidth="1409000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/47ebb131-5c3b-4a29-b4e1-6aba19f8f58e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-398/06414c66-d-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/47ebb131-5c3b-4a29-b4e1-6aba19f8f58e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-398/06414c66-d-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="4" mimeType="video/mp4" codecs="avc1.640028" bandwidth="1955000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/47ebb131-5c3b-4a29-b4e1-6aba19f8f58e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-398/06414c66-d-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/47ebb131-5c3b-4a29-b4e1-6aba19f8f58e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-398/06414c66-d-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true">
+      <Representation id="5" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="61589" audioSamplingRate="44100">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+        <SegmentTemplate timescale="44100" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/47ebb131-5c3b-4a29-b4e1-6aba19f8f58e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-398/06414c66-d-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/47ebb131-5c3b-4a29-b4e1-6aba19f8f58e/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-398/06414c66-d-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="306176"></S>
+            <S d="222207"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <BaseURL>https://reshet.g-mana.live</BaseURL>
+  </Period>
+  <Period duration="PT4M48S" id="15" start="PT27M9.6S">
+    <AdaptationSet id="1" segmentAlignment="true" maxWidth="1280" maxHeight="720" maxFrameRate="25" contentType="video">
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="402" presentationTimeOffset="1604000">
+        <SegmentTimeline>
+          <S d="4000" t="1604000"></S>
+          <S d="4000" t="1608000"></S>
+          <S d="4000" t="1612000"></S>
+          <S d="4000" t="1616000"></S>
+          <S d="4000" t="1620000"></S>
+          <S d="4000" t="1624000"></S>
+          <S d="4000" t="1628000"></S>
+          <S d="4000" t="1632000"></S>
+          <S d="4000" t="1636000"></S>
+          <S d="4000" t="1640000"></S>
+          <S d="4000" t="1644000"></S>
+          <S d="4000" t="1648000"></S>
+          <S d="4000" t="1652000"></S>
+          <S d="4000" t="1656000"></S>
+          <S d="4000" t="1660000"></S>
+          <S d="4000" t="1664000"></S>
+          <S d="4000" t="1668000"></S>
+          <S d="4000" t="1672000"></S>
+          <S d="4000" t="1676000"></S>
+          <S d="4000" t="1680000"></S>
+          <S d="4000" t="1684000"></S>
+          <S d="4000" t="1688000"></S>
+          <S d="4000" t="1692000"></S>
+          <S d="4000" t="1696000"></S>
+          <S d="4000" t="1700000"></S>
+          <S d="4000" t="1704000"></S>
+          <S d="4000" t="1708000"></S>
+          <S d="4000" t="1712000"></S>
+          <S d="4000" t="1716000"></S>
+          <S d="4000" t="1720000"></S>
+          <S d="4000" t="1724000"></S>
+          <S d="4000" t="1728000"></S>
+          <S d="4000" t="1732000"></S>
+          <S d="4000" t="1736000"></S>
+          <S d="4000" t="1740000"></S>
+          <S d="4000" t="1744000"></S>
+          <S d="4000" t="1748000"></S>
+          <S d="4000" t="1752000"></S>
+          <S d="4000" t="1756000"></S>
+          <S d="4000" t="1760000"></S>
+          <S d="4000" t="1764000"></S>
+          <S d="4000" t="1768000"></S>
+          <S d="4000" t="1772000"></S>
+          <S d="4000" t="1776000"></S>
+          <S d="4000" t="1780000"></S>
+          <S d="4000" t="1784000"></S>
+          <S d="4000" t="1788000"></S>
+          <S d="4000" t="1792000"></S>
+          <S d="4000" t="1796000"></S>
+          <S d="4000" t="1800000"></S>
+          <S d="4000" t="1804000"></S>
+          <S d="4000" t="1808000"></S>
+          <S d="4000" t="1812000"></S>
+          <S d="4000" t="1816000"></S>
+          <S d="4000" t="1820000"></S>
+          <S d="4000" t="1824000"></S>
+          <S d="4000" t="1828000"></S>
+          <S d="4000" t="1832000"></S>
+          <S d="4000" t="1836000"></S>
+          <S d="4000" t="1840000"></S>
+          <S d="4000" t="1844000"></S>
+          <S d="4000" t="1848000"></S>
+          <S d="4000" t="1852000"></S>
+          <S d="4000" t="1856000"></S>
+          <S d="4000" t="1860000"></S>
+          <S d="4000" t="1864000"></S>
+          <S d="4000" t="1868000"></S>
+          <S d="4000" t="1872000"></S>
+          <S d="4000" t="1876000"></S>
+          <S d="4000" t="1880000"></S>
+          <S d="4000" t="1884000"></S>
+          <S d="4000" t="1888000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="640" height="360" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="402310"></Representation>
+      <Representation id="f2-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="854" height="480" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="602978"></Representation>
+      <Representation id="f3-v1-x3" mimeType="video/mp4" codecs="avc1.4d401f" width="960" height="540" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="891181"></Representation>
+      <Representation id="f4-v1-x3" mimeType="video/mp4" codecs="avc1.4d4020" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1409971"></Representation>
+      <Representation id="f5-v1-x3" mimeType="video/mp4" codecs="avc1.640028" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1955451"></Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" segmentAlignment="true" contentType="audio">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"></AudioChannelConfiguration>
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="402" presentationTimeOffset="1604000">
+        <SegmentTimeline>
+          <S d="4000" t="1604000"></S>
+          <S d="4000" t="1608000"></S>
+          <S d="4000" t="1612000"></S>
+          <S d="4000" t="1616000"></S>
+          <S d="4000" t="1620000"></S>
+          <S d="4000" t="1624000"></S>
+          <S d="4000" t="1628000"></S>
+          <S d="4000" t="1632000"></S>
+          <S d="4000" t="1636000"></S>
+          <S d="4000" t="1640000"></S>
+          <S d="4000" t="1644000"></S>
+          <S d="4000" t="1648000"></S>
+          <S d="4000" t="1652000"></S>
+          <S d="4000" t="1656000"></S>
+          <S d="4000" t="1660000"></S>
+          <S d="4000" t="1664000"></S>
+          <S d="4000" t="1668000"></S>
+          <S d="4000" t="1672000"></S>
+          <S d="4000" t="1676000"></S>
+          <S d="4000" t="1680000"></S>
+          <S d="4000" t="1684000"></S>
+          <S d="4000" t="1688000"></S>
+          <S d="4000" t="1692000"></S>
+          <S d="4000" t="1696000"></S>
+          <S d="4000" t="1700000"></S>
+          <S d="4000" t="1704000"></S>
+          <S d="4000" t="1708000"></S>
+          <S d="4000" t="1712000"></S>
+          <S d="4000" t="1716000"></S>
+          <S d="4000" t="1720000"></S>
+          <S d="4000" t="1724000"></S>
+          <S d="4000" t="1728000"></S>
+          <S d="4000" t="1732000"></S>
+          <S d="4000" t="1736000"></S>
+          <S d="4000" t="1740000"></S>
+          <S d="4000" t="1744000"></S>
+          <S d="4000" t="1748000"></S>
+          <S d="4000" t="1752000"></S>
+          <S d="4000" t="1756000"></S>
+          <S d="4000" t="1760000"></S>
+          <S d="4000" t="1764000"></S>
+          <S d="4000" t="1768000"></S>
+          <S d="4000" t="1772000"></S>
+          <S d="4000" t="1776000"></S>
+          <S d="4000" t="1780000"></S>
+          <S d="4000" t="1784000"></S>
+          <S d="4000" t="1788000"></S>
+          <S d="4000" t="1792000"></S>
+          <S d="4000" t="1796000"></S>
+          <S d="4000" t="1800000"></S>
+          <S d="4000" t="1804000"></S>
+          <S d="4000" t="1808000"></S>
+          <S d="4000" t="1812000"></S>
+          <S d="4000" t="1816000"></S>
+          <S d="4000" t="1820000"></S>
+          <S d="4000" t="1824000"></S>
+          <S d="4000" t="1828000"></S>
+          <S d="4000" t="1832000"></S>
+          <S d="4000" t="1836000"></S>
+          <S d="4000" t="1840000"></S>
+          <S d="4000" t="1844000"></S>
+          <S d="4000" t="1848000"></S>
+          <S d="4000" t="1852000"></S>
+          <S d="4000" t="1856000"></S>
+          <S d="4000" t="1860000"></S>
+          <S d="4000" t="1864000"></S>
+          <S d="4000" t="1868000"></S>
+          <S d="4000" t="1872000"></S>
+          <S d="4000" t="1876000"></S>
+          <S d="4000" t="1880000"></S>
+          <S d="4000" t="1884000"></S>
+          <S d="4000" t="1888000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="61589"></Representation>
+      <Representation id="f4-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="125588"></Representation>
+    </AdaptationSet>
+    <BaseURL>https://cfvod.kaltura.com</BaseURL>
+  </Period>
+  <Period id="16" start="PT31M57.6S">
+    <AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
+      <Representation id="0" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="402000" width="640" height="360" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3d73174d-005c-434c-8c4a-de2a78c76b2b/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-473/1c61922d-4-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3d73174d-005c-434c-8c4a-de2a78c76b2b/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-473/1c61922d-4-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="1" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="602000" width="854" height="480" sar="1280:1281">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3d73174d-005c-434c-8c4a-de2a78c76b2b/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-473/1c61922d-4-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3d73174d-005c-434c-8c4a-de2a78c76b2b/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-473/1c61922d-4-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="2" mimeType="video/mp4" codecs="avc1.4d401f" bandwidth="891000" width="960" height="540" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3d73174d-005c-434c-8c4a-de2a78c76b2b/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-473/1c61922d-4-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3d73174d-005c-434c-8c4a-de2a78c76b2b/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-473/1c61922d-4-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="3" mimeType="video/mp4" codecs="avc1.4d4020" bandwidth="1409000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3d73174d-005c-434c-8c4a-de2a78c76b2b/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-473/1c61922d-4-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3d73174d-005c-434c-8c4a-de2a78c76b2b/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-473/1c61922d-4-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="4" mimeType="video/mp4" codecs="avc1.640028" bandwidth="1955000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3d73174d-005c-434c-8c4a-de2a78c76b2b/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-473/1c61922d-4-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3d73174d-005c-434c-8c4a-de2a78c76b2b/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-473/1c61922d-4-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true">
+      <Representation id="5" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="61589" audioSamplingRate="44100">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+        <SegmentTemplate timescale="44100" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3d73174d-005c-434c-8c4a-de2a78c76b2b/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-473/1c61922d-4-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3d73174d-005c-434c-8c4a-de2a78c76b2b/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-473/1c61922d-4-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="306176"></S>
+            <S d="221184"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <BaseURL>https://reshet.g-mana.live</BaseURL>
+  </Period>
+  <Period duration="PT4M48S" id="17" start="PT32M9.5S">
+    <AdaptationSet id="1" segmentAlignment="true" maxWidth="1280" maxHeight="720" maxFrameRate="25" contentType="video">
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="477" presentationTimeOffset="1904000">
+        <SegmentTimeline>
+          <S d="4000" t="1904000"></S>
+          <S d="4000" t="1908000"></S>
+          <S d="4000" t="1912000"></S>
+          <S d="4000" t="1916000"></S>
+          <S d="4000" t="1920000"></S>
+          <S d="4000" t="1924000"></S>
+          <S d="4000" t="1928000"></S>
+          <S d="4000" t="1932000"></S>
+          <S d="4000" t="1936000"></S>
+          <S d="4000" t="1940000"></S>
+          <S d="4000" t="1944000"></S>
+          <S d="4000" t="1948000"></S>
+          <S d="4000" t="1952000"></S>
+          <S d="4000" t="1956000"></S>
+          <S d="4000" t="1960000"></S>
+          <S d="4000" t="1964000"></S>
+          <S d="4000" t="1968000"></S>
+          <S d="4000" t="1972000"></S>
+          <S d="4000" t="1976000"></S>
+          <S d="4000" t="1980000"></S>
+          <S d="4000" t="1984000"></S>
+          <S d="4000" t="1988000"></S>
+          <S d="4000" t="1992000"></S>
+          <S d="4000" t="1996000"></S>
+          <S d="4000" t="2000000"></S>
+          <S d="4000" t="2004000"></S>
+          <S d="4000" t="2008000"></S>
+          <S d="4000" t="2012000"></S>
+          <S d="4000" t="2016000"></S>
+          <S d="4000" t="2020000"></S>
+          <S d="4000" t="2024000"></S>
+          <S d="4000" t="2028000"></S>
+          <S d="4000" t="2032000"></S>
+          <S d="4000" t="2036000"></S>
+          <S d="4000" t="2040000"></S>
+          <S d="4000" t="2044000"></S>
+          <S d="4000" t="2048000"></S>
+          <S d="4000" t="2052000"></S>
+          <S d="4000" t="2056000"></S>
+          <S d="4000" t="2060000"></S>
+          <S d="4000" t="2064000"></S>
+          <S d="4000" t="2068000"></S>
+          <S d="4000" t="2072000"></S>
+          <S d="4000" t="2076000"></S>
+          <S d="4000" t="2080000"></S>
+          <S d="4000" t="2084000"></S>
+          <S d="4000" t="2088000"></S>
+          <S d="4000" t="2092000"></S>
+          <S d="4000" t="2096000"></S>
+          <S d="4000" t="2100000"></S>
+          <S d="4000" t="2104000"></S>
+          <S d="4000" t="2108000"></S>
+          <S d="4000" t="2112000"></S>
+          <S d="4000" t="2116000"></S>
+          <S d="4000" t="2120000"></S>
+          <S d="4000" t="2124000"></S>
+          <S d="4000" t="2128000"></S>
+          <S d="4000" t="2132000"></S>
+          <S d="4000" t="2136000"></S>
+          <S d="4000" t="2140000"></S>
+          <S d="4000" t="2144000"></S>
+          <S d="4000" t="2148000"></S>
+          <S d="4000" t="2152000"></S>
+          <S d="4000" t="2156000"></S>
+          <S d="4000" t="2160000"></S>
+          <S d="4000" t="2164000"></S>
+          <S d="4000" t="2168000"></S>
+          <S d="4000" t="2172000"></S>
+          <S d="4000" t="2176000"></S>
+          <S d="4000" t="2180000"></S>
+          <S d="4000" t="2184000"></S>
+          <S d="4000" t="2188000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="640" height="360" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="402310"></Representation>
+      <Representation id="f2-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="854" height="480" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="602978"></Representation>
+      <Representation id="f3-v1-x3" mimeType="video/mp4" codecs="avc1.4d401f" width="960" height="540" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="891181"></Representation>
+      <Representation id="f4-v1-x3" mimeType="video/mp4" codecs="avc1.4d4020" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1409971"></Representation>
+      <Representation id="f5-v1-x3" mimeType="video/mp4" codecs="avc1.640028" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1955451"></Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" segmentAlignment="true" contentType="audio">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"></AudioChannelConfiguration>
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="477" presentationTimeOffset="1904000">
+        <SegmentTimeline>
+          <S d="4000" t="1904000"></S>
+          <S d="4000" t="1908000"></S>
+          <S d="4000" t="1912000"></S>
+          <S d="4000" t="1916000"></S>
+          <S d="4000" t="1920000"></S>
+          <S d="4000" t="1924000"></S>
+          <S d="4000" t="1928000"></S>
+          <S d="4000" t="1932000"></S>
+          <S d="4000" t="1936000"></S>
+          <S d="4000" t="1940000"></S>
+          <S d="4000" t="1944000"></S>
+          <S d="4000" t="1948000"></S>
+          <S d="4000" t="1952000"></S>
+          <S d="4000" t="1956000"></S>
+          <S d="4000" t="1960000"></S>
+          <S d="4000" t="1964000"></S>
+          <S d="4000" t="1968000"></S>
+          <S d="4000" t="1972000"></S>
+          <S d="4000" t="1976000"></S>
+          <S d="4000" t="1980000"></S>
+          <S d="4000" t="1984000"></S>
+          <S d="4000" t="1988000"></S>
+          <S d="4000" t="1992000"></S>
+          <S d="4000" t="1996000"></S>
+          <S d="4000" t="2000000"></S>
+          <S d="4000" t="2004000"></S>
+          <S d="4000" t="2008000"></S>
+          <S d="4000" t="2012000"></S>
+          <S d="4000" t="2016000"></S>
+          <S d="4000" t="2020000"></S>
+          <S d="4000" t="2024000"></S>
+          <S d="4000" t="2028000"></S>
+          <S d="4000" t="2032000"></S>
+          <S d="4000" t="2036000"></S>
+          <S d="4000" t="2040000"></S>
+          <S d="4000" t="2044000"></S>
+          <S d="4000" t="2048000"></S>
+          <S d="4000" t="2052000"></S>
+          <S d="4000" t="2056000"></S>
+          <S d="4000" t="2060000"></S>
+          <S d="4000" t="2064000"></S>
+          <S d="4000" t="2068000"></S>
+          <S d="4000" t="2072000"></S>
+          <S d="4000" t="2076000"></S>
+          <S d="4000" t="2080000"></S>
+          <S d="4000" t="2084000"></S>
+          <S d="4000" t="2088000"></S>
+          <S d="4000" t="2092000"></S>
+          <S d="4000" t="2096000"></S>
+          <S d="4000" t="2100000"></S>
+          <S d="4000" t="2104000"></S>
+          <S d="4000" t="2108000"></S>
+          <S d="4000" t="2112000"></S>
+          <S d="4000" t="2116000"></S>
+          <S d="4000" t="2120000"></S>
+          <S d="4000" t="2124000"></S>
+          <S d="4000" t="2128000"></S>
+          <S d="4000" t="2132000"></S>
+          <S d="4000" t="2136000"></S>
+          <S d="4000" t="2140000"></S>
+          <S d="4000" t="2144000"></S>
+          <S d="4000" t="2148000"></S>
+          <S d="4000" t="2152000"></S>
+          <S d="4000" t="2156000"></S>
+          <S d="4000" t="2160000"></S>
+          <S d="4000" t="2164000"></S>
+          <S d="4000" t="2168000"></S>
+          <S d="4000" t="2172000"></S>
+          <S d="4000" t="2176000"></S>
+          <S d="4000" t="2180000"></S>
+          <S d="4000" t="2184000"></S>
+          <S d="4000" t="2188000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="61589"></Representation>
+      <Representation id="f4-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="125588"></Representation>
+    </AdaptationSet>
+    <BaseURL>https://cfvod.kaltura.com</BaseURL>
+  </Period>
+  <Period id="18" start="PT36M57.5S">
+    <AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
+      <Representation id="0" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="402000" width="640" height="360" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/8b264aa2-90f4-4938-acee-13bed82da46d/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-548/0d97aeab-2-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/8b264aa2-90f4-4938-acee-13bed82da46d/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-548/0d97aeab-2-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="1" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="602000" width="854" height="480" sar="1280:1281">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/8b264aa2-90f4-4938-acee-13bed82da46d/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-548/0d97aeab-2-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/8b264aa2-90f4-4938-acee-13bed82da46d/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-548/0d97aeab-2-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="2" mimeType="video/mp4" codecs="avc1.4d401f" bandwidth="891000" width="960" height="540" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/8b264aa2-90f4-4938-acee-13bed82da46d/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-548/0d97aeab-2-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/8b264aa2-90f4-4938-acee-13bed82da46d/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-548/0d97aeab-2-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="3" mimeType="video/mp4" codecs="avc1.4d4020" bandwidth="1409000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/8b264aa2-90f4-4938-acee-13bed82da46d/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-548/0d97aeab-2-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/8b264aa2-90f4-4938-acee-13bed82da46d/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-548/0d97aeab-2-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="4" mimeType="video/mp4" codecs="avc1.640028" bandwidth="1955000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/8b264aa2-90f4-4938-acee-13bed82da46d/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-548/0d97aeab-2-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/8b264aa2-90f4-4938-acee-13bed82da46d/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-548/0d97aeab-2-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="63488"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true">
+      <Representation id="5" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="61589" audioSamplingRate="44100">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+        <SegmentTemplate timescale="44100" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/8b264aa2-90f4-4938-acee-13bed82da46d/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-548/0d97aeab-2-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/8b264aa2-90f4-4938-acee-13bed82da46d/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-548/0d97aeab-2-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="306176"></S>
+            <S d="221184"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <BaseURL>https://reshet.g-mana.live</BaseURL>
+  </Period>
+  <Period duration="PT4M48S" id="19" start="PT37M9.4S">
+    <AdaptationSet id="1" segmentAlignment="true" maxWidth="1280" maxHeight="720" maxFrameRate="25" contentType="video">
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="552" presentationTimeOffset="2204000">
+        <SegmentTimeline>
+          <S d="4000" t="2204000"></S>
+          <S d="4000" t="2208000"></S>
+          <S d="4000" t="2212000"></S>
+          <S d="4000" t="2216000"></S>
+          <S d="4000" t="2220000"></S>
+          <S d="4000" t="2224000"></S>
+          <S d="4000" t="2228000"></S>
+          <S d="4000" t="2232000"></S>
+          <S d="4000" t="2236000"></S>
+          <S d="4000" t="2240000"></S>
+          <S d="4000" t="2244000"></S>
+          <S d="4000" t="2248000"></S>
+          <S d="4000" t="2252000"></S>
+          <S d="4000" t="2256000"></S>
+          <S d="4000" t="2260000"></S>
+          <S d="4000" t="2264000"></S>
+          <S d="4000" t="2268000"></S>
+          <S d="4000" t="2272000"></S>
+          <S d="4000" t="2276000"></S>
+          <S d="4000" t="2280000"></S>
+          <S d="4000" t="2284000"></S>
+          <S d="4000" t="2288000"></S>
+          <S d="4000" t="2292000"></S>
+          <S d="4000" t="2296000"></S>
+          <S d="4000" t="2300000"></S>
+          <S d="4000" t="2304000"></S>
+          <S d="4000" t="2308000"></S>
+          <S d="4000" t="2312000"></S>
+          <S d="4000" t="2316000"></S>
+          <S d="4000" t="2320000"></S>
+          <S d="4000" t="2324000"></S>
+          <S d="4000" t="2328000"></S>
+          <S d="4000" t="2332000"></S>
+          <S d="4000" t="2336000"></S>
+          <S d="4000" t="2340000"></S>
+          <S d="4000" t="2344000"></S>
+          <S d="4000" t="2348000"></S>
+          <S d="4000" t="2352000"></S>
+          <S d="4000" t="2356000"></S>
+          <S d="4000" t="2360000"></S>
+          <S d="4000" t="2364000"></S>
+          <S d="4000" t="2368000"></S>
+          <S d="4000" t="2372000"></S>
+          <S d="4000" t="2376000"></S>
+          <S d="4000" t="2380000"></S>
+          <S d="4000" t="2384000"></S>
+          <S d="4000" t="2388000"></S>
+          <S d="4000" t="2392000"></S>
+          <S d="4000" t="2396000"></S>
+          <S d="4000" t="2400000"></S>
+          <S d="4000" t="2404000"></S>
+          <S d="4000" t="2408000"></S>
+          <S d="4000" t="2412000"></S>
+          <S d="4000" t="2416000"></S>
+          <S d="4000" t="2420000"></S>
+          <S d="4000" t="2424000"></S>
+          <S d="4000" t="2428000"></S>
+          <S d="4000" t="2432000"></S>
+          <S d="4000" t="2436000"></S>
+          <S d="4000" t="2440000"></S>
+          <S d="4000" t="2444000"></S>
+          <S d="4000" t="2448000"></S>
+          <S d="4000" t="2452000"></S>
+          <S d="4000" t="2456000"></S>
+          <S d="4000" t="2460000"></S>
+          <S d="4000" t="2464000"></S>
+          <S d="4000" t="2468000"></S>
+          <S d="4000" t="2472000"></S>
+          <S d="4000" t="2476000"></S>
+          <S d="4000" t="2480000"></S>
+          <S d="4000" t="2484000"></S>
+          <S d="4000" t="2488000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="640" height="360" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="402310"></Representation>
+      <Representation id="f2-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="854" height="480" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="602978"></Representation>
+      <Representation id="f3-v1-x3" mimeType="video/mp4" codecs="avc1.4d401f" width="960" height="540" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="891181"></Representation>
+      <Representation id="f4-v1-x3" mimeType="video/mp4" codecs="avc1.4d4020" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1409971"></Representation>
+      <Representation id="f5-v1-x3" mimeType="video/mp4" codecs="avc1.640028" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1955451"></Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" segmentAlignment="true" contentType="audio">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"></AudioChannelConfiguration>
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="552" presentationTimeOffset="2204000">
+        <SegmentTimeline>
+          <S d="4000" t="2204000"></S>
+          <S d="4000" t="2208000"></S>
+          <S d="4000" t="2212000"></S>
+          <S d="4000" t="2216000"></S>
+          <S d="4000" t="2220000"></S>
+          <S d="4000" t="2224000"></S>
+          <S d="4000" t="2228000"></S>
+          <S d="4000" t="2232000"></S>
+          <S d="4000" t="2236000"></S>
+          <S d="4000" t="2240000"></S>
+          <S d="4000" t="2244000"></S>
+          <S d="4000" t="2248000"></S>
+          <S d="4000" t="2252000"></S>
+          <S d="4000" t="2256000"></S>
+          <S d="4000" t="2260000"></S>
+          <S d="4000" t="2264000"></S>
+          <S d="4000" t="2268000"></S>
+          <S d="4000" t="2272000"></S>
+          <S d="4000" t="2276000"></S>
+          <S d="4000" t="2280000"></S>
+          <S d="4000" t="2284000"></S>
+          <S d="4000" t="2288000"></S>
+          <S d="4000" t="2292000"></S>
+          <S d="4000" t="2296000"></S>
+          <S d="4000" t="2300000"></S>
+          <S d="4000" t="2304000"></S>
+          <S d="4000" t="2308000"></S>
+          <S d="4000" t="2312000"></S>
+          <S d="4000" t="2316000"></S>
+          <S d="4000" t="2320000"></S>
+          <S d="4000" t="2324000"></S>
+          <S d="4000" t="2328000"></S>
+          <S d="4000" t="2332000"></S>
+          <S d="4000" t="2336000"></S>
+          <S d="4000" t="2340000"></S>
+          <S d="4000" t="2344000"></S>
+          <S d="4000" t="2348000"></S>
+          <S d="4000" t="2352000"></S>
+          <S d="4000" t="2356000"></S>
+          <S d="4000" t="2360000"></S>
+          <S d="4000" t="2364000"></S>
+          <S d="4000" t="2368000"></S>
+          <S d="4000" t="2372000"></S>
+          <S d="4000" t="2376000"></S>
+          <S d="4000" t="2380000"></S>
+          <S d="4000" t="2384000"></S>
+          <S d="4000" t="2388000"></S>
+          <S d="4000" t="2392000"></S>
+          <S d="4000" t="2396000"></S>
+          <S d="4000" t="2400000"></S>
+          <S d="4000" t="2404000"></S>
+          <S d="4000" t="2408000"></S>
+          <S d="4000" t="2412000"></S>
+          <S d="4000" t="2416000"></S>
+          <S d="4000" t="2420000"></S>
+          <S d="4000" t="2424000"></S>
+          <S d="4000" t="2428000"></S>
+          <S d="4000" t="2432000"></S>
+          <S d="4000" t="2436000"></S>
+          <S d="4000" t="2440000"></S>
+          <S d="4000" t="2444000"></S>
+          <S d="4000" t="2448000"></S>
+          <S d="4000" t="2452000"></S>
+          <S d="4000" t="2456000"></S>
+          <S d="4000" t="2460000"></S>
+          <S d="4000" t="2464000"></S>
+          <S d="4000" t="2468000"></S>
+          <S d="4000" t="2472000"></S>
+          <S d="4000" t="2476000"></S>
+          <S d="4000" t="2480000"></S>
+          <S d="4000" t="2484000"></S>
+          <S d="4000" t="2488000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="61589"></Representation>
+      <Representation id="f4-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="125588"></Representation>
+    </AdaptationSet>
+    <BaseURL>https://cfvod.kaltura.com</BaseURL>
+  </Period>
+  <Period id="20" start="PT41M57.4S">
+    <AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
+      <Representation id="0" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="402000" width="640" height="360" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3081f2d0-9639-4654-93df-28fa48df2630/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-623/3977835f-6-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3081f2d0-9639-4654-93df-28fa48df2630/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-623/3977835f-6-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="1" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="602000" width="854" height="480" sar="1280:1281">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3081f2d0-9639-4654-93df-28fa48df2630/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-623/3977835f-6-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3081f2d0-9639-4654-93df-28fa48df2630/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-623/3977835f-6-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="2" mimeType="video/mp4" codecs="avc1.4d401f" bandwidth="891000" width="960" height="540" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3081f2d0-9639-4654-93df-28fa48df2630/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-623/3977835f-6-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3081f2d0-9639-4654-93df-28fa48df2630/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-623/3977835f-6-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="3" mimeType="video/mp4" codecs="avc1.4d4020" bandwidth="1409000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3081f2d0-9639-4654-93df-28fa48df2630/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-623/3977835f-6-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3081f2d0-9639-4654-93df-28fa48df2630/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-623/3977835f-6-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="4" mimeType="video/mp4" codecs="avc1.640028" bandwidth="1955000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3081f2d0-9639-4654-93df-28fa48df2630/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-623/3977835f-6-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3081f2d0-9639-4654-93df-28fa48df2630/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-623/3977835f-6-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true">
+      <Representation id="5" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="61589" audioSamplingRate="44100">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+        <SegmentTemplate timescale="44100" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3081f2d0-9639-4654-93df-28fa48df2630/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-623/3977835f-6-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/3081f2d0-9639-4654-93df-28fa48df2630/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-623/3977835f-6-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="306176"></S>
+            <S d="222208"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <BaseURL>https://reshet.g-mana.live</BaseURL>
+  </Period>
+  <Period duration="PT4M48S" id="21" start="PT42M9.4S">
+    <AdaptationSet id="1" segmentAlignment="true" maxWidth="1280" maxHeight="720" maxFrameRate="25" contentType="video">
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="627" presentationTimeOffset="2504000">
+        <SegmentTimeline>
+          <S d="4000" t="2504000"></S>
+          <S d="4000" t="2508000"></S>
+          <S d="4000" t="2512000"></S>
+          <S d="4000" t="2516000"></S>
+          <S d="4000" t="2520000"></S>
+          <S d="4000" t="2524000"></S>
+          <S d="4000" t="2528000"></S>
+          <S d="4000" t="2532000"></S>
+          <S d="4000" t="2536000"></S>
+          <S d="4000" t="2540000"></S>
+          <S d="4000" t="2544000"></S>
+          <S d="4000" t="2548000"></S>
+          <S d="4000" t="2552000"></S>
+          <S d="4000" t="2556000"></S>
+          <S d="4000" t="2560000"></S>
+          <S d="4000" t="2564000"></S>
+          <S d="4000" t="2568000"></S>
+          <S d="4000" t="2572000"></S>
+          <S d="4000" t="2576000"></S>
+          <S d="4000" t="2580000"></S>
+          <S d="4000" t="2584000"></S>
+          <S d="4000" t="2588000"></S>
+          <S d="4000" t="2592000"></S>
+          <S d="4000" t="2596000"></S>
+          <S d="4000" t="2600000"></S>
+          <S d="4000" t="2604000"></S>
+          <S d="4000" t="2608000"></S>
+          <S d="4000" t="2612000"></S>
+          <S d="4000" t="2616000"></S>
+          <S d="4000" t="2620000"></S>
+          <S d="4000" t="2624000"></S>
+          <S d="4000" t="2628000"></S>
+          <S d="4000" t="2632000"></S>
+          <S d="4000" t="2636000"></S>
+          <S d="4000" t="2640000"></S>
+          <S d="4000" t="2644000"></S>
+          <S d="4000" t="2648000"></S>
+          <S d="4000" t="2652000"></S>
+          <S d="4000" t="2656000"></S>
+          <S d="4000" t="2660000"></S>
+          <S d="4000" t="2664000"></S>
+          <S d="4000" t="2668000"></S>
+          <S d="4000" t="2672000"></S>
+          <S d="4000" t="2676000"></S>
+          <S d="4000" t="2680000"></S>
+          <S d="4000" t="2684000"></S>
+          <S d="4000" t="2688000"></S>
+          <S d="4000" t="2692000"></S>
+          <S d="4000" t="2696000"></S>
+          <S d="4000" t="2700000"></S>
+          <S d="4000" t="2704000"></S>
+          <S d="4000" t="2708000"></S>
+          <S d="4000" t="2712000"></S>
+          <S d="4000" t="2716000"></S>
+          <S d="4000" t="2720000"></S>
+          <S d="4000" t="2724000"></S>
+          <S d="4000" t="2728000"></S>
+          <S d="4000" t="2732000"></S>
+          <S d="4000" t="2736000"></S>
+          <S d="4000" t="2740000"></S>
+          <S d="4000" t="2744000"></S>
+          <S d="4000" t="2748000"></S>
+          <S d="4000" t="2752000"></S>
+          <S d="4000" t="2756000"></S>
+          <S d="4000" t="2760000"></S>
+          <S d="4000" t="2764000"></S>
+          <S d="4000" t="2768000"></S>
+          <S d="4000" t="2772000"></S>
+          <S d="4000" t="2776000"></S>
+          <S d="4000" t="2780000"></S>
+          <S d="4000" t="2784000"></S>
+          <S d="4000" t="2788000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="640" height="360" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="402310"></Representation>
+      <Representation id="f2-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="854" height="480" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="602978"></Representation>
+      <Representation id="f3-v1-x3" mimeType="video/mp4" codecs="avc1.4d401f" width="960" height="540" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="891181"></Representation>
+      <Representation id="f4-v1-x3" mimeType="video/mp4" codecs="avc1.4d4020" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1409971"></Representation>
+      <Representation id="f5-v1-x3" mimeType="video/mp4" codecs="avc1.640028" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1955451"></Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" segmentAlignment="true" contentType="audio">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"></AudioChannelConfiguration>
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="627" presentationTimeOffset="2504000">
+        <SegmentTimeline>
+          <S d="4000" t="2504000"></S>
+          <S d="4000" t="2508000"></S>
+          <S d="4000" t="2512000"></S>
+          <S d="4000" t="2516000"></S>
+          <S d="4000" t="2520000"></S>
+          <S d="4000" t="2524000"></S>
+          <S d="4000" t="2528000"></S>
+          <S d="4000" t="2532000"></S>
+          <S d="4000" t="2536000"></S>
+          <S d="4000" t="2540000"></S>
+          <S d="4000" t="2544000"></S>
+          <S d="4000" t="2548000"></S>
+          <S d="4000" t="2552000"></S>
+          <S d="4000" t="2556000"></S>
+          <S d="4000" t="2560000"></S>
+          <S d="4000" t="2564000"></S>
+          <S d="4000" t="2568000"></S>
+          <S d="4000" t="2572000"></S>
+          <S d="4000" t="2576000"></S>
+          <S d="4000" t="2580000"></S>
+          <S d="4000" t="2584000"></S>
+          <S d="4000" t="2588000"></S>
+          <S d="4000" t="2592000"></S>
+          <S d="4000" t="2596000"></S>
+          <S d="4000" t="2600000"></S>
+          <S d="4000" t="2604000"></S>
+          <S d="4000" t="2608000"></S>
+          <S d="4000" t="2612000"></S>
+          <S d="4000" t="2616000"></S>
+          <S d="4000" t="2620000"></S>
+          <S d="4000" t="2624000"></S>
+          <S d="4000" t="2628000"></S>
+          <S d="4000" t="2632000"></S>
+          <S d="4000" t="2636000"></S>
+          <S d="4000" t="2640000"></S>
+          <S d="4000" t="2644000"></S>
+          <S d="4000" t="2648000"></S>
+          <S d="4000" t="2652000"></S>
+          <S d="4000" t="2656000"></S>
+          <S d="4000" t="2660000"></S>
+          <S d="4000" t="2664000"></S>
+          <S d="4000" t="2668000"></S>
+          <S d="4000" t="2672000"></S>
+          <S d="4000" t="2676000"></S>
+          <S d="4000" t="2680000"></S>
+          <S d="4000" t="2684000"></S>
+          <S d="4000" t="2688000"></S>
+          <S d="4000" t="2692000"></S>
+          <S d="4000" t="2696000"></S>
+          <S d="4000" t="2700000"></S>
+          <S d="4000" t="2704000"></S>
+          <S d="4000" t="2708000"></S>
+          <S d="4000" t="2712000"></S>
+          <S d="4000" t="2716000"></S>
+          <S d="4000" t="2720000"></S>
+          <S d="4000" t="2724000"></S>
+          <S d="4000" t="2728000"></S>
+          <S d="4000" t="2732000"></S>
+          <S d="4000" t="2736000"></S>
+          <S d="4000" t="2740000"></S>
+          <S d="4000" t="2744000"></S>
+          <S d="4000" t="2748000"></S>
+          <S d="4000" t="2752000"></S>
+          <S d="4000" t="2756000"></S>
+          <S d="4000" t="2760000"></S>
+          <S d="4000" t="2764000"></S>
+          <S d="4000" t="2768000"></S>
+          <S d="4000" t="2772000"></S>
+          <S d="4000" t="2776000"></S>
+          <S d="4000" t="2780000"></S>
+          <S d="4000" t="2784000"></S>
+          <S d="4000" t="2788000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="61589"></Representation>
+      <Representation id="f4-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="125588"></Representation>
+    </AdaptationSet>
+    <BaseURL>https://cfvod.kaltura.com</BaseURL>
+  </Period>
+  <Period id="22" start="PT46M57.4S">
+    <AdaptationSet id="0" contentType="video" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true" frameRate="25/1" maxWidth="1280" maxHeight="720" par="16:9">
+      <Representation id="0" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="402000" width="640" height="360" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/408b17de-4090-4002-bc4a-2ff31413c8fc/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-698/7efb5d4b-f-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/408b17de-4090-4002-bc4a-2ff31413c8fc/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-698/7efb5d4b-f-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="1" mimeType="video/mp4" codecs="avc1.42c01e" bandwidth="602000" width="854" height="480" sar="1280:1281">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/408b17de-4090-4002-bc4a-2ff31413c8fc/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-698/7efb5d4b-f-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/408b17de-4090-4002-bc4a-2ff31413c8fc/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-698/7efb5d4b-f-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="2" mimeType="video/mp4" codecs="avc1.4d401f" bandwidth="891000" width="960" height="540" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/408b17de-4090-4002-bc4a-2ff31413c8fc/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-698/7efb5d4b-f-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/408b17de-4090-4002-bc4a-2ff31413c8fc/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-698/7efb5d4b-f-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="3" mimeType="video/mp4" codecs="avc1.4d4020" bandwidth="1409000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/408b17de-4090-4002-bc4a-2ff31413c8fc/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-698/7efb5d4b-f-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/408b17de-4090-4002-bc4a-2ff31413c8fc/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-698/7efb5d4b-f-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+      <Representation id="4" mimeType="video/mp4" codecs="avc1.640028" bandwidth="1955000" width="1280" height="720" sar="1:1">
+        <SegmentTemplate timescale="12800" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/408b17de-4090-4002-bc4a-2ff31413c8fc/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-698/7efb5d4b-f-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/408b17de-4090-4002-bc4a-2ff31413c8fc/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-698/7efb5d4b-f-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="89600"></S>
+            <S d="64000"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="1" contentType="audio" startWithSAP="1" segmentAlignment="true" bitstreamSwitching="true">
+      <Representation id="5" mimeType="audio/mp4" codecs="mp4a.40.2" bandwidth="61589" audioSamplingRate="44100">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"></AudioChannelConfiguration>
+        <SegmentTemplate timescale="44100" initialization="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/408b17de-4090-4002-bc4a-2ff31413c8fc/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-698/7efb5d4b-f-init$RepresentationID$.m4s" media="/mrouter/7ef4c2cb-12e7-473f-a2e6-ff958e086858/a1/506afd53-403b-4614-ad4f-6f4b4c3f19f5/408b17de-4090-4002-bc4a-2ff31413c8fc/100/overlay/0/hs/d15ds134q59udk.cloudfront.net/gmana-assets/ad/reshet/2026-02-26-Reshet-8-dash/2026-02-26-Reshet-8-dash-f38f5844-fe5b-4694-a01c-502248b31e25--6790005965fbe891592f3ecc695736a1e3289e8b--3a550888e9d3db40c28606d23432b906-2-698/7efb5d4b-f-playlist$RepresentationID$-$Number%05d$.m4s" startNumber="1">
+          <SegmentTimeline>
+            <S t="0" d="306175"></S>
+            <S d="222208"></S>
+          </SegmentTimeline>
+        </SegmentTemplate>
+      </Representation>
+    </AdaptationSet>
+    <BaseURL>https://reshet.g-mana.live</BaseURL>
+  </Period>
+  <Period duration="PT3M6.92S" id="23" start="PT47M9.4S">
+    <AdaptationSet id="1" segmentAlignment="true" maxWidth="1280" maxHeight="720" maxFrameRate="25" contentType="video">
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="702" presentationTimeOffset="2804000">
+        <SegmentTimeline>
+          <S d="4000" t="2804000"></S>
+          <S d="4000" t="2808000"></S>
+          <S d="4000" t="2812000"></S>
+          <S d="4000" t="2816000"></S>
+          <S d="4000" t="2820000"></S>
+          <S d="4000" t="2824000"></S>
+          <S d="4000" t="2828000"></S>
+          <S d="4000" t="2832000"></S>
+          <S d="4000" t="2836000"></S>
+          <S d="4000" t="2840000"></S>
+          <S d="4000" t="2844000"></S>
+          <S d="4000" t="2848000"></S>
+          <S d="4000" t="2852000"></S>
+          <S d="4000" t="2856000"></S>
+          <S d="4000" t="2860000"></S>
+          <S d="4000" t="2864000"></S>
+          <S d="4000" t="2868000"></S>
+          <S d="4000" t="2872000"></S>
+          <S d="4000" t="2876000"></S>
+          <S d="4000" t="2880000"></S>
+          <S d="4000" t="2884000"></S>
+          <S d="4000" t="2888000"></S>
+          <S d="4000" t="2892000"></S>
+          <S d="4000" t="2896000"></S>
+          <S d="4000" t="2900000"></S>
+          <S d="4000" t="2904000"></S>
+          <S d="4000" t="2908000"></S>
+          <S d="4000" t="2912000"></S>
+          <S d="4000" t="2916000"></S>
+          <S d="4000" t="2920000"></S>
+          <S d="4000" t="2924000"></S>
+          <S d="4000" t="2928000"></S>
+          <S d="4000" t="2932000"></S>
+          <S d="4000" t="2936000"></S>
+          <S d="4000" t="2940000"></S>
+          <S d="4000" t="2944000"></S>
+          <S d="4000" t="2948000"></S>
+          <S d="4000" t="2952000"></S>
+          <S d="4000" t="2956000"></S>
+          <S d="4000" t="2960000"></S>
+          <S d="4000" t="2964000"></S>
+          <S d="4000" t="2968000"></S>
+          <S d="4000" t="2972000"></S>
+          <S d="4000" t="2976000"></S>
+          <S d="4000" t="2980000"></S>
+          <S d="4000" t="2984000"></S>
+          <S d="2920" t="2988000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="640" height="360" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="402310"></Representation>
+      <Representation id="f2-v1-x3" mimeType="video/mp4" codecs="avc1.42c01e" width="854" height="480" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="602978"></Representation>
+      <Representation id="f3-v1-x3" mimeType="video/mp4" codecs="avc1.4d401f" width="960" height="540" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="891181"></Representation>
+      <Representation id="f4-v1-x3" mimeType="video/mp4" codecs="avc1.4d4020" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1409971"></Representation>
+      <Representation id="f5-v1-x3" mimeType="video/mp4" codecs="avc1.640028" width="1280" height="720" frameRate="25" sar="1:1" startWithSAP="1" bandwidth="1955451"></Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" segmentAlignment="true" contentType="audio">
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="1"></AudioChannelConfiguration>
+      <SegmentTemplate timescale="1000" media="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/fragment-$Number$-$RepresentationID$.m4s" initialization="/dash/p/2748741/sp/274874100/serveFlavor/entryId/0_hb8sbg9x/v/2/ev/6/flavorId/0_,nwy3zgai,szsj9scx,zetyiwaj,zvd8crx5,0p776f1y,/forceproxy/true/name/a.mp4.urlset/init-$RepresentationID$.mp4" duration="4000" startNumber="702" presentationTimeOffset="2804000">
+        <SegmentTimeline>
+          <S d="4000" t="2804000"></S>
+          <S d="4000" t="2808000"></S>
+          <S d="4000" t="2812000"></S>
+          <S d="4000" t="2816000"></S>
+          <S d="4000" t="2820000"></S>
+          <S d="4000" t="2824000"></S>
+          <S d="4000" t="2828000"></S>
+          <S d="4000" t="2832000"></S>
+          <S d="4000" t="2836000"></S>
+          <S d="4000" t="2840000"></S>
+          <S d="4000" t="2844000"></S>
+          <S d="4000" t="2848000"></S>
+          <S d="4000" t="2852000"></S>
+          <S d="4000" t="2856000"></S>
+          <S d="4000" t="2860000"></S>
+          <S d="4000" t="2864000"></S>
+          <S d="4000" t="2868000"></S>
+          <S d="4000" t="2872000"></S>
+          <S d="4000" t="2876000"></S>
+          <S d="4000" t="2880000"></S>
+          <S d="4000" t="2884000"></S>
+          <S d="4000" t="2888000"></S>
+          <S d="4000" t="2892000"></S>
+          <S d="4000" t="2896000"></S>
+          <S d="4000" t="2900000"></S>
+          <S d="4000" t="2904000"></S>
+          <S d="4000" t="2908000"></S>
+          <S d="4000" t="2912000"></S>
+          <S d="4000" t="2916000"></S>
+          <S d="4000" t="2920000"></S>
+          <S d="4000" t="2924000"></S>
+          <S d="4000" t="2928000"></S>
+          <S d="4000" t="2932000"></S>
+          <S d="4000" t="2936000"></S>
+          <S d="4000" t="2940000"></S>
+          <S d="4000" t="2944000"></S>
+          <S d="4000" t="2948000"></S>
+          <S d="4000" t="2952000"></S>
+          <S d="4000" t="2956000"></S>
+          <S d="4000" t="2960000"></S>
+          <S d="4000" t="2964000"></S>
+          <S d="4000" t="2968000"></S>
+          <S d="4000" t="2972000"></S>
+          <S d="4000" t="2976000"></S>
+          <S d="4000" t="2980000"></S>
+          <S d="4000" t="2984000"></S>
+          <S d="2920" t="2988000"></S>
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="f1-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="61589"></Representation>
+      <Representation id="f4-a1-x3" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="44100" startWithSAP="1" bandwidth="125588"></Representation>
+    </AdaptationSet>
+    <BaseURL>https://cfvod.kaltura.com</BaseURL>
+  </Period>
+</MPD>
