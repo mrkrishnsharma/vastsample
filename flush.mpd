@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd" xmlns:scte35="http://www.scte.org/schemas/35/2016" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="2015-01-01T00:00:03Z" publishTime="2026-03-30T12:39:54.654515Z" minimumUpdatePeriod="PT2S" minBufferTime="PT10S" timeShiftBufferDepth="PT4H4S" maxSegmentDuration="PT2S">
+  <Period id="period_354789418100011" start="PT98552H36M58.100011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:smpte:ul:060E2B34.01040101.01200900.00000000" value="urn:adid:ANEV0001032" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="3062800000" id="1032"><scte35:Signal><scte35:Binary>/DBOAAAAAAAAAP/wBQb+erG/sQA4AjZDVUVJAAAECH//AAGknJAMIE5FQUNleUpqYjI1MFpXNTBYMmxrSWpvME16a3lNRFY5NAAAAADDaGNq</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547894181000111" initialization="TV3_LT-$RepresentationID$-p=354789418100011-init.mp4" media="TV3_LT-$RepresentationID$-p=354789418100011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547895873893334" d="19200000" r="70" />
+          <S d="6826666" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547894181000111" initialization="TV3_LT-$RepresentationID$-p=354789418100011-init.mp4" media="TV3_LT-$RepresentationID$-p=354789418100011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547895873893334" d="19200000" r="70" />
+          <S d="6826666" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547894181000111" initialization="TV3_LT-$RepresentationID$-p=354789418100011-init.mp4" media="TV3_LT-$RepresentationID$-p=354789418100011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547895873800000" d="19200000" r="70" />
+          <S d="6800000" />
+          <S d="12400000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547894181000111" initialization="TV3_LT-$RepresentationID$-p=354789418100011-init.mp4" media="TV3_LT-$RepresentationID$-p=354789418100011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547895873800000" d="19200000" r="70" />
+          <S d="6800000" />
+          <S d="12400000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354789724380011" start="PT98552H42M4.380011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:eidr" value="md:cid:EIDR:10.5240%2F0000-8D07-C409-0000-0000-C" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="0" id="1032"><scte35:Signal><scte35:Binary>/DAnAAAAAAAAAP/wBQb+fFZcQQARAg9DVUVJAAAECH+/DAA1AAAhnWMl</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547897243800111" initialization="TV3_LT-$RepresentationID$-p=354789724380011-init.mp4" media="TV3_LT-$RepresentationID$-p=354789724380011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547897237093334" d="6826666" />
+          <S d="12373334" />
+          <S d="19200000" r="942" />
+          <S d="426666" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547897243800111" initialization="TV3_LT-$RepresentationID$-p=354789724380011-init.mp4" media="TV3_LT-$RepresentationID$-p=354789724380011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547897237093334" d="6826666" />
+          <S d="12373334" />
+          <S d="19200000" r="942" />
+          <S d="426666" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547897243800111" initialization="TV3_LT-$RepresentationID$-p=354789724380011-init.mp4" media="TV3_LT-$RepresentationID$-p=354789724380011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547897243800000" d="12400000" />
+          <S d="19200000" r="942" />
+          <S d="400000" />
+          <S d="18800000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547897243800111" initialization="TV3_LT-$RepresentationID$-p=354789724380011-init.mp4" media="TV3_LT-$RepresentationID$-p=354789724380011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547897243800000" d="12400000" />
+          <S d="19200000" r="942" />
+          <S d="400000" />
+          <S d="18800000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354791536220011" start="PT98553H12M16.220011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:smpte:ul:060E2B34.01040101.01200900.00000000" value="urn:adid:ANEV0001036" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="3582400000" id="1036"><scte35:Signal><scte35:Binary>/DBSAAAAAAAAAP/wBQb+hg6LQQA8AjpDVUVJAAAEDH//AAHr98AMJE5FQUNleUpqYjI1MFpXNTBYMmxrSWpvNE9UUTVORFkwTW4wPTQAAAAAWu98IQ==</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547915362200111" initialization="TV3_LT-$RepresentationID$-p=354791536220011-init.mp4" media="TV3_LT-$RepresentationID$-p=354791536220011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547915361893334" d="426666" />
+          <S d="18773334" />
+          <S d="19200000" r="184" />
+          <S d="11520000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547915362200111" initialization="TV3_LT-$RepresentationID$-p=354791536220011-init.mp4" media="TV3_LT-$RepresentationID$-p=354791536220011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547915361893334" d="426666" />
+          <S d="18773334" />
+          <S d="19200000" r="184" />
+          <S d="11520000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547915362200111" initialization="TV3_LT-$RepresentationID$-p=354791536220011-init.mp4" media="TV3_LT-$RepresentationID$-p=354791536220011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547915362200000" d="18800000" />
+          <S d="19200000" r="184" />
+          <S d="11600000" />
+          <S d="7600000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547915362200111" initialization="TV3_LT-$RepresentationID$-p=354791536220011-init.mp4" media="TV3_LT-$RepresentationID$-p=354791536220011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547915362200000" d="18800000" />
+          <S d="19200000" r="184" />
+          <S d="11600000" />
+          <S d="7600000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354791894460011" start="PT98553H18M14.460011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:eidr" value="md:cid:EIDR:10.5240%2F0000-8D07-C409-0000-0000-C" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="0" id="1036"><scte35:Signal><scte35:Binary>/DAnAAAAAAAAAP/wBQb+h/qDAQARAg9DVUVJAAAEDH+/DAA1AADeGYQD</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547918944600111" initialization="TV3_LT-$RepresentationID$-p=354791894460011-init.mp4" media="TV3_LT-$RepresentationID$-p=354791894460011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547918933093334" d="11520000" />
+          <S d="7680000" />
+          <S d="19200000" r="703" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547918944600111" initialization="TV3_LT-$RepresentationID$-p=354791894460011-init.mp4" media="TV3_LT-$RepresentationID$-p=354791894460011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547918933093334" d="11520000" />
+          <S d="7680000" />
+          <S d="19200000" r="703" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547918944600111" initialization="TV3_LT-$RepresentationID$-p=354791894460011-init.mp4" media="TV3_LT-$RepresentationID$-p=354791894460011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547918944600000" d="7600000" />
+          <S d="19200000" r="704" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547918944600111" initialization="TV3_LT-$RepresentationID$-p=354791894460011-init.mp4" media="TV3_LT-$RepresentationID$-p=354791894460011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547918944600000" d="7600000" />
+          <S d="19200000" r="704" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354793246900011" start="PT98553H40M46.900011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:smpte:ul:060E2B34.01040101.01200900.00000000" value="urn:adid:ANEV0001039" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="3561600000" id="1039"><scte35:Signal><scte35:Binary>/DBSAAAAAAAAAP/wBQb+jzvOMQA8AjpDVUVJAAAED3//AAHpHIAMJE5FQUNleUpqYjI1MFpXNTBYMmxrSWpvNE9UUTVORFkwTW4wPTQAAAAAKL9d6A==</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547932469000111" initialization="TV3_LT-$RepresentationID$-p=354793246900011-init.mp4" media="TV3_LT-$RepresentationID$-p=354793246900011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547932449893334" d="19200000" r="185" />
+          <S d="9599999" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547932469000111" initialization="TV3_LT-$RepresentationID$-p=354793246900011-init.mp4" media="TV3_LT-$RepresentationID$-p=354793246900011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547932449893334" d="19200000" r="185" />
+          <S d="9599999" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547932469000111" initialization="TV3_LT-$RepresentationID$-p=354793246900011-init.mp4" media="TV3_LT-$RepresentationID$-p=354793246900011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547932469000000" d="19200000" r="184" />
+          <S d="9600000" r="1" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547932469000111" initialization="TV3_LT-$RepresentationID$-p=354793246900011-init.mp4" media="TV3_LT-$RepresentationID$-p=354793246900011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547932469000000" d="19200000" r="184" />
+          <S d="9600000" r="1" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354793603060011" start="PT98553H46M43.060011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:eidr" value="md:cid:EIDR:10.5240%2F0000-8D07-C409-0000-0000-C" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="0" id="1039"><scte35:Signal><scte35:Binary>/DAnAAAAAAAAAP/wBQb+kSTqsQARAg9DVUVJAAAED3+/DAA1AADHruz3</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547936030600111" initialization="TV3_LT-$RepresentationID$-p=354793603060011-init.mp4" media="TV3_LT-$RepresentationID$-p=354793603060011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547936021093334" d="9599999" />
+          <S d="9600001" />
+          <S d="19200000" r="748" />
+          <S d="10453333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547936030600111" initialization="TV3_LT-$RepresentationID$-p=354793603060011-init.mp4" media="TV3_LT-$RepresentationID$-p=354793603060011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547936021093334" d="9599999" />
+          <S d="9600001" />
+          <S d="19200000" r="748" />
+          <S d="10453333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547936030600111" initialization="TV3_LT-$RepresentationID$-p=354793603060011-init.mp4" media="TV3_LT-$RepresentationID$-p=354793603060011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547936030600000" d="9600000" />
+          <S d="19200000" r="748" />
+          <S d="10400000" />
+          <S d="8800000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547936030600111" initialization="TV3_LT-$RepresentationID$-p=354793603060011-init.mp4" media="TV3_LT-$RepresentationID$-p=354793603060011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547936030600000" d="9600000" />
+          <S d="19200000" r="748" />
+          <S d="10400000" />
+          <S d="8800000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354795043140011" start="PT98554H10M43.140011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:smpte:ul:060E2B34.01040101.01200900.00000000" value="urn:adid:ANEV0001043" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="2923600000" id="1043"><scte35:Signal><scte35:Binary>/DBSAAAAAAAAAP/wBQb+mN6Q0QA8AjpDVUVJAAAEE3//AAGRftAMJE5FQUNleUpqYjI1MFpXNTBYMmxrSWpvNE9UUTVORFkwTTMwPTQAAAAAqrtgSw==</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547950431400111" initialization="TV3_LT-$RepresentationID$-p=354795043140011-init.mp4" media="TV3_LT-$RepresentationID$-p=354795043140011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547950421093334" d="10453333" />
+          <S d="8746667" />
+          <S d="19200000" r="150" />
+          <S d="15573333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547950431400111" initialization="TV3_LT-$RepresentationID$-p=354795043140011-init.mp4" media="TV3_LT-$RepresentationID$-p=354795043140011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547950421093334" d="10453333" />
+          <S d="8746667" />
+          <S d="19200000" r="150" />
+          <S d="15573333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547950431400111" initialization="TV3_LT-$RepresentationID$-p=354795043140011-init.mp4" media="TV3_LT-$RepresentationID$-p=354795043140011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547950431400000" d="8800000" />
+          <S d="19200000" r="150" />
+          <S d="15600000" />
+          <S d="3600000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547950431400111" initialization="TV3_LT-$RepresentationID$-p=354795043140011-init.mp4" media="TV3_LT-$RepresentationID$-p=354795043140011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547950431400000" d="8800000" />
+          <S d="19200000" r="150" />
+          <S d="15600000" />
+          <S d="3600000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354795335500011" start="PT98554H15M35.500011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:eidr" value="md:cid:EIDR:10.5240%2F0000-8D07-C409-0000-0000-C" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="0" id="1043"><scte35:Signal><scte35:Binary>/DAnAAAAAAAAAP/wBQb+mnAPoQARAg9DVUVJAAAEE3+/DAA1AACnoB8f</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547953355000111" initialization="TV3_LT-$RepresentationID$-p=354795335500011-init.mp4" media="TV3_LT-$RepresentationID$-p=354795335500011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547953339493334" d="15573333" />
+          <S d="3626667" />
+          <S d="19200000" r="854" />
+          <S d="12373333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547953355000111" initialization="TV3_LT-$RepresentationID$-p=354795335500011-init.mp4" media="TV3_LT-$RepresentationID$-p=354795335500011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547953339493334" d="15573333" />
+          <S d="3626667" />
+          <S d="19200000" r="854" />
+          <S d="12373333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547953355000111" initialization="TV3_LT-$RepresentationID$-p=354795335500011-init.mp4" media="TV3_LT-$RepresentationID$-p=354795335500011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547953355000000" d="3600000" />
+          <S d="19200000" r="854" />
+          <S d="12400000" />
+          <S d="6800000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547953355000111" initialization="TV3_LT-$RepresentationID$-p=354795335500011-init.mp4" media="TV3_LT-$RepresentationID$-p=354795335500011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547953355000000" d="3600000" />
+          <S d="19200000" r="854" />
+          <S d="12400000" />
+          <S d="6800000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354796978700011" start="PT98554H42M58.700011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:smpte:ul:060E2B34.01040101.01200900.00000000" value="urn:adid:ANEV0001046" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="3511600000" id="1046"><scte35:Signal><scte35:Binary>/DBSAAAAAAAAAP/wBQb+o0CnIQA8AjpDVUVJAAAEFn//AAHiPrAMJE5FQUNleUpqYjI1MFpXNTBYMmxrSWpvNE9UUTVORFkwTTMwPTQAAAAA8x8N8w==</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547969787000111" initialization="TV3_LT-$RepresentationID$-p=354796978700011-init.mp4" media="TV3_LT-$RepresentationID$-p=354796978700011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547969774693334" d="12373333" />
+          <S d="6826667" />
+          <S d="19200000" r="181" />
+          <S d="10453333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547969787000111" initialization="TV3_LT-$RepresentationID$-p=354796978700011-init.mp4" media="TV3_LT-$RepresentationID$-p=354796978700011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547969774693334" d="12373333" />
+          <S d="6826667" />
+          <S d="19200000" r="181" />
+          <S d="10453333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547969787000111" initialization="TV3_LT-$RepresentationID$-p=354796978700011-init.mp4" media="TV3_LT-$RepresentationID$-p=354796978700011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547969787000000" d="6800000" />
+          <S d="19200000" r="181" />
+          <S d="10400000" />
+          <S d="8800000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547969787000111" initialization="TV3_LT-$RepresentationID$-p=354796978700011-init.mp4" media="TV3_LT-$RepresentationID$-p=354796978700011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547969787000000" d="6800000" />
+          <S d="19200000" r="181" />
+          <S d="10400000" />
+          <S d="8800000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354797329860011" start="PT98554H48M49.860011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:eidr" value="md:cid:EIDR:10.5240%2F0000-8D07-C409-0000-0000-C" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="0" id="1046"><scte35:Signal><scte35:Binary>/DAnAAAAAAAAAP/wBQb+pSLl0QARAg9DVUVJAAAEFn+/DAA1AAC8/3uz</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547973298600111" initialization="TV3_LT-$RepresentationID$-p=354797329860011-init.mp4" media="TV3_LT-$RepresentationID$-p=354797329860011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547973288293334" d="10453333" />
+          <S d="8746667" />
+          <S d="19200000" r="644" />
+          <S d="18773333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547973298600111" initialization="TV3_LT-$RepresentationID$-p=354797329860011-init.mp4" media="TV3_LT-$RepresentationID$-p=354797329860011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547973288293334" d="10453333" />
+          <S d="8746667" />
+          <S d="19200000" r="644" />
+          <S d="18773333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547973298600111" initialization="TV3_LT-$RepresentationID$-p=354797329860011-init.mp4" media="TV3_LT-$RepresentationID$-p=354797329860011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547973298600000" d="8800000" />
+          <S d="19200000" r="644" />
+          <S d="18800000" />
+          <S d="400000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547973298600111" initialization="TV3_LT-$RepresentationID$-p=354797329860011-init.mp4" media="TV3_LT-$RepresentationID$-p=354797329860011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547973298600000" d="8800000" />
+          <S d="19200000" r="644" />
+          <S d="18800000" />
+          <S d="400000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354798571020011" start="PT98555H9M31.020011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:smpte:ul:060E2B34.01040101.01200900.00000000" value="urn:adid:ANEV0001050" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="3591600000" id="1050"><scte35:Signal><scte35:Binary>/DBSAAAAAAAAAP/wBQb+q8tfIQA8AjpDVUVJAAAEGn//AAHtOzAMJE5FQUNleUpqYjI1MFpXNTBYMmxrSWpvNE9UVXlNak16TVgwPTQAAAAAiDt71g==</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547985710200111" initialization="TV3_LT-$RepresentationID$-p=354798571020011-init.mp4" media="TV3_LT-$RepresentationID$-p=354798571020011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547985691493334" d="18773333" />
+          <S d="426667" />
+          <S d="19200000" r="186" />
+          <S d="853333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547985710200111" initialization="TV3_LT-$RepresentationID$-p=354798571020011-init.mp4" media="TV3_LT-$RepresentationID$-p=354798571020011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547985691493334" d="18773333" />
+          <S d="426667" />
+          <S d="19200000" r="186" />
+          <S d="853333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547985710200111" initialization="TV3_LT-$RepresentationID$-p=354798571020011-init.mp4" media="TV3_LT-$RepresentationID$-p=354798571020011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547985710200000" d="400000" />
+          <S d="19200000" r="186" />
+          <S d="800000" />
+          <S d="18400000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547985710200111" initialization="TV3_LT-$RepresentationID$-p=354798571020011-init.mp4" media="TV3_LT-$RepresentationID$-p=354798571020011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547985710200000" d="400000" />
+          <S d="19200000" r="186" />
+          <S d="800000" />
+          <S d="18400000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354798930180011" start="PT98555H15M30.180011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:eidr" value="md:cid:EIDR:10.5240%2F0000-8D07-C409-0000-0000-C" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="0" id="1050"><scte35:Signal><scte35:Binary>/DAnAAAAAAAAAP/wBQb+rbiaUQARAg9DVUVJAAAEGn+/DAA1AABbi6YU</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547989301800111" initialization="TV3_LT-$RepresentationID$-p=354798930180011-init.mp4" media="TV3_LT-$RepresentationID$-p=354798930180011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547989301093334" d="853333" />
+          <S d="18346667" />
+          <S d="19200000" r="807" />
+          <S d="12373333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547989301800111" initialization="TV3_LT-$RepresentationID$-p=354798930180011-init.mp4" media="TV3_LT-$RepresentationID$-p=354798930180011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547989301093334" d="853333" />
+          <S d="18346667" />
+          <S d="19200000" r="807" />
+          <S d="12373333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547989301800111" initialization="TV3_LT-$RepresentationID$-p=354798930180011-init.mp4" media="TV3_LT-$RepresentationID$-p=354798930180011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547989301800000" d="18400000" />
+          <S d="19200000" r="807" />
+          <S d="12400000" />
+          <S d="6800000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3547989301800111" initialization="TV3_LT-$RepresentationID$-p=354798930180011-init.mp4" media="TV3_LT-$RepresentationID$-p=354798930180011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3547989301800000" d="18400000" />
+          <S d="19200000" r="807" />
+          <S d="12400000" />
+          <S d="6800000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354800484620011" start="PT98555H41M24.620011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:smpte:ul:060E2B34.01040101.01200900.00000000" value="urn:adid:ANEV0001053" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="4291200000" id="1053"><scte35:Signal><scte35:Binary>/DBSAAAAAAAAAP/wBQb+tg9NIQA8AjpDVUVJAAAEHX//AAJNToAMJE5FQUNleUpqYjI1MFpXNTBYMmxrSWpvNE9UVXlNak16TVgwPTQAAAAAiO6n/A==</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548004846200111" initialization="TV3_LT-$RepresentationID$-p=354800484620011-init.mp4" media="TV3_LT-$RepresentationID$-p=354800484620011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548004833893334" d="12373333" />
+          <S d="6826667" />
+          <S d="19200000" r="222" />
+          <S d="2773333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548004846200111" initialization="TV3_LT-$RepresentationID$-p=354800484620011-init.mp4" media="TV3_LT-$RepresentationID$-p=354800484620011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548004833893334" d="12373333" />
+          <S d="6826667" />
+          <S d="19200000" r="222" />
+          <S d="2773333" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548004846200111" initialization="TV3_LT-$RepresentationID$-p=354800484620011-init.mp4" media="TV3_LT-$RepresentationID$-p=354800484620011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548004846200000" d="6800000" />
+          <S d="19200000" r="222" />
+          <S d="2800000" />
+          <S d="16400000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548004846200111" initialization="TV3_LT-$RepresentationID$-p=354800484620011-init.mp4" media="TV3_LT-$RepresentationID$-p=354800484620011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548004846200000" d="6800000" />
+          <S d="19200000" r="222" />
+          <S d="2800000" />
+          <S d="16400000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354800913740011" start="PT98555H48M33.740011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:eidr" value="md:cid:EIDR:10.5240%2F0000-8D07-C409-0000-0000-C" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="0" id="1053"><scte35:Signal><scte35:Binary>/DAnAAAAAAAAAP/wBQb+uFyboQARAg9DVUVJAAAEHX+/DAA1AAAmE+iA</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548009137400111" initialization="TV3_LT-$RepresentationID$-p=354800913740011-init.mp4" media="TV3_LT-$RepresentationID$-p=354800913740011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548009134693334" d="2773333" />
+          <S d="16426667" />
+          <S d="19200000" r="640" />
+          <S d="11306666" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548009137400111" initialization="TV3_LT-$RepresentationID$-p=354800913740011-init.mp4" media="TV3_LT-$RepresentationID$-p=354800913740011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548009134693334" d="2773333" />
+          <S d="16426667" />
+          <S d="19200000" r="640" />
+          <S d="11306666" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548009137400111" initialization="TV3_LT-$RepresentationID$-p=354800913740011-init.mp4" media="TV3_LT-$RepresentationID$-p=354800913740011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548009137400000" d="16400000" />
+          <S d="19200000" r="640" />
+          <S d="11200000" />
+          <S d="8000000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548009137400111" initialization="TV3_LT-$RepresentationID$-p=354800913740011-init.mp4" media="TV3_LT-$RepresentationID$-p=354800913740011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548009137400000" d="16400000" />
+          <S d="19200000" r="640" />
+          <S d="11200000" />
+          <S d="8000000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354802147220011" start="PT98556H9M7.220011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:smpte:ul:060E2B34.01040101.01200900.00000000" value="urn:adid:ANEV0001057" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="3892000000" id="1057"><scte35:Signal><scte35:Binary>/DBSAAAAAAAAAP/wBQb+vvqI8QA8AjpDVUVJAAAEIX//AAIWfCAMJE5FQUNleUpqYjI1MFpXNTBYMmxrSWpveE1EQTFNekkwTjMwPTQAAAAA+EMHPA==</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548021472200111" initialization="TV3_LT-$RepresentationID$-p=354802147220011-init.mp4" media="TV3_LT-$RepresentationID$-p=354802147220011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548021461093334" d="11306666" />
+          <S d="7893334" />
+          <S d="19200000" r="201" />
+          <S d="5546666" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548021472200111" initialization="TV3_LT-$RepresentationID$-p=354802147220011-init.mp4" media="TV3_LT-$RepresentationID$-p=354802147220011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548021461093334" d="11306666" />
+          <S d="7893334" />
+          <S d="19200000" r="201" />
+          <S d="5546666" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548021472200111" initialization="TV3_LT-$RepresentationID$-p=354802147220011-init.mp4" media="TV3_LT-$RepresentationID$-p=354802147220011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548021472200000" d="8000000" />
+          <S d="19200000" r="201" />
+          <S d="5600000" />
+          <S d="13600000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548021472200111" initialization="TV3_LT-$RepresentationID$-p=354802147220011-init.mp4" media="TV3_LT-$RepresentationID$-p=354802147220011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548021472200000" d="8000000" />
+          <S d="19200000" r="201" />
+          <S d="5600000" />
+          <S d="13600000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354802536420011" start="PT98556H15M36.420011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:eidr" value="md:cid:EIDR:10.5240%2F0000-8D07-C409-0000-0000-C" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="0" id="1057"><scte35:Signal><scte35:Binary>/DAnAAAAAAAAAP/wBQb+wREFEQARAg9DVUVJAAAEIX+/DAA1AADWtYEK</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548025364200111" initialization="TV3_LT-$RepresentationID$-p=354802536420011-init.mp4" media="TV3_LT-$RepresentationID$-p=354802536420011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548025358693334" d="5546666" />
+          <S d="13653334" />
+          <S d="19200000" r="696" />
+          <S d="3199999" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548025364200111" initialization="TV3_LT-$RepresentationID$-p=354802536420011-init.mp4" media="TV3_LT-$RepresentationID$-p=354802536420011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548025358693334" d="5546666" />
+          <S d="13653334" />
+          <S d="19200000" r="696" />
+          <S d="3199999" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548025364200111" initialization="TV3_LT-$RepresentationID$-p=354802536420011-init.mp4" media="TV3_LT-$RepresentationID$-p=354802536420011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548025364200000" d="13600000" />
+          <S d="19200000" r="696" />
+          <S d="3200000" />
+          <S d="16000000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548025364200111" initialization="TV3_LT-$RepresentationID$-p=354802536420011-init.mp4" media="TV3_LT-$RepresentationID$-p=354802536420011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548025364200000" d="13600000" />
+          <S d="19200000" r="696" />
+          <S d="3200000" />
+          <S d="16000000" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <Period id="period_354803876340011" start="PT98556H37M56.340011S">
+    <BaseURL>../_shared_625d242ed5edaa986dc74cfb39bd2321/</BaseURL>
+    <AssetIdentifier schemeIdUri="urn:smpte:ul:060E2B34.01040101.01200900.00000000" value="urn:adid:ANEV0001061" />
+    <EventStream schemeIdUri="urn:scte:scte35:2014:xml+bin" timescale="10000000">
+      <Event presentationTime="0" duration="4510000000" id="1061"><scte35:Signal><scte35:Binary>/DBSAAAAAAAAAP/wBQb+yEEesQA8AjpDVUVJAAAEJX//AAJrWrAMJE5FQUNleUpqYjI1MFpXNTBYMmxrSWpveE1EQTFNekkwT0gwPTQAAAAAuhYvow==</scte35:Binary></scte35:Signal></Event>
+    </EventStream>
+    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="lt" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548038763400111" initialization="TV3_LT-$RepresentationID$-p=354803876340011-init.mp4" media="TV3_LT-$RepresentationID$-p=354803876340011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548038760293334" d="3199999" />
+          <S d="16000001" />
+          <S d="19200000" r="58" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_lit=20000" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="2" group="1" mimeType="audio/mp4" lang="qaa" contentType="audio" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548038763400111" initialization="TV3_LT-$RepresentationID$-p=354803876340011-init.mp4" media="TV3_LT-$RepresentationID$-p=354803876340011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548038760293334" d="3199999" />
+          <S d="16000001" />
+          <S d="19200000" r="58" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="mp4a_96000_qaa=20001" bandwidth="96000" audioSamplingRate="48000" codecs="mp4a.40.2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2" />
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet id="3" group="3" mimeType="application/mp4" lang="lt" contentType="text" segmentAlignment="true">
+      <SupplementalProperty schemeIdUri="urn:ateme:dash:ASComponents" value="text" />
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548038763400111" initialization="TV3_LT-$RepresentationID$-p=354803876340011-init.mp4" media="TV3_LT-$RepresentationID$-p=354803876340011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548038763400000" d="16000000" />
+          <S d="19200000" r="58" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="dfxp_10000_lit_SUBT=30000" bandwidth="10000" codecs="stpp.ttml.im1t" />
+    </AdaptationSet>
+    <AdaptationSet id="4" group="2" mimeType="video/mp4" startWithSAP="1" contentType="video" par="16:9" minBandwidth="700000" maxBandwidth="5000000" minWidth="1024" maxWidth="1920" minHeight="576" maxHeight="1080" minFrameRate="25" maxFrameRate="50" segmentAlignment="true">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate timescale="10000000" presentationTimeOffset="3548038763400111" initialization="TV3_LT-$RepresentationID$-p=354803876340011-init.mp4" media="TV3_LT-$RepresentationID$-p=354803876340011-$Time$.mp4">
+        <SegmentTimeline>
+          <S t="3548038763400000" d="16000000" />
+          <S d="19200000" r="58" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation id="hvc1_700000=10003" bandwidth="700000" width="1024" height="576" sar="1:1" frameRate="25" codecs="hvc1.1.6.L93.B0" />
+      <Representation id="hvc1_1500000=10004" bandwidth="1500000" width="1280" height="720" sar="1:1" frameRate="25" codecs="hvc1.1.6.H120.B0" />
+      <Representation id="hvc1_5000000=10005" bandwidth="5000000" width="1920" height="1080" sar="1:1" frameRate="50" codecs="hvc1.1.6.H123.B0" />
+    </AdaptationSet>
+  </Period>
+  <UTCTiming schemeIdUri="urn:mpeg:dash:utc:http-iso:2014" value="https://time.akamai.com/?iso" />
+</MPD>
