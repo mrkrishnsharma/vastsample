@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
+	<Ad id="1" sequence="1">
+		<InLine>
+			<AdSystem><![CDATA[Reviveadservermod.com]]></AdSystem>
+			<AdTitle><![CDATA[ad 2]]></AdTitle>
+			<Impression>
+				<![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=impression]]>
+			</Impression>
+			<Creatives>
+				<Creative id="midroll-creative-1">
+					<Linear>
+						<Duration>00:00:60</Duration>
+						<TrackingEvents>
+							<Tracking event="start"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=start]]></Tracking>
+							<Tracking event="firstQuartile"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=firstquartile]]></Tracking>
+							<Tracking event="midpoint"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=midpoint]]></Tracking>
+							<Tracking event="thirdQuartile"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=thirdQuartile]]></Tracking>
+							<Tracking event="complete"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=complete]]></Tracking>
+							<Tracking event="pause"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=pause]]></Tracking>
+							<Tracking event="mute"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=mute]]></Tracking>
+							<Tracking event="fullscreen"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=fullscreen]]></Tracking>
+							<Tracking event="unmute"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=unmute]]></Tracking>
+							<Tracking event="closeLinear"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=closeLinear]]></Tracking>
+							<Tracking event="acceptInvitationLinear"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=acceptInvitationLinear]]></Tracking>
+							<Tracking event="skip"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=skip]]></Tracking>
+							<Tracking event="progress"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=progress]]></Tracking>
+							<Tracking event="exitFullscreen"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=exitFullscreen]]></Tracking>
+							<Tracking event="rewind"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=rewind]]></Tracking>
+							<Tracking event="resume"><![CDATA[https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=midroll-creative-1&campaign_id=midroll-campaign-1&placement_id=midroll-placement-1&event=resume]]></Tracking>
+						</TrackingEvents>
+
+						<MediaFiles>
+							<MediaFile delivery="progressive" bitrate="400" width='640' height='360'
+								type="video/mp4" scalable="true" maintainAspectRatio="true">
+								<![CDATA[https://r5---sn-qxaelner.c.2mdn.net/videoplayback/id/c432d17fd542ad44/itag/22/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3917081701/sparams/acao,ctier,expire,id,ip,ipbits,itag,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms,source,xpc/signature/31A6494DE71A65C298134044FAF599B772BFB9A0.0BB8B5CCA33EE87595BE9694830F09977C68BCA9/key/cms1/cms_redirect/yes/met/1777991146,/mh/KU/mip/27.34.73.168/mm/42/mn/sn-qxaelner/ms/onc/mt/1777990846/mv/m/mvi/5/pl/21/rms/onc,onc/file/file.mp4]]>
+							</MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
