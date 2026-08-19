@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:7
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-TARGETDURATION:6
 #EXT-X-MEDIA-SEQUENCE:95386741
 #EXT-X-KEY:METHOD=SAMPLE-AES,URI="skd://skd",KEYFORMAT="com.apple.streamingkeydelivery"
@@ -2344,4 +2343,3 @@ https://support-agent.g-mana.live/api/scenarios/Tv3TestSix/player/media/audio/10
 https://support-agent.g-mana.live/api/scenarios/Tv3TestSix/player/media/audio/1060.ts
 #EXTINF:3.84,
 https://support-agent.g-mana.live/api/scenarios/Tv3TestSix/player/media/audio/1061.ts
-#EXT-X-ENDLIST
