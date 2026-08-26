@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:6
 #EXT-X-TARGETDURATION:3
+#EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-MEDIA-SEQUENCE:104954558
 #EXT-X-DISCONTINUITY-SEQUENCE:0
 #EXTINF:2.002,
@@ -63,4 +64,4 @@ https://fast02.channels.ballys.tv/abr_default/FST02_abr_default/FST02_1080a/1049
 https://fast02.channels.ballys.tv/abr_default/FST02_abr_default/FST02_1080a/104954556.ts
 #EXTINF:2.002,
 https://fast02.channels.ballys.tv/abr_default/FST02_abr_default/FST02_1080a/104954557.ts
- 
+#EXT-X-ENDLIST
